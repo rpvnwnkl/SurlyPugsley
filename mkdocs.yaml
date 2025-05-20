@@ -1,0 +1,15 @@
+site_name: Surly Pugsley Wiki
+#site_url: https://yourusername.github.io/your-repo-name/  # Update if using a custom domain
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Bikes: bikes.md
+  - Wheelsets: wheelsets.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - codehilite
