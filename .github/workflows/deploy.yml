@@ -19,5 +19,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./site
           publish_branch: gh-pages
+          cname: surlypugsley.org   # 👈 This line adds the CNAME file automatically
           user_name: github-actions
           user_email: github-actions@github.com
