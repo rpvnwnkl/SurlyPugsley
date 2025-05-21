@@ -1,6 +1,6 @@
 # Surly Pugsley Wiki
 
-Welcome to the unofficial Surly Pugsley wiki — a home for riders, tinkerers, and builders.
+Welcome to the (very) unofficial Surly Pugsley wiki — a home for riders, tinkerers, and builders.
 
 ## Topics
 
