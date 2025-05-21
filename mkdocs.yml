@@ -1,5 +1,7 @@
 site_name: Surly Pugsley Wiki
 #site_url: https://yourusername.github.io/your-repo-name/  # Update if using a custom domain
+site_url: https://surlypugsley.org
+
 theme:
   name: material
 
