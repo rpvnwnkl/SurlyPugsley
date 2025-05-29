@@ -20,6 +20,19 @@ nav:
   - Home: index.md
   - History:
       - Overview: history/index.md
+  - Geometry: geometry/index.md
+  - Drivetrain: drivetrain/index.md
+  - “Use Cases”: use_cases/index.md
+  - Community: community/index.md
+  - “Tires & Wheels”: tires-wheels/index.md
+  - FAQ: faq/index.md
+  - Models:
+      - Overview: models/overview.md
+      - 2005: models/2005.md
+      - 2010: models/2010.md
+      
+  # …and your existing Components, Builds, Guides, Misc sections
+  
   - Models:
       - Overview: models/overview.md
       - 2005: models/2005.md
