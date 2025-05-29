@@ -4,8 +4,7 @@ site_url: https://surlypugsley.org
 cname: surlypugsley.org
 
 theme:
-  name: null
-  custom_dir: theme
+  name: cinder
 
 extra_css:
   - assets/main.css
