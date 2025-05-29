@@ -70,6 +70,46 @@ nav {
   }
 }
 
+/* Basic flex layout */
+.layout {
+  display: flex;
+  min-height: calc(100vh - 3rem); /* adjust if your header is taller */
+}
+
+/* Sidebar styling */
+#sidebar {
+  background: #f7f7f7;
+  border-right: 1px solid #ddd;
+  overflow-y: auto;
+  transition: none;        /* we’ll force it on desktop */
+}
+
+/* Sidebar hidden by default (mobile) */
+#sidebar.collapsed {
+  display: none;
+}
+
+/* Main content area grows to fill */
+main.content {
+  flex: 1;
+  padding: 1rem;
+}
+
+/* Desktop overrides: show sidebar, hide toggle */
+@media (min-width: 768px) {
+  #menu-toggle {
+    display: none;
+  }
+  #sidebar.collapsed {
+    display: block !important;
+  }
+  #sidebar {
+    width: 240px;         /* sidebar width */
+    position: relative;   /* so it sits next to content */
+    display: block;
+  }
+}
+
 
 /* Screen reader only text */
 .sr-only {
