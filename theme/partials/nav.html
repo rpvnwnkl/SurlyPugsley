@@ -1,4 +1,20 @@
 {# theme/partials/nav.html #}
-{% if nav %}
-  {{ nav.to_html() | safe }}
-{% endif %}
+{% macro render_item(item) -%}
+  <li>
+    <a href="{{ base_url }}{{ item.url }}">{{ item.title }}</a>
+    {%- if item.children -%}
+      <ul>
+        {%- for child in item.children -%}
+          {{ render_item(child) }}
+        {%- endfor -%}
+      </ul>
+    {%- endif -%}
+  </li>
+{%- endmacro %}
+
+{# Render the top-level list #}
+<ul>
+  {%- for item in nav.items -%}
+    {{ render_item(item) }}
+  {%- endfor -%}
+</ul>
