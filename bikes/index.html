@@ -21,9 +21,44 @@
   </div>
 </header>
 
-  <main class="content">
+  <div class="layout">
+    <!-- This is your collapsible sidebar -->
+    <nav id="sidebar" class="collapsed">
+      
+  Page(title='Home', url='/')
+Section(title='History')
+    Page(title='Overview', url='/history/')
+Section(title='Models')
+    Page(title='Overview', url='/models/overview/')
+    Page(title=2005, url='/models/2005/')
+    Page(title=2010, url='/models/2010/')
+Section(title='Components')
+    Page(title='Frames', url='/components/frames/')
+    Page(title='Wheels', url='/components/wheels/')
+    Page(title='Cranks', url='/components/cranks/')
+    Page(title='Forks', url='/components/forks/')
+Section(title='Builds')
+    Page(title='Commuting', url='/builds/commuting/')
+    Page(title='Expedition', url='/builds/expedition/')
+    Page(title='Snow Riding', url='/builds/snow/')
+Section(title='Maintenance')
+    Page(title='FAQ', url='/maintenance/faq/')
+    Page(title='Bottom Brackets', url='/maintenance/bb_shells/')
+    Page(title='Chainlines', url='/maintenance/chainlines/')
+Section(title='Guides')
+    Page(title='Gearing', url='/guides/gearing/')
+    Page(title='Rack Mounting', url='/guides/rack_mounting/')
+    Page(title='Winterizing', url='/guides/winterizing/')
+Section(title='Misc')
+    Page(title='Culture', url='/misc/culture/')
+
+    </nav>
     
-  </main>
+    <!-- Main content area -->
+    <main class="content">
+    
+    </main>
+  </div>
 
   <footer>
   <p>&copy; 2025 <a href="/">SurlyPugsley.org</a> — A wiki for fat bike nerds.</p>
