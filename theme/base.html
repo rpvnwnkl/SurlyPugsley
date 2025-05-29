@@ -9,9 +9,17 @@
 <body>
   {% include "partials/header.html" %}
 
-  <main class="content">
+  <div class="layout">
+    <!-- This is your collapsible sidebar -->
+    <nav id="sidebar" class="collapsed">
+      {% include "partials/nav.html" %}
+    </nav>
+    
+    <!-- Main content area -->
+    <main class="content">
     {{ content }}
-  </main>
+    </main>
+  </div>
 
   {% include "partials/footer.html" %}
 </body>
