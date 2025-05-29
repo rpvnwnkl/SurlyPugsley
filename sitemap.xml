@@ -2,10 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://surlypugsley.org/</loc>
-         <lastmod>2025-05-21</lastmod>
+         <lastmod>2025-05-29</lastmod>
     </url>
     <url>
          <loc>https://surlypugsley.org/bikes/</loc>
-         <lastmod>2025-05-21</lastmod>
+         <lastmod>2025-05-29</lastmod>
+    </url>
+    <url>
+         <loc>https://surlypugsley.org/builds/commuting/</loc>
+         <lastmod>2025-05-29</lastmod>
+    </url>
+    <url>
+         <loc>https://surlypugsley.org/builds/expedition/</loc>
+         <lastmod>2025-05-29</lastmod>
+    </url>
+    <url>
+         <loc>https://surlypugsley.org/builds/snow/</loc>
+         <lastmod>2025-05-29</lastmod>
+    </url>
+    <url>
+         <loc>https://surlypugsley.org/components/cranks/</loc>
+         <lastmod>2025-05-29</lastmod>
+    </url>
+    <url>
+         <loc>https://surlypugsley.org/components/forks/</loc>
+         <lastmod>2025-05-29</lastmod>
+    </url>
+    <url>
+         <loc>https://surlypugsley.org/components/frames/</loc>
+         <lastmod>2025-05-29</lastmod>
+    </url>
+    <url>
+         <loc>https://surlypugsley.org/components/wheels/</loc>
+         <lastmod>2025-05-29</lastmod>
+    </url>
+    <url>
+         <loc>https://surlypugsley.org/guides/gearing/</loc>
+         <lastmod>2025-05-29</lastmod>
+    </url>
+    <url>
+         <loc>https://surlypugsley.org/guides/rack_mounting/</loc>
+         <lastmod>2025-05-29</lastmod>
+    </url>
+    <url>
+         <loc>https://surlypugsley.org/guides/winterizing/</loc>
+         <lastmod>2025-05-29</lastmod>
+    </url>
+    <url>
+         <loc>https://surlypugsley.org/history/</loc>
+         <lastmod>2025-05-29</lastmod>
+    </url>
+    <url>
+         <loc>https://surlypugsley.org/maintenance/bb_shells/</loc>
+         <lastmod>2025-05-29</lastmod>
+    </url>
+    <url>
+         <loc>https://surlypugsley.org/maintenance/chainlines/</loc>
+         <lastmod>2025-05-29</lastmod>
+    </url>
+    <url>
+         <loc>https://surlypugsley.org/maintenance/faq/</loc>
+         <lastmod>2025-05-29</lastmod>
+    </url>
+    <url>
+         <loc>https://surlypugsley.org/misc/culture/</loc>
+         <lastmod>2025-05-29</lastmod>
+    </url>
+    <url>
+         <loc>https://surlypugsley.org/models/2005/</loc>
+         <lastmod>2025-05-29</lastmod>
+    </url>
+    <url>
+         <loc>https://surlypugsley.org/models/2010/</loc>
+         <lastmod>2025-05-29</lastmod>
+    </url>
+    <url>
+         <loc>https://surlypugsley.org/models/overview/</loc>
+         <lastmod>2025-05-29</lastmod>
     </url>
 </urlset>
