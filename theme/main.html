@@ -1,3 +1,13 @@
 {# theme/main.html #}
 {% extends "base.html" %}
-{# MkDocs will render `{{ content }}` in your base.html #}
+
+{% block content %}
+  <div class="layout">
+    <nav id="sidebar" class="collapsed">
+      {% include "partials/nav.html" %}
+    </nav>
+    <main class="content">
+      {{ page.content | safe }}
+    </main>
+  </div>
+{% endblock %}
