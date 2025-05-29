@@ -28,9 +28,48 @@ nav {
   transition: max-height 0.3s ease-out;
 }
 
+/* Hide sidebar by default (mobile) */
 #sidebar.collapsed {
   display: none;
 }
+
+/* Show sidebar when not collapsed */
+#sidebar {
+  display: block;
+}
+
+/* Hide the toggle button on large screens */
+@media (min-width: 768px) {
+  #menu-toggle {
+    display: none;
+  }
+  /* Force sidebar open on desktop */
+  #sidebar {
+    display: block !important;
+    position: static;
+    width: 250px;       /* adjust to taste */
+    border-right: 1px solid #ddd;
+    padding: 1rem;
+  }
+  .layout {
+    display: flex;
+  }
+  .layout > main.content {
+    flex: 1;
+    padding: 1rem;
+  }
+}
+
+/* On mobile, stack content under header */
+@media (max-width: 767px) {
+  .layout {
+    display: block;
+  }
+  .layout > main.content {
+    padding: 1rem;
+  }
+}
+
 
 /* Screen reader only text */
 .sr-only {
