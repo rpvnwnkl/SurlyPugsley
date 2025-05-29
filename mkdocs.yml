@@ -1,17 +1,39 @@
 site_name: Surly Pugsley Wiki
-#site_url: https://yourusername.github.io/your-repo-name/  # Update if using a custom domain
+repo_url: https://github.com/YOUR_USERNAME/YOUR_REPO
 site_url: https://surlypugsley.org
-
 theme:
-  name: material
-
+  name: null
+  custom_dir: theme
+extra_css:
+  - assets/main.css
+extra_javascript:
+  - assets/main.js
+plugins:
+  - search
 nav:
   - Home: index.md
-  - Bikes: bikes.md
-  - Wheelsets: wheelsets.md
-
-markdown_extensions:
-  - toc:
-      permalink: true
-  - admonition
-  - codehilite
+  - History:
+      - Overview: history/index.md
+  - Models:
+      - Overview: models/overview.md
+      - 2005: models/2005.md
+      - 2010: models/2010.md
+  - Components:
+      - Frames: components/frames.md
+      - Wheels: components/wheels.md
+      - Cranks: components/cranks.md
+      - Forks: components/forks.md
+  - Builds:
+      - Commuting: builds/commuting.md
+      - Expedition: builds/expedition.md
+      - Snow Riding: builds/snow.md
+  - Maintenance:
+      - FAQ: maintenance/faq.md
+      - Bottom Brackets: maintenance/bb_shells.md
+      - Chainlines: maintenance/chainlines.md
+  - Guides:
+      - Gearing: guides/gearing.md
+      - Rack Mounting: guides/rack_mounting.md
+      - Winterizing: guides/winterizing.md
+  - Misc:
+      - Culture: misc/culture.md
