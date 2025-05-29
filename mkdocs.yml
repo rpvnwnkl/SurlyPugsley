@@ -1,15 +1,21 @@
 site_name: Surly Pugsley Wiki
-repo_url: https://github.com/YOUR_USERNAME/YOUR_REPO
+repo_url: https://github.com/rpvnwnkl/surlypugsley
 site_url: https://surlypugsley.org
+cname: surlypugsley.org
+
 theme:
   name: null
   custom_dir: theme
+
 extra_css:
   - assets/main.css
+
 extra_javascript:
   - assets/main.js
+
 plugins:
   - search
+
 nav:
   - Home: index.md
   - History:
