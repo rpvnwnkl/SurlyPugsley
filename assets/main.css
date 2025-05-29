@@ -1,14 +1,16 @@
-
+/* ------------------------------------------------------------------
+   Base & Reset
+   ------------------------------------------------------------------ */
 body {
-  font-family: sans-serif;
   margin: 0;
+  font-family: sans-serif;
 }
 
 header {
   display: flex;
   align-items: center;
   background: #111;
-  color: white;
+  color: #fff;
   padding: 0.5rem 1rem;
 }
 
@@ -16,109 +18,90 @@ header {
   margin-left: 1rem;
 }
 
+/* ------------------------------------------------------------------
+   Hamburger Toggle
+   ------------------------------------------------------------------ */
 #menu-toggle {
   background: none;
   border: none;
   font-size: 2rem;
-  color: white;
+  color: #fff;
   cursor: pointer;
 }
 
-nav {
-  transition: max-height 0.3s ease-out;
-}
-
-/* Hide sidebar by default (mobile) */
-#sidebar.collapsed {
-  display: none;
-}
-
-/* Show sidebar when not collapsed */
-#sidebar {
-  display: block;
-}
-
-/* Hide the toggle button on large screens */
-@media (min-width: 768px) {
-  #menu-toggle {
-    display: none;
-  }
-  /* Force sidebar open on desktop */
-  #sidebar {
-    display: block !important;
-    position: static;
-    width: 250px;       /* adjust to taste */
-    border-right: 1px solid #ddd;
-    padding: 1rem;
-  }
-  .layout {
-    display: flex;
-  }
-  .layout > main.content {
-    flex: 1;
-    padding: 1rem;
-  }
-}
-
-/* On mobile, stack content under header */
-@media (max-width: 767px) {
-  .layout {
-    display: block;
-  }
-  .layout > main.content {
-    padding: 1rem;
-  }
-}
-
-/* Basic flex layout */
+/* ------------------------------------------------------------------
+   Layout Wrapper
+   ------------------------------------------------------------------ */
 .layout {
   display: flex;
-  min-height: calc(100vh - 3rem); /* adjust if your header is taller */
+  flex-wrap: nowrap;
+  min-height: calc(100vh - 3rem); /* adjust if header height changes */
 }
 
-/* Sidebar styling */
+/* ------------------------------------------------------------------
+   Sidebar
+   ------------------------------------------------------------------ */
 #sidebar {
   background: #f7f7f7;
   border-right: 1px solid #ddd;
   overflow-y: auto;
-  transition: none;        /* we’ll force it on desktop */
+  width: 240px;      /* desktop width */
+  padding: 1rem;
+  transition: none;
 }
 
-/* Sidebar hidden by default (mobile) */
+/* Hide on mobile unless toggled open */
 #sidebar.collapsed {
   display: none;
 }
 
-/* Main content area grows to fill */
+/* ------------------------------------------------------------------
+   Main Content
+   ------------------------------------------------------------------ */
 main.content {
   flex: 1;
   padding: 1rem;
 }
 
-/* Desktop overrides: show sidebar, hide toggle */
-@media (min-width: 768px) {
-  #menu-toggle {
-    display: none;
-  }
-  #sidebar.collapsed {
-    display: block !important;
-  }
-  #sidebar {
-    width: 240px;         /* sidebar width */
-    position: relative;   /* so it sits next to content */
-    display: block;
-  }
-}
-
-
-/* Screen reader only text */
+/* ------------------------------------------------------------------
+   Accessibility
+   ------------------------------------------------------------------ */
 .sr-only {
   position: absolute;
   width: 1px;
   height: 1px;
   padding: 0;
+  border: 0;
   overflow: hidden;
   clip: rect(0, 0, 0, 0);
   white-space: nowrap;
-  border: 0;
+}
+
+/* ------------------------------------------------------------------
+   Responsive Breakpoints
+   ------------------------------------------------------------------ */
+/* Mobile (up to 767px) */
+@media (max-width: 767px) {
+  .layout {
+    display: block;
+  }
+  #menu-toggle {
+    display: block;
+  }
+  #sidebar {
+    width: 100%;
+    border-right: none;
+  }
+}
+
+/* Desktop (768px and up) */
+@media (min-width: 768px) {
+  #menu-toggle {
+    display: none;
+  }
+  /* Force sidebar visible on desktop */
+  #sidebar {
+    display: block !important;
+    position: static;
+  }
 }
