@@ -5,7 +5,7 @@ on:
   push:
     branches:
       - main
-      - feature/theme-setup
+      - theme-setup
 
 jobs:
   build-and-deploy:
