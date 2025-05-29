@@ -1,7 +1,8 @@
+{# theme/base.html #}
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="utf-8">
   <title>{{ config.site_name }}</title>
   <link rel="stylesheet" href="{{ base_url }}/assets/main.css">
   <script src="{{ base_url }}/assets/main.js" defer></script>
@@ -9,17 +10,8 @@
 <body>
   {% include "partials/header.html" %}
 
-  <div class="layout">
-    <!-- This is your collapsible sidebar -->
-    <nav id="sidebar" class="collapsed">
-      {% include "partials/nav.html" %}
-    </nav>
-    
-    <!-- Main content area -->
-    <main class="content">
-    {{ content }}
-    </main>
-  </div>
+  {# child templates will inject here #}
+  {% block content %}{% endblock %}
 
   {% include "partials/footer.html" %}
 </body>
