@@ -1,107 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://surlypugsley.org/</loc>
-         <lastmod>2025-05-30</lastmod>
+         <loc>https://www.surlypugsley.org/</loc>
+         <lastmod>2025-05-31</lastmod>
     </url>
     <url>
-         <loc>https://surlypugsley.org/bikes/</loc>
-         <lastmod>2025-05-30</lastmod>
+         <loc>https://www.surlypugsley.org/about/</loc>
+         <lastmod>2025-05-31</lastmod>
     </url>
     <url>
-         <loc>https://surlypugsley.org/builds/commuting/</loc>
-         <lastmod>2025-05-30</lastmod>
+         <loc>https://www.surlypugsley.org/drivetrain/</loc>
+         <lastmod>2025-05-31</lastmod>
     </url>
     <url>
-         <loc>https://surlypugsley.org/builds/expedition/</loc>
-         <lastmod>2025-05-30</lastmod>
+         <loc>https://www.surlypugsley.org/drivetrain/electric/</loc>
+         <lastmod>2025-05-31</lastmod>
     </url>
     <url>
-         <loc>https://surlypugsley.org/builds/snow/</loc>
-         <lastmod>2025-05-30</lastmod>
+         <loc>https://www.surlypugsley.org/drivetrain/fixedgear/</loc>
+         <lastmod>2025-05-31</lastmod>
     </url>
     <url>
-         <loc>https://surlypugsley.org/community/</loc>
-         <lastmod>2025-05-30</lastmod>
+         <loc>https://www.surlypugsley.org/drivetrain/geared/</loc>
+         <lastmod>2025-05-31</lastmod>
     </url>
     <url>
-         <loc>https://surlypugsley.org/components/cranks/</loc>
-         <lastmod>2025-05-30</lastmod>
+         <loc>https://www.surlypugsley.org/drivetrain/igh/</loc>
+         <lastmod>2025-05-31</lastmod>
     </url>
     <url>
-         <loc>https://surlypugsley.org/components/forks/</loc>
-         <lastmod>2025-05-30</lastmod>
+         <loc>https://www.surlypugsley.org/drivetrain/singlespeed/</loc>
+         <lastmod>2025-05-31</lastmod>
     </url>
     <url>
-         <loc>https://surlypugsley.org/components/frames/</loc>
-         <lastmod>2025-05-30</lastmod>
+         <loc>https://www.surlypugsley.org/frame/</loc>
+         <lastmod>2025-05-31</lastmod>
     </url>
     <url>
-         <loc>https://surlypugsley.org/components/wheels/</loc>
-         <lastmod>2025-05-30</lastmod>
+         <loc>https://www.surlypugsley.org/frame/fork/</loc>
+         <lastmod>2025-05-31</lastmod>
     </url>
     <url>
-         <loc>https://surlypugsley.org/drivetrain/</loc>
-         <lastmod>2025-05-30</lastmod>
+         <loc>https://www.surlypugsley.org/frame/geometry/</loc>
+         <lastmod>2025-05-31</lastmod>
     </url>
     <url>
-         <loc>https://surlypugsley.org/faq/</loc>
-         <lastmod>2025-05-30</lastmod>
+         <loc>https://www.surlypugsley.org/frame/headset/</loc>
+         <lastmod>2025-05-31</lastmod>
     </url>
     <url>
-         <loc>https://surlypugsley.org/geometry/</loc>
-         <lastmod>2025-05-30</lastmod>
+         <loc>https://www.surlypugsley.org/pugsley/buying-guide/</loc>
+         <lastmod>2025-05-31</lastmod>
     </url>
     <url>
-         <loc>https://surlypugsley.org/guides/gearing/</loc>
-         <lastmod>2025-05-30</lastmod>
+         <loc>https://www.surlypugsley.org/pugsley/history/</loc>
+         <lastmod>2025-05-31</lastmod>
     </url>
     <url>
-         <loc>https://surlypugsley.org/guides/rack_mounting/</loc>
-         <lastmod>2025-05-30</lastmod>
+         <loc>https://www.surlypugsley.org/pugsley/overview/</loc>
+         <lastmod>2025-05-31</lastmod>
     </url>
     <url>
-         <loc>https://surlypugsley.org/guides/winterizing/</loc>
-         <lastmod>2025-05-30</lastmod>
+         <loc>https://www.surlypugsley.org/pugsley/quirks/</loc>
+         <lastmod>2025-05-31</lastmod>
     </url>
     <url>
-         <loc>https://surlypugsley.org/history/</loc>
-         <lastmod>2025-05-30</lastmod>
+         <loc>https://www.surlypugsley.org/references/faq/</loc>
+         <lastmod>2025-05-31</lastmod>
     </url>
     <url>
-         <loc>https://surlypugsley.org/maintenance/bb_shells/</loc>
-         <lastmod>2025-05-30</lastmod>
+         <loc>https://www.surlypugsley.org/references/links/</loc>
+         <lastmod>2025-05-31</lastmod>
     </url>
     <url>
-         <loc>https://surlypugsley.org/maintenance/chainlines/</loc>
-         <lastmod>2025-05-30</lastmod>
+         <loc>https://www.surlypugsley.org/references/manuals/</loc>
+         <lastmod>2025-05-31</lastmod>
     </url>
     <url>
-         <loc>https://surlypugsley.org/maintenance/faq/</loc>
-         <lastmod>2025-05-30</lastmod>
+         <loc>https://www.surlypugsley.org/usage/</loc>
+         <lastmod>2025-05-31</lastmod>
     </url>
     <url>
-         <loc>https://surlypugsley.org/misc/culture/</loc>
-         <lastmod>2025-05-30</lastmod>
+         <loc>https://www.surlypugsley.org/usage/cold-weather/</loc>
+         <lastmod>2025-05-31</lastmod>
     </url>
     <url>
-         <loc>https://surlypugsley.org/models/2005/</loc>
-         <lastmod>2025-05-30</lastmod>
+         <loc>https://www.surlypugsley.org/usage/maintenance/</loc>
+         <lastmod>2025-05-31</lastmod>
     </url>
     <url>
-         <loc>https://surlypugsley.org/models/2010/</loc>
-         <lastmod>2025-05-30</lastmod>
+         <loc>https://www.surlypugsley.org/usage/packing/</loc>
+         <lastmod>2025-05-31</lastmod>
     </url>
     <url>
-         <loc>https://surlypugsley.org/models/overview/</loc>
-         <lastmod>2025-05-30</lastmod>
+         <loc>https://www.surlypugsley.org/usage/upgrades/</loc>
+         <lastmod>2025-05-31</lastmod>
     </url>
     <url>
-         <loc>https://surlypugsley.org/tires-wheels/</loc>
-         <lastmod>2025-05-30</lastmod>
+         <loc>https://www.surlypugsley.org/wheels/</loc>
+         <lastmod>2025-05-31</lastmod>
     </url>
     <url>
-         <loc>https://surlypugsley.org/use_cases/</loc>
-         <lastmod>2025-05-30</lastmod>
+         <loc>https://www.surlypugsley.org/wheels/hubs/</loc>
+         <lastmod>2025-05-31</lastmod>
+    </url>
+    <url>
+         <loc>https://www.surlypugsley.org/wheels/rims/</loc>
+         <lastmod>2025-05-31</lastmod>
+    </url>
+    <url>
+         <loc>https://www.surlypugsley.org/wheels/tires/</loc>
+         <lastmod>2025-05-31</lastmod>
     </url>
 </urlset>
