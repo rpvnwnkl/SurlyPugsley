@@ -1,37 +1,47 @@
-# .github/workflows/deploy-mkdocs.yml
-name: Deploy MkDocs site
+name: Deploy MkDocs Site
 
+# Trigger on pushes to the "restructure" branch
 on:
   push:
     branches:
-      - main
-      - theme-setup
+      - restructure
 
 jobs:
   build-and-deploy:
+    name: Build MkDocs and Deploy to GitHub Pages
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out code
-        uses: actions/checkout@v3
+      # 1) Check out the repository (this brings in mkdocs.yml, docs/, and theme/)
+      - name: Check out repository
+        uses: actions/checkout@v4
 
-      - name: Set up Python
+      # 2) Set up Python (MkDocs requires ≥3.7)
+      - name: Set up Python 3.x
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          python-version: "3.x"
 
-      - name: Install dependencies
+      # 3) Install MkDocs (and any plugins you need)
+      - name: Install MkDocs dependencies
         run: |
-          pip install mkdocs mkdocs-cinder
+          pip install --upgrade pip
+          pip install mkdocs mkdocs-material
+          # If you use other MkDocs plugins (e.g. pymdown-extensions), install them here:
+          # pip install pymdown-extensions
 
-      - name: Build the site
-        run: mkdocs build --site-dir site
+      # 4) Build the static site into "site/"
+      - name: Build MkDocs site
+        run: |
+          mkdocs build \
+            --config-file mkdocs.yml \
+            --site-dir site
 
+      # 5) Deploy "site/" to the "gh-pages" branch, creating a CNAME file automatically
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./site
           publish_branch: gh-pages
-      - name: Create CNAME file
-        run: echo "surlypugsley.org" > site/CNAME
+          publish_dir: site
+          cname: www.surlypugsley.org
