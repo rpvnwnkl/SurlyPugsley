@@ -1,58 +1,62 @@
-site_name: Surly Pugsley Wiki
-repo_url: https://github.com/rpvnwnkl/surlypugsley
-site_url: https://surlypugsley.org
-cname: surlypugsley.org
+site_name: "Surly Pugsley Wiki"
+site_url: https://www.surlypugsley.org/
+repo_name: "rpvnwnkl/SurlyPugsley"
+edit_uri: ""      # disable the default "Edit on GitHub" link if you like
 
 theme:
-  name: null
-  custom_dir: theme
+  name: null             # use a completely custom theme directory
+  custom_dir: theme      # ← this tells MkDocs to look under /theme/
+  static_templates:
+    - 404.html           # if you had a custom 404
 
-extra_css:
-  - assets/main.css
-
-extra_javascript:
-  - assets/main.js
-
-plugins:
-  - search
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - footnotes
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.magiclink
+  - pymdownx.tasklist
 
 nav:
   - Home: index.md
-  - History:
-      - Overview: history/index.md
-  - Geometry: geometry/index.md
-  - Drivetrain: drivetrain/index.md
-  - “Use Cases”: use_cases/index.md
-  - Community: community/index.md
-  - “Tires & Wheels”: tires-wheels/index.md
-  - FAQ: faq/index.md
-  - Models:
-      - Overview: models/overview.md
-      - 2005: models/2005.md
-      - 2010: models/2010.md
-      
-  # …and your existing Components, Builds, Guides, Misc sections
-  
-  - Models:
-      - Overview: models/overview.md
-      - 2005: models/2005.md
-      - 2010: models/2010.md
-  - Components:
-      - Frames: components/frames.md
-      - Wheels: components/wheels.md
-      - Cranks: components/cranks.md
-      - Forks: components/forks.md
-  - Builds:
-      - Commuting: builds/commuting.md
-      - Expedition: builds/expedition.md
-      - Snow Riding: builds/snow.md
-  - Maintenance:
-      - FAQ: maintenance/faq.md
-      - Bottom Brackets: maintenance/bb_shells.md
-      - Chainlines: maintenance/chainlines.md
-  - Guides:
-      - Gearing: guides/gearing.md
-      - Rack Mounting: guides/rack_mounting.md
-      - Winterizing: guides/winterizing.md
-  - Misc:
-      - Culture: misc/culture.md
+  - About: about.md
+
+  - Pugsley:
+      - Overview: pugsley/overview.md
+      - History:   pugsley/history.md
+      - Quirks:    pugsley/quirks.md
+      - Buying Guide: pugsley/buying-guide.md
+
+  - Frame:
+      - Frame & Fork & Headset: frame/index.md
+      - Geometry:                frame/geometry.md
+      - Forks:                   frame/fork.md
+      - Headsets:                frame/headset.md
+
+  - Wheels:
+      - Overview: wheels/index.md
+      - Rims:      wheels/rims.md
+      - Hubs:      wheels/hubs.md
+      - Tires:     wheels/tires.md
+
+  - Drivetrain:
+      - Overview:    drivetrain/index.md
+      - Geared:      drivetrain/geared.md
+      - Singlespeed: drivetrain/singlespeed.md
+      - Fixed Gear:  drivetrain/fixedgear.md
+      - IGH:         drivetrain/igh.md
+      - Electric:    drivetrain/electric.md
+
+  - Usage & Maintenance:
+      - Overview:         usage/index.md
+      - Maintenance:      usage/maintenance.md
+      - Upgrades:         usage/upgrades.md
+      - Packing & Racks:  usage/packing.md
+      - Cold Weather Use: usage/cold-weather.md
+
+  - References:
+      - FAQ:     references/faq.md
+      - Manuals: references/manuals.md
+      - Links:   references/links.md
