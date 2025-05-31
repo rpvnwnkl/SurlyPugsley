@@ -56,12 +56,8 @@ Below is a concise, year-by-year overview of the Surly Pugsley’s evolution. Ea
   From 2011–2013, the Pugsley frame still used **135 mm front and rear spacing** and a **straight 1 ⅛″ head tube**—no new taper or narrow dropout ever appeared on a complete build.  
 
 - **Seat-Tube Reinforcing Tube (“Gusset”)**  
-  Starting in the 2011 model year, Surly added a small chromoly gusset (a reinforcing tube) between the seat tube and top tube to reduce stress at the seat-stay junction. This is the same style of “seat-tube reinforcing tube” Surly had already introduced on the Ogre and ECR frames.  
-  > “2010 also saw a modest redesign of the Pugsley incorporating the seat tube reinforcing tube… as well as some changes to the brazons to make the Pug even more versatile.”  
-  (Original: https://fullspectrumcycling.com/surly-pugsley/, Archived: https://web.archive.org/web/20240501000000/https://fullspectrumcycling.com/surly-pugsley/)   
-
-  Many owners reported small cracks “just behind the seat stay … right where the failures were on some 2010 frames.” Surly’s solution was this gusset—no geometry or dropout width was altered.  
-  (MTBR owner report: https://www.mtbr.com/threads/pugsley-frame-failure.828024/, Archived: https://web.archive.org/web/20230501000000/https://www.mtbr.com/threads/pugsley-frame-failure.828024/)   
+    Starting in the 2011 model year, Surly added a small chromoly gusset between the seat tube and top tube …  
+    (See [Frame Reinforcements & Gussets](../frame/reinforcements.md) for details.)
 
 ---
 
