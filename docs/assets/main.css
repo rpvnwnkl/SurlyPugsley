@@ -105,3 +105,27 @@ main.content {
     position: static;
   }
 }
+
+/* Make images in markdown responsive */
+.markdown-body img, .md-content img, main.content img, .content img, img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5rem auto;
+  box-sizing: border-box;
+}
+
+/* Ensure images never overflow their container and allow shrinking */
+img {
+  width: 100%;
+  max-width: 700px; /* Optional: set a max width for large screens */
+  height: auto;
+}
+
+/* Optional: Make images shrink on smaller screens */
+@media (max-width: 700px) {
+  img {
+    max-width: 100%;
+    width: 100%;
+  }
+}
