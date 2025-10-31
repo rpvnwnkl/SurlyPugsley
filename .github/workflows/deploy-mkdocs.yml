@@ -1,42 +1,36 @@
 name: Deploy MkDocs Site
-
 # Trigger on pushes to the "restructure" branch
 on:
   push:
     branches:
-      - content-updates
+      - main
 
 jobs:
   build-and-deploy:
     name: Build MkDocs and Deploy to GitHub Pages
     runs-on: ubuntu-latest
-
     steps:
       # 1) Check out the repository (this brings in mkdocs.yml, docs/, and theme/)
       - name: Check out repository
         uses: actions/checkout@v4
-
       # 2) Set up Python (MkDocs requires ≥3.7)
       - name: Set up Python 3.x
         uses: actions/setup-python@v4
         with:
           python-version: "3.x"
-
-      # 3) Install MkDocs (and any plugins you need)
+      # 3)Install MkDocs (and any plugins you need)
       - name: Install MkDocs dependencies
         run: |
           pip install --upgrade pip
           pip install mkdocs mkdocs-material
           # If you use other MkDocs plugins (e.g. pymdown-extensions), install them here:
           # pip install pymdown-extensions
-
       # 4) Build the static site into "site/"
       - name: Build MkDocs site
         run: |
           mkdocs build \
             --config-file mkdocs.yml \
             --site-dir site
-
       # 5) Deploy "site/" to the "gh-pages" branch, creating a CNAME file automatically
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
