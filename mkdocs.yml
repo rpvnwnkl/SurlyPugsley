@@ -35,7 +35,8 @@ nav:
       - Forks:                   frame/fork.md
       - Headsets:                frame/headset.md
 
-  - Wheels:        wheels/index.md
+  - Wheels:
+      - Overview: wheels/index.md
       - Rims:      wheels/rims.md
       - Hubs:      wheels/hubs.md
       - Tires:     wheels/tires.md
