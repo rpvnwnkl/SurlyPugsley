@@ -1,6 +1,6 @@
 # Frame, Fork, and Headset
 
-The Pugsley was one of the first commercially available fat bike framesets, and its offset design remains its standout feature. Yes, those curves in the stays and fork are supposed to look like that. Using 135 mm rear spacing with a 17.5 mm drive‑side offset, the frame lets the drivetrain clear fat tires. With the right rim and drivetrain setup, a Pugsley will run tyres up to about 4.8 inches wide, but also accepts 26″, 27.5″ (650b) and 29″/700c wheelsets. Both frame and fork come with braze‑ons for racks, bottle cages and fenders. For detailed geometry and specifications, see the official Pugsley frame sheet.  
+The Pugsley was one of the first commercially available fat bike framesets, and its off‑set design remains its standout feature. Using 135 mm rear spacing with a 17.5 mm drive‑side offset, the frame lets fat tyres clear the chain and allows you to swap front and rear wheels. With the right rim and drivetrain setup, a Pugsley will run tyres up to about 4.8 inches wide and accepts 26″, 27.5″ (650b) and 29″/700c wheelsets. Both frame and fork come with braze‑ons for racks, bottle cages and fenders. For detailed geometry and specifications, see the official Pugsley frame sheet.  
 
 | Feature | Specification |  
 | --- | --- |  
