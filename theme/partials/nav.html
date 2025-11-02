@@ -4,25 +4,22 @@
     {# If the item has a URL render a link. Otherwise, if it has children look for an "Overview"
        child (or an index page) to link the header to — and hide that child from the submenu.
        Fallback: render plain text for a section header. #}
-    {%- set link_child = None -%}
+    {# Find a child to use as the header link (Overview or index) without using break/continue #}
+    {%- set ns = namespace(link=None) -%}
     {%- if item.children -%}
       {%- for child in item.children -%}
-        {%- if child.title is defined and child.title|lower == 'overview' -%}
-          {%- set link_child = child -%}
-          {%- break -%}
-        {%- endif -%}
-        {# also treat child pages ending with 'index.html' as overview pages #}
-        {%- if child.url is defined and child.url.endswith('index.html') -%}
-          {%- set link_child = child -%}
-          {%- break -%}
+        {%- if ns.link is none and child.title is defined and child.title|lower == 'overview' -%}
+          {%- set ns.link = child.url -%}
+        {%- elif ns.link is none and child.url is defined and child.url.endswith('index.html') -%}
+          {%- set ns.link = child.url -%}
         {%- endif -%}
       {%- endfor -%}
     {%- endif -%}
 
     {%- if item.url -%}
       <a href="{{ item.url | url }}">{{ item.title }}</a>
-    {%- elif link_child -%}
-      <a href="{{ link_child.url | url }}">{{ item.title }}</a>
+    {%- elif ns.link -%}
+      <a href="{{ ns.link | url }}">{{ item.title }}</a>
     {%- else -%}
       <span class="nav-section">{{ item.title }}</span>
     {%- endif -%}
@@ -30,11 +27,11 @@
     {%- if item.children -%}
       <ul>
         {%- for child in item.children -%}
-          {# skip the link_child so it doesn't appear twice in the menu #}
-          {%- if link_child and child is sameas(link_child) -%}
-            {%- continue -%}
+          {# Skip rendering the child if it matches the chosen header link URL #}
+          {%- if ns.link and child.url is defined and (child.url == ns.link) -%}
+            {%- else -%}
+              {{ render_item(child) }}
           {%- endif -%}
-          {{ render_item(child) }}
         {%- endfor -%}
       </ul>
     {%- endif -%}
