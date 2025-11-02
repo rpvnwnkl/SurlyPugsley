@@ -24,7 +24,6 @@ nav:
   - About: about.md
 
   - Pugsley:
-      - Overview: pugsley/overview.md
       - History:   pugsley/history.md
       - Quirks:    pugsley/quirks.md
       - Buying Guide: pugsley/buying-guide.md
@@ -37,13 +36,11 @@ nav:
 
   - Wheels:
       - Wheelsets: wheels/wheelsets/index.md
-      - Overview: wheels/index.md
       - Rims:      wheels/rims.md
       - Hubs:      wheels/hubs.md
       - Tires:     wheels/tires.md
 
   - Drivetrain:
-      - Overview:    drivetrain/index.md
       - Geared:      drivetrain/geared.md
       - Singlespeed: drivetrain/singlespeed.md
       - Fixed Gear:  drivetrain/fixedgear.md
@@ -51,7 +48,6 @@ nav:
       - Electric:    drivetrain/electric.md
 
   - Usage & Maintenance:
-      - Overview:         usage/index.md
       - Maintenance:      usage/maintenance.md
       - Upgrades:         usage/upgrades.md
       - Packing & Racks:  usage/packing.md
