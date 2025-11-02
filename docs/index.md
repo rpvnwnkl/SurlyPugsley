@@ -1,6 +1,6 @@
-# Welcome to the Surly Pugsley Wiki
+# Welcome to the Pugsley Wiki
 
-This site is dedicated to everything about the Surly Pugsley fat bike. Browse through the frame details, wheels, drivetrains, and learn how to buy, fix, ride, and maintain your Pugsley.
+This site collects practical information, historical notes, and maintenance tips for the Surly Pugsley fat bike. It's written for owners, mechanics, and riders who want clear, experience-based guidance on setup, repairs, upgrades, and riding techniques. Use the navigation to jump to component overviews, how‑tos, and reference material.
 
 - [About](about.md)
 - [Pugsley Overview](pugsley/overview.md)
