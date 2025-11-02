@@ -1,10 +1,7 @@
 {# theme/partials/nav.html #}
 {% macro render_item(item) -%}
   <li>
-    {# If the item has a URL render a link. Otherwise, if it has children look for an "Overview"
-       child (or an index page) to link the header to — and hide that child from the submenu.
-       Fallback: render plain text for a section header. #}
-    {# Find a child to use as the header link (Overview or index) without using break/continue #}
+    {# Ensure all items are links - either direct links or section links to their overview #}
     {%- set ns = namespace(link=None) -%}
     {%- if item.children -%}
       {%- for child in item.children -%}
@@ -17,11 +14,11 @@
     {%- endif -%}
 
     {%- if item.url -%}
-      <a href="{{ item.url | url }}">{{ item.title }}</a>
+      <a href="{{ item.url|url if item.url.startswith('http') else base_url|url ~ '/' ~ item.url }}">{{ item.title }}</a>
     {%- elif ns.link -%}
       <a href="{{ ns.link | url }}">{{ item.title }}</a>
     {%- else -%}
-      <span class="nav-section">{{ item.title }}</span>
+      <a href="#" class="nav-section">{{ item.title }}</a>
     {%- endif -%}
 
     {%- if item.children -%}
