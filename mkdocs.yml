@@ -36,11 +36,11 @@ nav:
       - Headsets:                frame/headset.md
 
   - Wheels:
-      - Overview: wheels/index.md
-    - Rims:      wheels/rims.md
-    - Wheelsets: wheels/wheelsets/index.md
-      - Hubs:      wheels/hubs.md
-      - Tires:     wheels/tires.md
+            - Overview: wheels/index.md
+            - Rims:      wheels/rims.md
+            - Wheelsets: wheels/wheelsets/index.md
+            - Hubs:      wheels/hubs.md
+            - Tires:     wheels/tires.md
 
   - Drivetrain:
       - Overview:    drivetrain/index.md
