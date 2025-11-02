@@ -39,8 +39,8 @@ nav:
       - Wheelsets: wheels/wheelsets/index.md
       - Overview: wheels/index.md
       - Rims:      wheels/rims.md
-            - Hubs:      wheels/hubs.md
-            - Tires:     wheels/tires.md
+      - Hubs:      wheels/hubs.md
+      - Tires:     wheels/tires.md
 
   - Drivetrain:
       - Overview:    drivetrain/index.md
