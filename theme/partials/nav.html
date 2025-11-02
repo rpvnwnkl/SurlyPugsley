@@ -2,8 +2,8 @@
 {% macro render_item(item) -%}
   <li>
     {# Ensure all items are links - either direct links or section links to their overview #}
-    {%- set ns = namespace(link=None) -%}
     {%- if item.children -%}
+      {%- set ns = namespace(link=None) -%}
       {%- for child in item.children -%}
         {%- if ns.link is none and child.title is defined and child.title|lower == 'overview' -%}
           {%- set ns.link = child.url -%}
@@ -11,14 +11,14 @@
           {%- set ns.link = child.url -%}
         {%- endif -%}
       {%- endfor -%}
-    {%- endif -%}
 
-    {%- if item.url -%}
-      <a href="{{ item.url|url if item.url.startswith('http') else base_url|url ~ '/' ~ item.url }}">{{ item.title }}</a>
-    {%- elif ns.link -%}
-      <a href="{{ ns.link | url }}">{{ item.title }}</a>
+      {%- if ns.link -%}
+        <a href="{{ ns.link | url }}">{{ item.title }}</a>
+      {%- else -%}
+        <span class="nav-section">{{ item.title }}</span>
+      {%- endif -%}
     {%- else -%}
-      <a href="#" class="nav-section">{{ item.title }}</a>
+      <a href="{{ item.url | url }}">{{ item.title }}</a>
     {%- endif -%}
 
     {%- if item.children -%}
