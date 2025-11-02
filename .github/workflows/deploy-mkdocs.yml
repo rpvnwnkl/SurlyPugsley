@@ -5,6 +5,9 @@ on:
   push:
     branches:
       - content-updates
+      - main
+  # Also allow a manual workflow dispatch from the Actions UI
+  workflow_dispatch:
 
 jobs:
   build-and-deploy:
