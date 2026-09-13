@@ -1,11 +1,13 @@
-## Overview
+# The original Pugsley design
 
-[![Surly Pugsley prototype](/pugsley/images/Surly_Pugsley.JPG)](https://web.archive.org/web/20071218175750/http://www.sheldonbrown.com/harris/surly-pugsley/images/surly-pugsley1.jpg)  
-*Surly Pugsley prototype (photo via [Sheldon Brown's archived site](https://web.archive.org/web/20071218175750/http://www.sheldonbrown.com/harris/surly-pugsley/index.html)).*
+In the [preserved interview with Dave Gray](../archive/interview_with_dave_gray_from_surly_bikes/article.md), the designer describes how Surly developed the Pugsley alongside the Endomorph tire, following the Large Marge rim project.
 
-The Surly Pugsley, introduced in 2005, was the world’s first mass-produced **fat bike**, built for ultra-wide tires that float over soft terrain. Its origins lie in extreme Alaskan endurance races like the [Iditarod Trail Invitational](https://iditarod.com/trail-invitational/), where riders literally welded rims together and stitched tires to conquer deep snow. Surly commercialized those garage-lab innovations with the 3.7″ [Endomorph tire](https://surlybikes.com/bikes/pugsley/) and 65 mm [Large Marge rim](https://surlybikes.com/bikes/pugsley/), transforming a niche experiment into a practical snow-and-sand machine you could buy at your local shop.
+Gray says Surly showed the Pugsley at Interbike in 2004 and framesets became available for sale in 2005. He describes the aim as providing more flotation with a higher-volume tire.
 
-[![Pugsley in snow](/pugsley/images/P1150426-1.jpg)](https://fat-bike.com/2015/05/interview-with-dave-gray-from-surly-bikes/)  
-*Riding deep winter drifts (photo via [Fat-Bike.com](https://fat-bike.com/2015/05/interview-with-dave-gray-from-surly-bikes/)).*
+## Why the offset?
 
-To overcome the lack of fat-bike-specific parts, Surly engineered a 17.5 mm frame offset to clear a 26 × 3.8″ tire on a standard 135 mm hub, and borrowed a 100 mm bottom-bracket shell (from downhill bikes) so a regular crankset would fit. Even the front and rear wheels were interchangeable—a clever fail-safe on remote expeditions. Designed to go “where there is no road or trail” (see [Surly Bikes blog](https://surlybikes.com/blog/haulin_some_history)), the Pugsley unlocked snow, sand, bogs, beaches, and beyond. Its go-anywhere ethos and simple, robust design sparked the modern fat-bike movement—every Beargrease, Fatboy, and Mukluk today owes a debt to this trailblazing classic.
+Gray explains that the original design combined a 100 mm bottom-bracket shell with a 135 mm rear hub and a 17.5 mm frame offset to obtain the intended chainline while retaining existing hub choices. The original fork used matching hub spacing and offset to allow front and rear wheel interchangeability.
+
+This is an account of the original design, not a specification for every Pugsley or a parts-compatibility guide. The interview does not establish a complete model-year history.
+
+[Read about the preserved sources](../archive/index.md).

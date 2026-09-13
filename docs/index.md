@@ -1,11 +1,9 @@
-# Welcome to the Pugsley Wiki
+# Pugsley Wiki
 
-This site collects practical information, historical notes, and maintenance tips for the Surly Pugsley fat bike. It's written for owners, mechanics, and riders who want clear, experience-based guidance on setup, repairs, upgrades, and riding techniques. Use the navigation to jump to component overviews, how‑tos, and reference material.
+A small collection of historical source material about the Surly Pugsley.
 
-- [About](about.md)
-- [Pugsley Overview](pugsley/overview.md)
-- [Frame & Fork & Headset](frame/index.md)
-- [Wheels](wheels/index.md)
-- [Drivetrain](drivetrain/index.md)
-- [Usage & Maintenance](usage/index.md)
-- [References](references/faq.md)
+Start with [the original design](pugsley/overview.md), a short account based on an interview with designer Dave Gray, or browse the [sources and archive](archive/index.md).
+
+Earlier component guides and model-year summaries have been withdrawn because their claims were not adequately supported. This site currently offers historical reading rather than parts-selection or repair instructions.
+
+[About this site](about.md)
