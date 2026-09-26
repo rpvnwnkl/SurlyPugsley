@@ -6,8 +6,18 @@
 
 The repository retains the [HTML copy](interview_with_dave_gray_from_surly_bikes/article.html), Markdown copy and associated images unchanged. [Original publication](https://fat-bike.com/2015/05/interview-with-dave-gray-from-surly-bikes/).
 
-## Surly frame-page conversion
+## Original Surly frame page
 
-[Read the preserved frame page](../frame/pugsley_frame_archived.md). The local file identifies itself as a Markdown conversion of a Surly page archived on April 21, 2010. Its text and images are preserved unchanged.
+[Open the preserved 2010 frame-page capture](pugsley-frame-2010/offline.html), or [view it in the Internet Archive](https://web.archive.org/web/20100421123801id_/http://surlybikes.com/frames/pugsley_frame). This historical page is a visual source for the original geometry presentation; it is separate from the year-by-year catalog references.
 
-This is a derivative conversion, not a verified verbatim capture. Its claims should be checked against the linked archived original before being used as technical guidance, and should not be applied to other model years.
+## Surly catalogs and crank documents
+
+[Browse the catalog and crank document collection](surly-documents/index.md), including seven catalogs from 2005–2015 and instructions for Mr. Whirly and MWOD. Full PDF copies are available to read or download.
+
+## SRAM DUB references
+
+[Find DUB installation and compatibility references](sram-documents/index.md), including the archived compatibility chart and an offline illustrated installation manual.
+
+## Preserved Surly Pugsley pages
+
+[Open the preserved Surly product pages](pugsley-geometry/index.md), including the 2016 legacy page and Gen. 2 page with their local stylesheets, fonts, images, scripts, and linked frame-sheet PDFs.

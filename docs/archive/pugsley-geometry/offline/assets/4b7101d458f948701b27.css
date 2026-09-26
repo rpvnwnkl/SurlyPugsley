@@ -1,0 +1,37 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * quatro-slab:
+ *   - http://typekit.com/eulas/000000000000000077359b7d
+ *   - http://typekit.com/eulas/000000000000000077359b87
+ *   - http://typekit.com/eulas/000000000000000077359b94
+ *
+ * © 2009-2026 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2025-03-27 22:00:50 UTC"}*/
+
+@import url("../assets/63a070c9528d90608c64.css");
+
+@font-face {
+font-family:"quatro-slab";
+src:url("../assets/e57524984725c2178e17.bin") format("woff2"),url("../assets/39ddc76886b2bee11942.bin") format("woff"),url("../assets/12cdc0c43ab5bbcb72f5.bin") format("opentype");
+font-display:auto;font-style:normal;font-weight:900;font-stretch:normal;
+}
+
+@font-face {
+font-family:"quatro-slab";
+src:url("../assets/6231b3065d37c66ba093.bin") format("woff2"),url("../assets/2219b5d26312fb72f2da.bin") format("woff"),url("../assets/49b0e597b621556c3653.bin") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"quatro-slab";
+src:url("../assets/6459ca3f8ddaf60073b9.bin") format("woff2"),url("../assets/ec36eecb33a28e62a33b.bin") format("woff"),url("../assets/a8210e2009c87f76b94a.bin") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+.tk-quatro-slab { font-family: "quatro-slab",serif; }
+.tk-veneer-three { font-family: "veneer-three",sans-serif; }

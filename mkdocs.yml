@@ -22,8 +22,11 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Original design: pugsley/overview.md
+  - Frame geometry: frame/geometry.md
   - Sources & archive:
       - Overview: archive/index.md
+      - Surly catalogs & crank documents: archive/surly-documents/index.md
+      - SRAM DUB references: archive/sram-documents/index.md
+      - Preserved Pugsley pages: archive/pugsley-geometry/index.md
       - Dave Gray interview: archive/interview_with_dave_gray_from_surly_bikes/article.md
-      - Surly frame-page conversion: frame/pugsley_frame_archived.md
   - About: about.md
