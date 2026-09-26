@@ -26,3 +26,5 @@ The links open the full PDFs for reading or downloading.
 ## Where these copies came from
 
 Published by Surly Bikes. Copies retrieved September 13, 2026 from Surly’s official [catalog page](https://surlybikes.com/pages/catalogs) and [instructions page](https://surlybikes.com/pages/instructions). Documents retain their original contents; descriptions on this page are our own finding aids. Instruction revision dates have not yet been cataloged.
+
+[Back to sources and archive](../index.md)
