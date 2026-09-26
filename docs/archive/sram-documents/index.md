@@ -23,3 +23,5 @@ The offline edition includes all ten modules from the captured English manual, w
 Retrieved September 13, 2026. Published by SRAM. The compatibility PDF is preserved unchanged. The digital manual’s [original embedded source data](dub-manual-source.json) is retained unchanged; the offline reading layout is reconstructed from it, rather than a copy of SRAM’s interactive viewer. The [asset manifest](dub-offline/asset-manifest.json) records source URLs, file sizes, and SHA-256 hashes.
 
 External reference links to separate manuals and websites remain external; those separate documents are not part of this capture. The archived manual itself has its text and illustrations available offline.
+
+[Back to sources and archive](../index.md)

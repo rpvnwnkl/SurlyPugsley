@@ -1,9 +1,11 @@
 # Pugsley Wiki
 
-A small collection of historical source material about the Surly Pugsley.
+Explore the Surly Pugsley's original design, compare published frame geometry, and browse preserved catalogs and manuals.
 
-Start with [the original design](pugsley/overview.md), a short account based on an interview with designer Dave Gray, or browse the [sources and archive](archive/index.md).
+- [Understand the original design](pugsley/overview.md): learn why Surly used an offset frame and fork, through designer Dave Gray's account.
+- [Compare frame geometry](frame/geometry.md): find Surly's published dimensions for the 2016 legacy and Gen. 2 references.
+- [Find catalogs and manuals](archive/index.md): browse selected Surly catalogs, crank instructions, and preserved product pages.
 
-Earlier component guides and model-year summaries have been withdrawn because their claims were not adequately supported. This site currently offers historical reading rather than parts-selection or repair instructions.
+Pugsley Wiki is an independent collection for people curious about these bikes and the documents behind them.
 
 [About this site](about.md)
