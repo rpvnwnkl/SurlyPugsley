@@ -2,26 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://www.surlypugsley.org/</loc>
-         <lastmod>2026-09-13</lastmod>
+         <lastmod>2026-09-26</lastmod>
     </url>
     <url>
          <loc>https://www.surlypugsley.org/about/</loc>
-         <lastmod>2026-09-13</lastmod>
+         <lastmod>2026-09-26</lastmod>
     </url>
     <url>
          <loc>https://www.surlypugsley.org/archive/</loc>
-         <lastmod>2026-09-13</lastmod>
+         <lastmod>2026-09-26</lastmod>
     </url>
     <url>
          <loc>https://www.surlypugsley.org/archive/interview_with_dave_gray_from_surly_bikes/article/</loc>
-         <lastmod>2026-09-13</lastmod>
+         <lastmod>2026-09-26</lastmod>
     </url>
     <url>
-         <loc>https://www.surlypugsley.org/frame/pugsley_frame_archived/</loc>
-         <lastmod>2026-09-13</lastmod>
+         <loc>https://www.surlypugsley.org/archive/pugsley-geometry/</loc>
+         <lastmod>2026-09-26</lastmod>
+    </url>
+    <url>
+         <loc>https://www.surlypugsley.org/archive/sram-documents/</loc>
+         <lastmod>2026-09-26</lastmod>
+    </url>
+    <url>
+         <loc>https://www.surlypugsley.org/archive/surly-documents/</loc>
+         <lastmod>2026-09-26</lastmod>
+    </url>
+    <url>
+         <loc>https://www.surlypugsley.org/frame/geometry/</loc>
+         <lastmod>2026-09-26</lastmod>
     </url>
     <url>
          <loc>https://www.surlypugsley.org/pugsley/overview/</loc>
-         <lastmod>2026-09-13</lastmod>
+         <lastmod>2026-09-26</lastmod>
     </url>
 </urlset>

@@ -1,0 +1,1449 @@
+{
+  "original_url": "http://surlybikes.com/frames/pugsley_frame",
+  "capture_timestamp": "20100421123801",
+  "capture_date": "2010-04-21",
+  "capture_url": "https://web.archive.org/web/20100421123801id_/http://surlybikes.com/frames/pugsley_frame",
+  "source_file": "source.html",
+  "offline_file": "offline.html",
+  "source_sha256": "f1fee27375a48ab97439956d80a6488ed40543c33220979f450c8d64754a8c85",
+  "capture_count": 146,
+  "successful_html_captures": 46,
+  "assets": [
+    {
+      "original_url": "http://surlybikes.com/css/base.css?v=1.8",
+      "wayback_url": "https://web.archive.org/web/20100421123801id_/http://surlybikes.com/css/base.css?v=1.8",
+      "local_path": "assets/css/base.css",
+      "available": true,
+      "bytes": 83348,
+      "sha256": "1ea835bf2e712903ab8d82508e7e61c6c0839694a1713e2c00cb451daf316a85"
+    },
+    {
+      "original_url": "http://surlybikes.com/js/jquery-1.3.2.min.js",
+      "wayback_url": "https://web.archive.org/web/20100421123801id_/http://surlybikes.com/js/jquery-1.3.2.min.js",
+      "local_path": "assets/js/jquery-1.3.2.min.js",
+      "available": true,
+      "bytes": 57254,
+      "sha256": "c8370a2d050359e9d505acc411e6f457a49b21360a21e6cbc9229bad3a767899"
+    },
+    {
+      "original_url": "http://surlybikes.com/js/jquery.colorbox-min.js",
+      "wayback_url": "https://web.archive.org/web/20100421123801id_/http://surlybikes.com/js/jquery.colorbox-min.js",
+      "local_path": "assets/js/jquery.colorbox-min.js",
+      "available": true,
+      "bytes": 8433,
+      "sha256": "9cb417b19958e87f48e6a2a7ae504a9c8abd469951a0e605cf9a77e1d331c6b1"
+    },
+    {
+      "original_url": "http://surlybikes.com/js/sifr.js",
+      "wayback_url": "https://web.archive.org/web/20100421123801id_/http://surlybikes.com/js/sifr.js",
+      "local_path": "assets/js/sifr.js",
+      "available": true,
+      "bytes": 29344,
+      "sha256": "4a514622f502abe6d543f9543ea74871fbbccd2a7294494fa9b2262adac1d956"
+    },
+    {
+      "original_url": "http://surlybikes.com/js/sifr-config.js",
+      "wayback_url": "https://web.archive.org/web/20100421123801id_/http://surlybikes.com/js/sifr-config.js",
+      "local_path": "assets/js/sifr-config.js",
+      "available": true,
+      "bytes": 2778,
+      "sha256": "949a73f3906652502aaf93faebecde81af305697582868c42458cdcaafb5659c"
+    },
+    {
+      "original_url": "http://surlybikes.com/js/funcs.js",
+      "wayback_url": "https://web.archive.org/web/20100421123801id_/http://surlybikes.com/js/funcs.js",
+      "local_path": "assets/js/funcs.js",
+      "available": true,
+      "bytes": 189,
+      "sha256": "befa7c37c4326a745fe716654f7b97cd5300fde2db2c396a4c4be4d0b7087929"
+    },
+    {
+      "original_url": "http://surlybikes.com/uploads/frames/FM3171.jpg",
+      "wayback_url": "https://web.archive.org/web/20100421123801id_/http://surlybikes.com/uploads/frames/FM3171.jpg",
+      "local_path": "assets/uploads/frames/FM3171.jpg",
+      "available": true,
+      "bytes": 30455,
+      "sha256": "660475c3867b893b2c6d8ff837764149d6f9895ec7ecbd54255d0cce9fc023d1"
+    },
+    {
+      "original_url": "http://surlybikes.com/images/sized/uploads/frames/FM3171-01-125x125.png",
+      "wayback_url": "https://web.archive.org/web/20100421123801id_/http://surlybikes.com/images/sized/uploads/frames/FM3171-01-125x125.png",
+      "local_path": "assets/images/sized/uploads/frames/FM3171-01-125x125.png",
+      "available": true,
+      "bytes": 16322,
+      "sha256": "f6865f20a5e95a2b387f1320a5fc8b215053f7fdffd8ce3ca55dfe472d245704"
+    },
+    {
+      "original_url": "http://surlybikes.com/images/sized/uploads/frames/FM3171-02-125x125.png",
+      "wayback_url": "https://web.archive.org/web/20100421123801id_/http://surlybikes.com/images/sized/uploads/frames/FM3171-02-125x125.png",
+      "local_path": "assets/images/sized/uploads/frames/FM3171-02-125x125.png",
+      "available": true,
+      "bytes": 13827,
+      "sha256": "a54002b0d27c1d4c65e6b5560e8e3430a8a5da536b47ce7ad2af1aa4f1c1dcb6"
+    },
+    {
+      "original_url": "http://surlybikes.com/images/sized/uploads/frames/FM3171-03-125x125.png",
+      "wayback_url": "https://web.archive.org/web/20100421123801id_/http://surlybikes.com/images/sized/uploads/frames/FM3171-03-125x125.png",
+      "local_path": "assets/images/sized/uploads/frames/FM3171-03-125x125.png",
+      "available": true,
+      "bytes": 16917,
+      "sha256": "f0858cae5a2bb901cf974760afcb65ef431b132cefbab4ceb8ba285bc464fdb5"
+    },
+    {
+      "original_url": "http://surlybikes.com/images/sized/uploads/frames/FM3171-04-125x125.png",
+      "wayback_url": "https://web.archive.org/web/20100421123801id_/http://surlybikes.com/images/sized/uploads/frames/FM3171-04-125x125.png",
+      "local_path": "assets/images/sized/uploads/frames/FM3171-04-125x125.png",
+      "available": true,
+      "bytes": 17533,
+      "sha256": "241fb8074bea6957a7d20cdcb572737ed636df4b174273a513d6b3d5d681bae6"
+    },
+    {
+      "original_url": "http://surlybikes.com/images/template_images/geo_top.jpg",
+      "wayback_url": "https://web.archive.org/web/20100421123801id_/http://surlybikes.com/images/template_images/geo_top.jpg",
+      "local_path": "assets/images/template_images/geo_top.jpg",
+      "available": true,
+      "bytes": 7672,
+      "sha256": "b964fe42c48713280ada0360e1b4462df0e5d150bb5928c7e102090808774aef"
+    },
+    {
+      "original_url": "http://surlybikes.com/uploads/bikes/pugsley_geo.gif",
+      "wayback_url": "https://web.archive.org/web/20100421123801id_/http://surlybikes.com/uploads/bikes/pugsley_geo.gif",
+      "local_path": "assets/uploads/bikes/pugsley_geo.gif",
+      "available": true,
+      "bytes": 11681,
+      "sha256": "4cc3ebc69cb24312bc0a6ae97a6420e46d61726091cdfa805c1e4126c02844ac"
+    },
+    {
+      "original_url": "http://surlybikes.com/images/template_images/geo_bottom.jpg",
+      "wayback_url": "https://web.archive.org/web/20100421123801id_/http://surlybikes.com/images/template_images/geo_bottom.jpg",
+      "local_path": "assets/images/template_images/geo_bottom.jpg",
+      "available": true,
+      "bytes": 9085,
+      "sha256": "d5e68c6079934d248c9321c02c0f4b4af91c68da1379fe091a96b0ed1451a8ce"
+    },
+    {
+      "original_url": "http://surlybikes.com/images/template_images/small-logo.png",
+      "wayback_url": "https://web.archive.org/web/20100421123801id_/http://surlybikes.com/images/template_images/small-logo.png",
+      "local_path": "assets/images/template_images/small-logo.png",
+      "available": true,
+      "bytes": 913,
+      "sha256": "6ddbb4a369f88bd48ee649daa16cd2066a0c7f6b3db17ec0d55705f2fe5340f8"
+    }
+  ],
+  "captures": [
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20090925114617",
+      "original": "http://www.surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "K4FJJMCDTJDOA2BJVJT3UNO4CBNVLADP",
+      "length": "9232"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20091001010802",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "UFHTHQPYHGALBEERU2KJK55MGLGXGG6H",
+      "length": "9269"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20091001141610",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "NAXA2NOEEZQXQVN77EFDULYTLUGZBMNO",
+      "length": "373"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20091001141610",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "JQIJN3LIOHANMZUJUXDADHZSI6S55UQM",
+      "length": "9236"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20091203035602",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "NAXA2NOEEZQXQVN77EFDULYTLUGZBMNO",
+      "length": "373"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20091203035602",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "2SLEFQUZU4Q22ZA4TAVPSIZ56GLOTJQ3",
+      "length": "9468"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20091204090234",
+      "original": "http://www.surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "LIH6Q7ZZUFI3TNBGWQTPC6RSEA5ZNL6G",
+      "length": "9477"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20100103064756",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "NAXA2NOEEZQXQVN77EFDULYTLUGZBMNO",
+      "length": "375"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20100103064756",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "NAXA2NOEEZQXQVN77EFDULYTLUGZBMNO",
+      "length": "375"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20100103064756",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ML3ZU3GHWQG3FN3HURLF3VAESMYZAAJH",
+      "length": "9304"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20100103064756",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ML3ZU3GHWQG3FN3HURLF3VAESMYZAAJH",
+      "length": "9304"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20100104222832",
+      "original": "http://surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "RXLRNFANHZKO4OZGB7ZMQDYALKGHOOZV",
+      "length": "9493"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20100204064652",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "NAXA2NOEEZQXQVN77EFDULYTLUGZBMNO",
+      "length": "375"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20100204064652",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "YOZXSLSDHVQUE5PPGFY3GK4T4UT3KQEC",
+      "length": "9339"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20100309133229",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "NAXA2NOEEZQXQVN77EFDULYTLUGZBMNO",
+      "length": "374"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20100309133229",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GCSVW2SG5VITWOPCWLWXZGHATZ5FQVBI",
+      "length": "9297"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20100421123801",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "NAXA2NOEEZQXQVN77EFDULYTLUGZBMNO",
+      "length": "373"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20100421123801",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "BV3MFKY5ZUB43LVMVZUTEULCXNARMPMS",
+      "length": "7159"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20100601095808",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "2XIODF3UQG4JO5E4ANDKCWGS4PDTQTR5",
+      "length": "7177"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20100724020741",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "FOF4OFKMNB5WABMFZ43V7EARMUCBFUYE",
+      "length": "7186"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20100724143821",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "NAXA2NOEEZQXQVN77EFDULYTLUGZBMNO",
+      "length": "375"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20100724143821",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "AEKB3IMGYGBJR7IAO3B4F66HL6KCBYBL",
+      "length": "7191"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20100802115939",
+      "original": "http://www.surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "7EZ6EIAKQDE2E3UFFGN4QG7GBNTDD6VN",
+      "length": "7186"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20100824025158",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "NAXA2NOEEZQXQVN77EFDULYTLUGZBMNO",
+      "length": "374"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20100824025158",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "W55KO5RKBOKHZE2557LYA5JJYX4PDZIE",
+      "length": "7191"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20100923164945",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "NAXA2NOEEZQXQVN77EFDULYTLUGZBMNO",
+      "length": "375"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20100923164945",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "UYMKY4NOICE46X6GR66FENH4JE3MPDLT",
+      "length": "6610"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20101022012113",
+      "original": "http://www.surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "EAFH7AXFZ3WXWM6M7OVTY7BYDLVJORJA",
+      "length": "6609"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20101120212059",
+      "original": "http://www.surlybikes.com:80/frames/pugsley_frame",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "EUICW3NUXNPG322LEOUSLNI7WIHUKME5",
+      "length": "379"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20101120212059",
+      "original": "http://www.surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "TABBMGQUAJD56JM4MGDMN64ZKYFJUB2A",
+      "length": "6518"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20101130071727",
+      "original": "http://surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "U2SWBJHPEFJW7BYTKQRZ24DZELL77D4G",
+      "length": "6697"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20101221113922",
+      "original": "http://www.surlybikes.com:80/frames/pugsley_frame",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "EUICW3NUXNPG322LEOUSLNI7WIHUKME5",
+      "length": "377"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20101221113922",
+      "original": "http://www.surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "3IHHGXA3IENRWFO5NO4YPTLZEOBEOG26",
+      "length": "6512"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20101224104725",
+      "original": "http://surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "4USBQKAAS2OM5WEXENFYTTZYQIN73R7K",
+      "length": "6701"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20101225105507",
+      "original": "http://www.surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "PWIG2CFQ7DTUHTVUOVUF27J36K4JOTC5",
+      "length": "6513"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20110226135321",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "NAXA2NOEEZQXQVN77EFDULYTLUGZBMNO",
+      "length": "374"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20110226135321",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "DQBOL6BTMC7OH2IFUJB4TJGK5GX4HNVB",
+      "length": "6543"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20110320093556",
+      "original": "http://www.surlybikes.com:80/frames/pugsley_frame",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "EUICW3NUXNPG322LEOUSLNI7WIHUKME5",
+      "length": "380"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20110320093556",
+      "original": "http://www.surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "R2PUPG4MD2FHWWHVYQ2UHJKOJJTTIIXM",
+      "length": "6542"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20110420044456",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "NAXA2NOEEZQXQVN77EFDULYTLUGZBMNO",
+      "length": "373"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20110420044456",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "VUZTBKPS5SXNDG4VN62RJEPHL7AOS36G",
+      "length": "6546"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20110521075100",
+      "original": "http://www.surlybikes.com:80/frames/pugsley_frame",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "EUICW3NUXNPG322LEOUSLNI7WIHUKME5",
+      "length": "378"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20110521075100",
+      "original": "http://www.surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "WPE4XM75UTPRQJAAADQS2RS53F4RUAHB",
+      "length": "6571"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20110623203433",
+      "original": "http://www.surlybikes.com:80/frames/pugsley_frame",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "EUICW3NUXNPG322LEOUSLNI7WIHUKME5",
+      "length": "380"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20110623203433",
+      "original": "http://www.surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "46UKA4HDXBTACBAYKVWC6GBS4H2HR2ZS",
+      "length": "6565"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20110624234931",
+      "original": "http://www.surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "DRP4ZPGAO5HSOT3Z6G323WVGL4YSYQLF",
+      "length": "6571"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20110724181401",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "NAXA2NOEEZQXQVN77EFDULYTLUGZBMNO",
+      "length": "373"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20110724181401",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "CORV3VYA5ELQTHE7PHPI573TMC6QVXWH",
+      "length": "6549"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20110824043941",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "NAXA2NOEEZQXQVN77EFDULYTLUGZBMNO",
+      "length": "376"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20110824043941",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ZHJSOOHNPBFH634CECR7IFMJA7FPWRO2",
+      "length": "6556"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20110825125023",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "7E6ADPCBBPZFMQH7CHMPKO3WHXXVYUGO",
+      "length": "6553"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20111008174813",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QPQDSX77KQVCUVM6AHHSBO4X3HDR6S6S",
+      "length": "3271"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20111023172722",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "OIVEXNNMCUEP5VUZJW4N2NYU25TKYBIO",
+      "length": "3264"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20111106075021",
+      "original": "http://surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "PT53O5ZT4YJIMYKTS5IX3W7FDMFD75QL",
+      "length": "3481"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20111108064546",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "JBRB6GJD323OAMC7BTOP7XVUI6QWTSFJ",
+      "length": "3272"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20111130133002",
+      "original": "http://surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "E5OGHFJOF7O7IFCB7RDFESSIJLPWHMWD",
+      "length": "3435"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20111130133002",
+      "original": "http://www.surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "NAXA2NOEEZQXQVN77EFDULYTLUGZBMNO",
+      "length": "524"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20111208193233",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "4OPYTRSOEDE3IN7BX7IZHMBI5WACPFCK",
+      "length": "3267"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20111223004124",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "P3M56YWOLCAOZXNTHINF6L2LLVJMCQAS",
+      "length": "3266"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20120119194951",
+      "original": "http://surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "D7IV62AMO5KSZYYMYDBWUKJOVHOHA4EU",
+      "length": "3460"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20120222081812",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "TQ4UNKW7KGII2TI76F3GPW6APQZFM5P2",
+      "length": "3218"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20120420220717",
+      "original": "http://surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "T3VSF7G4PEZEMP3ADZJLPAZ2HUXFVIR4",
+      "length": "3361"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20120422213132",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "4LZ2HAR54D2WXDVODI5VOMIVUA5NX3CV",
+      "length": "3210"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20120525214511",
+      "original": "http://www.surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "NAXA2NOEEZQXQVN77EFDULYTLUGZBMNO",
+      "length": "524"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20120525214513",
+      "original": "http://surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "JKRAZRTBBR7ZAMLAVP2FQFJVZOYOVFNI",
+      "length": "3445"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20120527235901",
+      "original": "http://www.surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "NAXA2NOEEZQXQVN77EFDULYTLUGZBMNO",
+      "length": "524"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20120527235905",
+      "original": "http://surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "NHDPQFSKLV4NMPDH5I7CO3AFSVKCK3BT",
+      "length": "3440"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20120622141716",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "M4I5EXTQMXZIXOX2GB647Q4L6QLJN3UI",
+      "length": "3251"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20120822004405",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "404",
+      "digest": "FUZIPFCI2RTLZ5CYFANNZZRRQOHXRCB5",
+      "length": "2727"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20121010063054",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame",
+      "mimetype": "text/html",
+      "statuscode": "404",
+      "digest": "6H7DITLAFHEHSCSYIVLNBLY67KZPFLG2",
+      "length": "2755"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20121112035533",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame",
+      "mimetype": "text/html",
+      "statuscode": "404",
+      "digest": "RFTKIOCBRQXJX6LJFGP72KNYHZCGJRRO",
+      "length": "2731"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20121116010244",
+      "original": "http://surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "404",
+      "digest": "2XXSXQUYXKKRPK3W2YWFVCQB4NERPFSF",
+      "length": "2915"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20130127203812",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "404",
+      "digest": "KVHX5INSZRKYA36FHGC2ND2KWDWZCONC",
+      "length": "2721"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20130330150348",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "404",
+      "digest": "6FXUQ443L6ZMAC5DP3JS5WGTQGZ4MKGP",
+      "length": "2725"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20130330150348",
+      "original": "http://www.surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "NAXA2NOEEZQXQVN77EFDULYTLUGZBMNO",
+      "length": "380"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20130403002522",
+      "original": "http://surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "404",
+      "digest": "5UNYC4HVTAW3EPIPK4Q22GLAMPXAKS3H",
+      "length": "2941"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20130523025903",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "404",
+      "digest": "YHZ2ACVV6CBQHS4NSDS2PRACRQC63IUU",
+      "length": "2726"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20140730033426",
+      "original": "http://www.surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "QH732FYSV7UM34JYWVYMB7EZGR2CYM6B",
+      "length": "634"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20140730033427",
+      "original": "http://surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "404",
+      "digest": "L54ORBR3BBY4QCFSMUJYNREVPDLQPEZH",
+      "length": "1696"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20140904200845",
+      "original": "http://surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "404",
+      "digest": "FYGCDL57AJPISHZCZSZFENX7UG3UGJYW",
+      "length": "1551"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20141104174720",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "404",
+      "digest": "FYGCDL57AJPISHZCZSZFENX7UG3UGJYW",
+      "length": "1387"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20141104174720",
+      "original": "http://www.surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "QH732FYSV7UM34JYWVYMB7EZGR2CYM6B",
+      "length": "315"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20150510101346",
+      "original": "http://surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "warc/revisit",
+      "statuscode": "-",
+      "digest": "FYGCDL57AJPISHZCZSZFENX7UG3UGJYW",
+      "length": "676"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20150625044724",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame",
+      "mimetype": "text/html",
+      "statuscode": "404",
+      "digest": "FYGCDL57AJPISHZCZSZFENX7UG3UGJYW",
+      "length": "1405"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20150828101028",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame",
+      "mimetype": "text/html",
+      "statuscode": "404",
+      "digest": "FYGCDL57AJPISHZCZSZFENX7UG3UGJYW",
+      "length": "1404"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20150906044220",
+      "original": "http://surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "warc/revisit",
+      "statuscode": "-",
+      "digest": "FYGCDL57AJPISHZCZSZFENX7UG3UGJYW",
+      "length": "624"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20150921035647",
+      "original": "http://www.surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "QH732FYSV7UM34JYWVYMB7EZGR2CYM6B",
+      "length": "463"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20150921050144",
+      "original": "http://surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "warc/revisit",
+      "statuscode": "-",
+      "digest": "FYGCDL57AJPISHZCZSZFENX7UG3UGJYW",
+      "length": "728"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20151004141526",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "404",
+      "digest": "FYGCDL57AJPISHZCZSZFENX7UG3UGJYW",
+      "length": "1337"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20160131210224",
+      "original": "http://surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "404",
+      "digest": "FYGCDL57AJPISHZCZSZFENX7UG3UGJYW",
+      "length": "1556"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20160131210224",
+      "original": "http://www.surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "QH732FYSV7UM34JYWVYMB7EZGR2CYM6B",
+      "length": "463"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20160202050629",
+      "original": "http://surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "404",
+      "digest": "FYGCDL57AJPISHZCZSZFENX7UG3UGJYW",
+      "length": "1553"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20160305192431",
+      "original": "http://surlybikes.com/frames/pugsley_frame",
+      "mimetype": "warc/revisit",
+      "statuscode": "-",
+      "digest": "FYGCDL57AJPISHZCZSZFENX7UG3UGJYW",
+      "length": "646"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20160416225656",
+      "original": "http://surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "warc/revisit",
+      "statuscode": "-",
+      "digest": "FYGCDL57AJPISHZCZSZFENX7UG3UGJYW",
+      "length": "645"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20160420123140",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "404",
+      "digest": "FYGCDL57AJPISHZCZSZFENX7UG3UGJYW",
+      "length": "1368"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20160421131252",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "404",
+      "digest": "FYGCDL57AJPISHZCZSZFENX7UG3UGJYW",
+      "length": "1402"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20160426233833",
+      "original": "http://surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "warc/revisit",
+      "statuscode": "-",
+      "digest": "FYGCDL57AJPISHZCZSZFENX7UG3UGJYW",
+      "length": "646"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20160426233833",
+      "original": "http://www.surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "QH732FYSV7UM34JYWVYMB7EZGR2CYM6B",
+      "length": "462"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20161221173803",
+      "original": "http://www.surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "warc/revisit",
+      "statuscode": "-",
+      "digest": "QH732FYSV7UM34JYWVYMB7EZGR2CYM6B",
+      "length": "441"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20161221173805",
+      "original": "http://surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "404",
+      "digest": "FYGCDL57AJPISHZCZSZFENX7UG3UGJYW",
+      "length": "1600"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20170318001455",
+      "original": "http://surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "warc/revisit",
+      "statuscode": "-",
+      "digest": "FYGCDL57AJPISHZCZSZFENX7UG3UGJYW",
+      "length": "690"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20170422100030",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/?",
+      "mimetype": "text/html",
+      "statuscode": "404",
+      "digest": "FYGCDL57AJPISHZCZSZFENX7UG3UGJYW",
+      "length": "1431"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20170524041417",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/?",
+      "mimetype": "text/html",
+      "statuscode": "404",
+      "digest": "FYGCDL57AJPISHZCZSZFENX7UG3UGJYW",
+      "length": "1451"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20170525064145",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/?",
+      "mimetype": "text/html",
+      "statuscode": "404",
+      "digest": "FYGCDL57AJPISHZCZSZFENX7UG3UGJYW",
+      "length": "1452"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20170626024523",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/?",
+      "mimetype": "text/html",
+      "statuscode": "404",
+      "digest": "FYGCDL57AJPISHZCZSZFENX7UG3UGJYW",
+      "length": "1431"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20170726225934",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/?",
+      "mimetype": "text/html",
+      "statuscode": "404",
+      "digest": "FYGCDL57AJPISHZCZSZFENX7UG3UGJYW",
+      "length": "1509"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20170827051203",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/?",
+      "mimetype": "text/html",
+      "statuscode": "404",
+      "digest": "FYGCDL57AJPISHZCZSZFENX7UG3UGJYW",
+      "length": "1557"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20170927144032",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/?",
+      "mimetype": "text/html",
+      "statuscode": "404",
+      "digest": "FYGCDL57AJPISHZCZSZFENX7UG3UGJYW",
+      "length": "1459"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20171031005242",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/?",
+      "mimetype": "text/html",
+      "statuscode": "404",
+      "digest": "FYGCDL57AJPISHZCZSZFENX7UG3UGJYW",
+      "length": "1537"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20171123120345",
+      "original": "http://surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "404",
+      "digest": "NNZQMSURS44FRAKHROI7YJE7423J3JQI",
+      "length": "1949"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20171201190042",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/?",
+      "mimetype": "text/html",
+      "statuscode": "404",
+      "digest": "NNZQMSURS44FRAKHROI7YJE7423J3JQI",
+      "length": "1879"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20180102220246",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/?",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "VBW7XWPC5ZZ3QJITXFKG7CW7HU4HZC3L",
+      "length": "449"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20180911031214",
+      "original": "http://surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "NEK63SB5NQEJUIAUYOVFGOTEOYMEQUWN",
+      "length": "586"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20181204150247",
+      "original": "https://surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "404",
+      "digest": "CNVZKVPP7DILKWSLQFSCKAH4SCSA77K7",
+      "length": "2359"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20190913060028",
+      "original": "http://www.surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "HLNR6AWVWYCU3YAENY3HYHLIPNWN66X7",
+      "length": "447"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20190914052407",
+      "original": "http://www.surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "HLNR6AWVWYCU3YAENY3HYHLIPNWN66X7",
+      "length": "623"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20190914052413",
+      "original": "http://surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "HLNR6AWVWYCU3YAENY3HYHLIPNWN66X7",
+      "length": "621"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20190914052419",
+      "original": "https://surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "HLNR6AWVWYCU3YAENY3HYHLIPNWN66X7",
+      "length": "616"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20190914052426",
+      "original": "https://surlybikes.com/frames/pugsley_frame",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "OQIAWAACYS2JNIGMWTNJQZAUASB6YFTP",
+      "length": "785"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20190920070817",
+      "original": "http://www.surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "HLNR6AWVWYCU3YAENY3HYHLIPNWN66X7",
+      "length": "446"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20191010092207",
+      "original": "http://surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "HLNR6AWVWYCU3YAENY3HYHLIPNWN66X7",
+      "length": "441"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20191010092241",
+      "original": "https://surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "HLNR6AWVWYCU3YAENY3HYHLIPNWN66X7",
+      "length": "441"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20191010092312",
+      "original": "https://surlybikes.com/frames/pugsley_frame",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "OQIAWAACYS2JNIGMWTNJQZAUASB6YFTP",
+      "length": "607"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20191107083442",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "HLNR6AWVWYCU3YAENY3HYHLIPNWN66X7",
+      "length": "298"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20200110185051",
+      "original": "http://surlybikes.com:80/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "HLNR6AWVWYCU3YAENY3HYHLIPNWN66X7",
+      "length": "298"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20201118114542",
+      "original": "http://www.surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "HLNR6AWVWYCU3YAENY3HYHLIPNWN66X7",
+      "length": "617"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20201118114543",
+      "original": "http://surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "HLNR6AWVWYCU3YAENY3HYHLIPNWN66X7",
+      "length": "616"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20201118114544",
+      "original": "https://surlybikes.com/frames/pugsley_frame",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "OQIAWAACYS2JNIGMWTNJQZAUASB6YFTP",
+      "length": "783"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20201217165558",
+      "original": "http://www.surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "HLNR6AWVWYCU3YAENY3HYHLIPNWN66X7",
+      "length": "622"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20201217165559",
+      "original": "http://surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "HLNR6AWVWYCU3YAENY3HYHLIPNWN66X7",
+      "length": "618"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20201217165600",
+      "original": "https://surlybikes.com/frames/pugsley_frame",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "OQIAWAACYS2JNIGMWTNJQZAUASB6YFTP",
+      "length": "786"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20210211043425",
+      "original": "http://surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "HLNR6AWVWYCU3YAENY3HYHLIPNWN66X7",
+      "length": "331"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20210211043426",
+      "original": "https://surlybikes.com/frames/pugsley_frame",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "OQIAWAACYS2JNIGMWTNJQZAUASB6YFTP",
+      "length": "428"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20210211043426",
+      "original": "https://surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "warc/revisit",
+      "statuscode": "-",
+      "digest": "HLNR6AWVWYCU3YAENY3HYHLIPNWN66X7",
+      "length": "391"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20230530082412",
+      "original": "http://www.surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "warc/revisit",
+      "statuscode": "-",
+      "digest": "HLNR6AWVWYCU3YAENY3HYHLIPNWN66X7",
+      "length": "412"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20230530105350",
+      "original": "http://surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "HLNR6AWVWYCU3YAENY3HYHLIPNWN66X7",
+      "length": "333"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20230605233300",
+      "original": "https://surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "HLNR6AWVWYCU3YAENY3HYHLIPNWN66X7",
+      "length": "330"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20230605233554",
+      "original": "https://surlybikes.com/frames/pugsley_frame",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "OQIAWAACYS2JNIGMWTNJQZAUASB6YFTP",
+      "length": "421"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20231120133850",
+      "original": "https://www.surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "HLNR6AWVWYCU3YAENY3HYHLIPNWN66X7",
+      "length": "334"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20240125174658",
+      "original": "http://surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "HLNR6AWVWYCU3YAENY3HYHLIPNWN66X7",
+      "length": "443"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20240125174659",
+      "original": "https://surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "HLNR6AWVWYCU3YAENY3HYHLIPNWN66X7",
+      "length": "441"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20240125174701",
+      "original": "https://surlybikes.com/frames/pugsley_frame",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "OQIAWAACYS2JNIGMWTNJQZAUASB6YFTP",
+      "length": "608"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20250318000515",
+      "original": "http://www.surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "HLNR6AWVWYCU3YAENY3HYHLIPNWN66X7",
+      "length": "616"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20250318000517",
+      "original": "http://surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "HLNR6AWVWYCU3YAENY3HYHLIPNWN66X7",
+      "length": "617"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20250318000521",
+      "original": "https://surlybikes.com/frames/pugsley_frame/",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "HLNR6AWVWYCU3YAENY3HYHLIPNWN66X7",
+      "length": "611"
+    },
+    {
+      "urlkey": "com,surlybikes)/frames/pugsley_frame",
+      "timestamp": "20250318000524",
+      "original": "https://surlybikes.com/frames/pugsley_frame",
+      "mimetype": "text/html",
+      "statuscode": "301",
+      "digest": "OQIAWAACYS2JNIGMWTNJQZAUASB6YFTP",
+      "length": "780"
+    }
+  ]
+}

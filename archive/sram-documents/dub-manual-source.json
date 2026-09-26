@@ -1,0 +1,2899 @@
+{
+  "title": "DUB Cranksets and Bottom Brackets",
+  "hash": "dub-cranksets-and-bottom-brackets",
+  "type": "User Manual",
+  "metaDescription": "DUB Cranksets and Bottom Brackets Digital User Manual",
+  "locale": "en-US",
+  "publicationName": "UM - DUB Cranksets and Bottom Brackets",
+  "filters": [
+    {
+      "key": "languages",
+      "label": "Languages",
+      "options": [
+        {
+          "value": "cs-CZ",
+          "text": "\u010cesk\u00fd Jazyk"
+        },
+        {
+          "value": "da-DK",
+          "text": "Dansk"
+        },
+        {
+          "value": "de-DE",
+          "text": "Deutsch"
+        },
+        {
+          "value": "en-US",
+          "text": "English"
+        },
+        {
+          "value": "es-ES",
+          "text": "Espa\u00f1ol"
+        },
+        {
+          "value": "fr-FR",
+          "text": "Fran\u00e7ais"
+        },
+        {
+          "value": "it-IT",
+          "text": "Italiano"
+        },
+        {
+          "value": "pl-PL",
+          "text": "J\u0119zyk polski"
+        },
+        {
+          "value": "nl-NL",
+          "text": "Nederlands"
+        },
+        {
+          "value": "pt-PT",
+          "text": "Portugu\u00eas"
+        },
+        {
+          "value": "ro-RO",
+          "text": "Rom\u00e2n\u0103"
+        },
+        {
+          "value": "el-GR",
+          "text": "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
+        },
+        {
+          "value": "ko-KR",
+          "text": "\ud55c\uad6d\uc5b4"
+        },
+        {
+          "value": "ja-JP",
+          "text": "\u65e5\u672c\u8a9e"
+        },
+        {
+          "value": "zh-CN",
+          "text": "\u7b80\u4f53\u4e2d\u6587"
+        }
+      ]
+    },
+    {
+      "key": "models",
+      "label": "Models",
+      "options": [
+        {
+          "value": "bb-dub-bb30-a1",
+          "text": "BB-DUB-BB30-A1"
+        },
+        {
+          "value": "bb-dub-bsa-a1",
+          "text": "BB-DUB-BSA-A1"
+        },
+        {
+          "value": "bb-dub-it-a1",
+          "text": "BB-DUB-IT-A1"
+        },
+        {
+          "value": "bb-dub-pf-a1",
+          "text": "BB-DUB-PF-A1"
+        },
+        {
+          "value": "bb-dub-pf30-a1",
+          "text": "BB-DUB-PF30-A1"
+        },
+        {
+          "value": "bb-dub-t47-a1",
+          "text": "BB-DUB-T47-A1"
+        },
+        {
+          "value": "fc-70-a1",
+          "text": "FC-70-A1"
+        },
+        {
+          "value": "fc-70-pa-a1",
+          "text": "FC-70-PA-A1"
+        },
+        {
+          "value": "fc-90-a1",
+          "text": "FC-90-A1"
+        },
+        {
+          "value": "fc-90-pa-a1",
+          "text": "FC-90-PA-A1"
+        },
+        {
+          "value": "fc-apx-1-a1",
+          "text": "FC-APX-1-A1"
+        },
+        {
+          "value": "fc-apx-1w-d1",
+          "text": "FC-APX-1W-D1"
+        },
+        {
+          "value": "fc-desc-6k-a1",
+          "text": "FC-DESC-6K-A1"
+        },
+        {
+          "value": "fc-desc-7k-a1",
+          "text": "FC-DESC-7K-A1"
+        },
+        {
+          "value": "fc-desc-7k-b1",
+          "text": "FC-DESC-7K-B1"
+        },
+        {
+          "value": "fc-desc-c-b1",
+          "text": "FC-DESC-C-B1"
+        },
+        {
+          "value": "fc-desc-cl-a1",
+          "text": "FC-DESC-CL-A1"
+        },
+        {
+          "value": "fc-desc-cldh-a1",
+          "text": "FC-DESC-CLDH-A1"
+        },
+        {
+          "value": "fc-desc-dh-b1",
+          "text": "FC-DESC-DH-B1"
+        },
+        {
+          "value": "fc-frc-1-d1",
+          "text": "FC-FRC-1-D1"
+        },
+        {
+          "value": "fc-frc-1-e1",
+          "text": "FC-FRC-1-E1"
+        },
+        {
+          "value": "fc-frc-1p-e1",
+          "text": "FC-FRC-1P-E1"
+        },
+        {
+          "value": "fc-frc-1w-d1",
+          "text": "FC-FRC-1W-D1"
+        },
+        {
+          "value": "fc-frc-1w-d2",
+          "text": "FC-FRC-1W-D2"
+        },
+        {
+          "value": "fc-frc-1w-e1",
+          "text": "FC-FRC-1W-E1"
+        },
+        {
+          "value": "fc-frc-1wp-d2",
+          "text": "FC-FRC-1WP-D2"
+        },
+        {
+          "value": "fc-frc-1wp-e1",
+          "text": "FC-FRC-1WP-E1"
+        },
+        {
+          "value": "fc-frc-d1",
+          "text": "FC-FRC-D1"
+        },
+        {
+          "value": "fc-frc-d2",
+          "text": "FC-FRC-D2"
+        },
+        {
+          "value": "fc-frc-e1",
+          "text": "FC-FRC-E1"
+        },
+        {
+          "value": "fc-frc-p-d2",
+          "text": "FC-FRC-P-D2"
+        },
+        {
+          "value": "fc-frc-w-d1",
+          "text": "FC-FRC-W-D1"
+        },
+        {
+          "value": "fc-frc-w-d2",
+          "text": "FC-FRC-W-D2"
+        },
+        {
+          "value": "fc-frc-wp-d2",
+          "text": "FC-FRC-WP-D2"
+        },
+        {
+          "value": "fc-gx-1-b1",
+          "text": "FC-GX-1-B1"
+        },
+        {
+          "value": "fc-gx-1-c1",
+          "text": "FC-GX-1-C1"
+        },
+        {
+          "value": "fc-gx-1c-c1",
+          "text": "FC-GX-1C-C1"
+        },
+        {
+          "value": "fc-nx-1-b1",
+          "text": "FC-NX-1-B1"
+        },
+        {
+          "value": "fc-nx-1-c1",
+          "text": "FC-NX-1-C1"
+        },
+        {
+          "value": "fc-red-1-d1",
+          "text": "FC-RED-1-D1"
+        },
+        {
+          "value": "fc-red-d1",
+          "text": "FC-RED-D1"
+        },
+        {
+          "value": "fc-riv-1w-d1",
+          "text": "FC-RIV-1W-D1"
+        },
+        {
+          "value": "fc-riv-1w-e1",
+          "text": "FC-RIV-1W-E1"
+        },
+        {
+          "value": "fc-riv-1wp-e1",
+          "text": "FC-RIV-1WP-E1"
+        },
+        {
+          "value": "fc-riv-d1",
+          "text": "FC-RIV-D1"
+        },
+        {
+          "value": "fc-riv-e1",
+          "text": "FC-RIV-E1"
+        },
+        {
+          "value": "fc-riv-p-e1",
+          "text": "FC-RIV-P-E1"
+        },
+        {
+          "value": "fc-riv-w-d1",
+          "text": "FC-RIV-W-D1"
+        },
+        {
+          "value": "fc-s200-b1",
+          "text": "FC-S200-B1"
+        },
+        {
+          "value": "fc-s390-a1",
+          "text": "FC-S390-A1"
+        },
+        {
+          "value": "fc-s500-b1",
+          "text": "FC-S500-B1"
+        },
+        {
+          "value": "fc-s650-a2",
+          "text": "FC-S650-A2"
+        },
+        {
+          "value": "fc-styl-6k-a1",
+          "text": "FC-STYL-6K-A1"
+        },
+        {
+          "value": "fc-styl-6k-b1",
+          "text": "FC-STYL-6K-B1"
+        },
+        {
+          "value": "fc-styl-7k-b1",
+          "text": "FC-STYL-7K-B1"
+        },
+        {
+          "value": "fc-styl-c-b1",
+          "text": "FC-STYL-C-B1"
+        },
+        {
+          "value": "fc-sx-1-a1",
+          "text": "FC-SX-1-A1"
+        },
+        {
+          "value": "fc-x-1001-d1",
+          "text": "FC-X-1001-D1"
+        },
+        {
+          "value": "fc-x-c-b1",
+          "text": "FC-X-C-B1"
+        },
+        {
+          "value": "fc-x0-1-c1",
+          "text": "FC-X0-1-C1"
+        },
+        {
+          "value": "fc-x0-1-c2",
+          "text": "FC-X0-1-C2"
+        },
+        {
+          "value": "fc-x0-1-c3",
+          "text": "FC-X0-1-C3"
+        },
+        {
+          "value": "fc-x0-1dh-b1",
+          "text": "FC-X0-1DH-B1"
+        },
+        {
+          "value": "fc-xx-1-c1",
+          "text": "FC-XX-1-C1"
+        },
+        {
+          "value": "fc-xx-1-c2",
+          "text": "FC-XX-1-C2"
+        },
+        {
+          "value": "gs-frc-e-a1",
+          "text": "GS-FRC-E-A1"
+        },
+        {
+          "value": "gs-red-e-b1",
+          "text": "GS-RED-E-B1"
+        },
+        {
+          "value": "gs-x0-1e-a1",
+          "text": "GS-X0-1E-A1"
+        },
+        {
+          "value": "gs-xx-1e-a1",
+          "text": "GS-XX-1E-A1"
+        },
+        {
+          "value": "pm-frc-1-d1",
+          "text": "PM-FRC-1-D1"
+        },
+        {
+          "value": "pm-frc-d1",
+          "text": "PM-FRC-D1"
+        },
+        {
+          "value": "pm-red-1-d1",
+          "text": "PM-RED-1-D1"
+        },
+        {
+          "value": "pm-red-d1",
+          "text": "PM-RED-D1"
+        },
+        {
+          "value": "pm-riv-1w-d1",
+          "text": "PM-RIV-1W-D1"
+        },
+        {
+          "value": "pm-riv-d1",
+          "text": "PM-RIV-D1"
+        },
+        {
+          "value": "pm-riv-w-d1",
+          "text": "PM-RIV-W-D1"
+        },
+        {
+          "value": "pm-xx-1-c1",
+          "text": "PM-XX-1-C1"
+        }
+      ]
+    },
+    {
+      "key": "bottom-bracket-type",
+      "label": "Bottom Bracket Type",
+      "options": [
+        {
+          "value": "dub-bb30",
+          "text": "DUB BB30"
+        },
+        {
+          "value": "dub-bb386",
+          "text": "DUB BB386"
+        },
+        {
+          "value": "dub-bsa",
+          "text": "DUB BSA"
+        },
+        {
+          "value": "dub-italian",
+          "text": "DUB Italian"
+        },
+        {
+          "value": "dub-pf30",
+          "text": "DUB PF30"
+        },
+        {
+          "value": "dub-pressfit",
+          "text": "DUB Pressfit"
+        },
+        {
+          "value": "t47",
+          "text": "T47"
+        }
+      ]
+    }
+  ],
+  "publicationImage": {
+    "url": "https://images.ctfassets.net/enhz2tloa31p/1YDk4h8ZmmvWeNQNj8sTY2/016fae133687e2bc59c7150b4cbc40db/SRAM_DUB_Cranksets_and_Bottom_Brackets_Publication_Image.PNG",
+    "details": {
+      "Size": 414317,
+      "Image": {
+        "Height": 488,
+        "Width": 792
+      }
+    },
+    "width": 792,
+    "height": 488,
+    "fileName": "SRAM DUB Cranksets and Bottom Brackets Publication Image.PNG",
+    "contentType": "image/png",
+    "alt": "",
+    "type": "SRAM DUB Cranksets and Bottom Brackets Publication Image",
+    "title": null
+  },
+  "brandImage": {
+    "brandName": "Brand Image - SRAM",
+    "url": "https://images.ctfassets.net/enhz2tloa31p/ia3j9yIKupThIiCnoqohI/8104a8e6dd2d515c3d0653d3dfc63cd9/SRAM_Logo_white_on_transparent.png",
+    "details": {
+      "Size": 3499,
+      "Image": {
+        "Height": 75,
+        "Width": 591
+      }
+    },
+    "width": 591,
+    "height": 75,
+    "fileName": "SRAM Logo white on transparent.png",
+    "contentType": "image/png",
+    "alt": null,
+    "type": "SRAM Logo white on transparent.png",
+    "title": null
+  },
+  "legend": {
+    "id": "37hqImdARdoGCx7ohy3aMx",
+    "type": "Legend",
+    "title": "Legend",
+    "titleEmphasis": false,
+    "hash": "legend",
+    "filters": [],
+    "content": [
+      {
+        "name": "Legend - Adjust",
+        "label": "Adjust",
+        "description": "Adjust the component to the indicated position by moving, sliding, or rotating.",
+        "alt": "",
+        "url": "https://images.ctfassets.net/enhz2tloa31p/ly7SW2e9WtBJT5Dm09Fe7/18c8f65efce219fa0db74c26bb2a4b31/Adjust.svg",
+        "details": {
+          "Size": 275,
+          "Image": {
+            "Height": 18,
+            "Width": 21
+          }
+        },
+        "width": 21,
+        "height": 18,
+        "fileName": "Adjust.svg",
+        "contentType": "image/svg+xml",
+        "type": "icon",
+        "title": null
+      },
+      {
+        "name": "Legend - Grease",
+        "label": "Apply Grease",
+        "description": "Apply grease to lubricate and protect components from friction and/or moisture.",
+        "alt": "",
+        "url": "https://images.ctfassets.net/enhz2tloa31p/4J2P0Sqh8fZqwuMNGXjZjG/9c32a43972c1dbaca92eeeec8ecab5af/Grease.svg",
+        "details": {
+          "Size": 275,
+          "Image": {
+            "Height": 18,
+            "Width": 21
+          }
+        },
+        "width": 21,
+        "height": 18,
+        "fileName": "Grease.svg",
+        "contentType": "image/svg+xml",
+        "type": "icon",
+        "title": null
+      },
+      {
+        "name": "Legend - Measure",
+        "label": "Measure",
+        "description": "Measure a length or distance to a specified value.",
+        "alt": "",
+        "url": "https://images.ctfassets.net/enhz2tloa31p/6LUMmwDM5JWF1ghzklouIH/2e80491f37efcfee6ada0c373f27a195/Measure.svg",
+        "details": {
+          "Size": 275,
+          "Image": {
+            "Height": 18,
+            "Width": 21
+          }
+        },
+        "width": 21,
+        "height": 18,
+        "fileName": "Measure.svg",
+        "contentType": "image/svg+xml",
+        "type": "icon",
+        "title": null
+      },
+      {
+        "name": "Legend - Install",
+        "label": "Install",
+        "description": "Install the component in the indicated position by pressing, attaching, or placing.",
+        "alt": "",
+        "url": "https://images.ctfassets.net/enhz2tloa31p/4XgIrBh0mPQEHME0IU7g1T/001c460f8476273a846ff612b64922af/Install.svg",
+        "details": {
+          "Size": 275,
+          "Image": {
+            "Height": 18,
+            "Width": 21
+          }
+        },
+        "width": 21,
+        "height": 18,
+        "fileName": "Install.svg",
+        "contentType": "image/svg+xml",
+        "type": "icon",
+        "title": null
+      },
+      {
+        "name": "Legend - Remove",
+        "label": "Remove",
+        "description": "Remove the component as indicated, either by hand or with a specified tool.",
+        "alt": "Remove",
+        "url": "https://images.ctfassets.net/enhz2tloa31p/7AxoJ6yjKkkEFj3PUT8ByX/6db7b44cf3e5fdd5493c376a3ed20673/Remove.svg",
+        "details": {
+          "Size": 275,
+          "Image": {
+            "Height": 18,
+            "Width": 21
+          }
+        },
+        "width": 21,
+        "height": 18,
+        "fileName": "Remove.svg",
+        "contentType": "image/svg+xml",
+        "type": "icon",
+        "title": null
+      },
+      {
+        "name": "Legend - Torque",
+        "label": "Torque",
+        "description": "Tighten a fastener to a specified value, or apply a tightening force.",
+        "alt": "",
+        "url": "https://images.ctfassets.net/enhz2tloa31p/2hZQ04sjc6R7udw5qHf8K1/c1f417493d81c419d527d1c87a31f441/Torque.svg",
+        "details": {
+          "Size": 275,
+          "Image": {
+            "Height": 18,
+            "Width": 21
+          }
+        },
+        "width": 21,
+        "height": 18,
+        "fileName": "Torque.svg",
+        "contentType": "image/svg+xml",
+        "type": "icon",
+        "title": null
+      }
+    ]
+  },
+  "toolList": {
+    "id": "3gwfkBfig6wj96xtGrwOWZ",
+    "type": "ToolList",
+    "title": "Tools and Supplies",
+    "titleEmphasis": false,
+    "hash": "tools-and-supplies",
+    "filters": [],
+    "content": [
+      {
+        "name": "Tool List - Divider - Safety and Protection Supplies",
+        "label": "Safety and Protection Supplies",
+        "description": null,
+        "alt": "",
+        "url": "https://images.ctfassets.net/enhz2tloa31p/4LftM63LO6zaKe86rgcWp1/43dbeaa12c3c49a1df4b95ffd850d41a/Icon_Black_Line.svg",
+        "details": {
+          "Size": 237,
+          "Image": {
+            "Height": 7,
+            "Width": 126
+          }
+        },
+        "width": 126,
+        "height": 7,
+        "fileName": "Icon Black Line.svg",
+        "contentType": "image/svg+xml",
+        "type": "icon",
+        "title": null
+      },
+      {
+        "name": "Tool List - Safety Glasses",
+        "label": "Safety Glasses",
+        "description": null,
+        "alt": "Safety Requirements symbol",
+        "url": "https://images.ctfassets.net/enhz2tloa31p/5zQ6ENW3ShItdqPwfLdF1D/e2086a260438782f244a16086a3fbb69/General_Safety_Smaller.svg",
+        "details": {
+          "Size": 49045,
+          "Image": {
+            "Height": 256,
+            "Width": 256
+          }
+        },
+        "width": 256,
+        "height": 256,
+        "fileName": "General_Safety_Smaller.svg",
+        "contentType": "image/svg+xml",
+        "type": "icon",
+        "title": null
+      },
+      {
+        "name": "Tool List - Gloves",
+        "label": "Nitrile Gloves",
+        "description": null,
+        "alt": "",
+        "url": "https://images.ctfassets.net/enhz2tloa31p/36inGifIGKZCWXlyFqYITb/3d3a867d6edea1acc1225748551ea998/icon_-_Gloves.svg.png",
+        "details": {
+          "Size": 9449,
+          "Image": {
+            "Height": 124,
+            "Width": 97
+          }
+        },
+        "width": 97,
+        "height": 124,
+        "fileName": "icon_-_Gloves.svg.png",
+        "contentType": "image/png",
+        "type": "icon",
+        "title": null
+      },
+      {
+        "name": "Tool List - Divider - Common Tools",
+        "label": "Common Tools",
+        "description": null,
+        "alt": "",
+        "url": "https://images.ctfassets.net/enhz2tloa31p/4LftM63LO6zaKe86rgcWp1/43dbeaa12c3c49a1df4b95ffd850d41a/Icon_Black_Line.svg",
+        "details": {
+          "Size": 237,
+          "Image": {
+            "Height": 7,
+            "Width": 126
+          }
+        },
+        "width": 126,
+        "height": 7,
+        "fileName": "Icon Black Line.svg",
+        "contentType": "image/svg+xml",
+        "type": "icon",
+        "title": null
+      },
+      {
+        "name": "Tool List - Hex Wrench or Hex Bit Socket - DUB Cranksets and Bottom Brackets - 2, 8 mm",
+        "label": "Hex Wrench or Hex Bit Socket",
+        "description": "2, 8 mm",
+        "alt": "Hex tool icon",
+        "url": "https://images.ctfassets.net/enhz2tloa31p/1v266mOjaOrOMwL5w0qIEW/52ccf50678d8ee1db206dfd9b406121a/icon_-_Hex.svg",
+        "details": {
+          "Size": 305,
+          "Image": {
+            "Height": 19,
+            "Width": 22
+          }
+        },
+        "width": 22,
+        "height": 19,
+        "fileName": "icon - Hex.svg",
+        "contentType": "image/svg+xml",
+        "type": "icon",
+        "title": null
+      },
+      {
+        "name": "Tool List - Torque Wrench",
+        "label": "Torque Wrench",
+        "description": null,
+        "alt": "",
+        "url": "https://images.ctfassets.net/enhz2tloa31p/zQFw0zohPuS6FYFSAL57z/c318db88193031092c30f5c8add3488f/icon_-_Torque_Wrench.svg",
+        "details": {
+          "Size": 4739,
+          "Image": {
+            "Height": 73,
+            "Width": 70
+          }
+        },
+        "width": 70,
+        "height": 73,
+        "fileName": "icon - Torque Wrench.svg",
+        "contentType": "image/svg+xml",
+        "type": "icon",
+        "title": null
+      },
+      {
+        "name": "Tool List - Pin Spanner - DUB Cranksets and Bottom Brackets - 2.3 mm",
+        "label": "Pin Spanner",
+        "description": "2.3 mm",
+        "alt": "",
+        "url": "https://images.ctfassets.net/enhz2tloa31p/64MWvCUmmvzElK2cq8j1eh/b41919777d2d322d930c401e63a29b14/icon_-_Pin_Spanner.svg",
+        "details": {
+          "Size": 4849,
+          "Image": {
+            "Height": 128,
+            "Width": 255
+          }
+        },
+        "width": 255,
+        "height": 128,
+        "fileName": "icon_-_Pin_Spanner.svg",
+        "contentType": "image/svg+xml",
+        "type": "icon",
+        "title": null
+      },
+      {
+        "name": "Tool List - Divider - Bicycle Tools",
+        "label": "Bicycle Tools",
+        "description": null,
+        "alt": "",
+        "url": "https://images.ctfassets.net/enhz2tloa31p/4LftM63LO6zaKe86rgcWp1/43dbeaa12c3c49a1df4b95ffd850d41a/Icon_Black_Line.svg",
+        "details": {
+          "Size": 237,
+          "Image": {
+            "Height": 7,
+            "Width": 126
+          }
+        },
+        "width": 126,
+        "height": 7,
+        "fileName": "Icon Black Line.svg",
+        "contentType": "image/svg+xml",
+        "type": "icon",
+        "title": null
+      },
+      {
+        "name": "Headset Press",
+        "label": "Headset Press",
+        "description": null,
+        "alt": "",
+        "url": "https://images.ctfassets.net/enhz2tloa31p/6WszesyUxFcgEMfQbxzFcn/fb2d2a378cff6a69cf5b3d4058e1dd81/icon_-_Headset_Press_Black.svg",
+        "details": {
+          "Size": 11276,
+          "Image": {
+            "Height": 176,
+            "Width": 255
+          }
+        },
+        "width": 255,
+        "height": 176,
+        "fileName": "icon_-_Headset_Press_Black.svg",
+        "contentType": "image/svg+xml",
+        "type": "icon",
+        "title": null
+      },
+      {
+        "name": "Tool List - BB Notch Tool - DUB Cranksets and Bottom Brackets - 12-Notch & 16-Notch Bottom Bracket Tool-Large",
+        "label": "Bottom Bracket Tool",
+        "description": "12-Notch Bottom Bracket Tool -\n16-Notch Bottom Bracket Tool-Large",
+        "alt": "",
+        "url": "https://images.ctfassets.net/enhz2tloa31p/6XEZQfkNRf0WXIl16Xhmjc/c3bd91c426ecdaf9dc7643f2cac0a2e5/icon_-_BB_Notch_Tool.svg",
+        "details": {
+          "Size": 5304,
+          "Image": {
+            "Height": 253,
+            "Width": 236
+          }
+        },
+        "width": 236,
+        "height": 253,
+        "fileName": "icon_-_BB_Notch_Tool.svg",
+        "contentType": "image/svg+xml",
+        "type": "icon",
+        "title": null
+      },
+      {
+        "name": "Icon - DUB Self-Extracting Cap Tool",
+        "label": "DUB Self-Extracting Cap Tool",
+        "description": null,
+        "alt": "",
+        "url": "https://images.ctfassets.net/enhz2tloa31p/15X74bKiohZTIPusEk7BEr/9c55a7458d9b03e71951ab0d79c475b2/AbbeyDUBTool.svg",
+        "details": {
+          "Size": 14291,
+          "Image": {
+            "Height": 245,
+            "Width": 256
+          }
+        },
+        "width": 256,
+        "height": 245,
+        "fileName": "AbbeyDUBTool.svg",
+        "contentType": "image/svg+xml",
+        "type": "icon",
+        "title": null
+      },
+      {
+        "name": "Tool List - Divider - Lubricants and Fluids",
+        "label": "Lubricants and Fluids",
+        "description": null,
+        "alt": "",
+        "url": "https://images.ctfassets.net/enhz2tloa31p/4LftM63LO6zaKe86rgcWp1/43dbeaa12c3c49a1df4b95ffd850d41a/Icon_Black_Line.svg",
+        "details": {
+          "Size": 237,
+          "Image": {
+            "Height": 7,
+            "Width": 126
+          }
+        },
+        "width": 126,
+        "height": 7,
+        "fileName": "Icon Black Line.svg",
+        "contentType": "image/svg+xml",
+        "type": "icon",
+        "title": null
+      },
+      {
+        "name": "Tool List - Grease",
+        "label": "Grease",
+        "description": null,
+        "alt": "",
+        "url": "https://images.ctfassets.net/enhz2tloa31p/6ZTkfBMPXmSq3M3C8elhTg/ba7b95dc894a1aeab81d1278db8af2b2/icon_-_Grease_Bottle.svg",
+        "details": {
+          "Size": 3910,
+          "Image": {
+            "Height": 56,
+            "Width": 55
+          }
+        },
+        "width": 55,
+        "height": 56,
+        "fileName": "icon - Grease Bottle.svg",
+        "contentType": "image/svg+xml",
+        "type": "icon",
+        "title": null
+      },
+      {
+        "name": "Icon - Threadlock",
+        "label": "Threadlock",
+        "description": "Medium-compound strength threadlocker",
+        "alt": "",
+        "url": "https://images.ctfassets.net/enhz2tloa31p/2VxurMG6hFEHJkiobkWpLa/ad96b11773c5ea7869d26c9bbea529f4/icon_-_Threadlock_1.svg",
+        "details": {
+          "Size": 10073,
+          "Image": {
+            "Height": 252,
+            "Width": 87
+          }
+        },
+        "width": 87,
+        "height": 252,
+        "fileName": "icon_-_Threadlock_1.svg",
+        "contentType": "image/svg+xml",
+        "type": "icon",
+        "title": null
+      },
+      {
+        "name": "Tool List - Isopropyl Alcohol",
+        "label": "Isopropyl Alcohol",
+        "description": null,
+        "alt": "",
+        "url": "https://images.ctfassets.net/enhz2tloa31p/MO9AqZh6oaLjYrcAjdw1K/af9eac21b2ce0b975157d028c935f58b/IPA_Bottle-01.svg",
+        "details": {
+          "Size": 22317,
+          "Image": {
+            "Height": 250,
+            "Width": 97
+          }
+        },
+        "width": 97,
+        "height": 250,
+        "fileName": "IPA Bottle-01.svg",
+        "contentType": "image/svg+xml",
+        "type": "icon",
+        "title": null
+      }
+    ]
+  },
+  "modules": [
+    {
+      "id": "fQdY8liE0hQsyQ1gZkpen",
+      "title": "Safety and Precautions",
+      "hash": "safety-and-precautions",
+      "filters": [],
+      "children": [
+        {
+          "id": "6PW9YZ7i2Fg9beQZpUcVR2",
+          "type": "block",
+          "title": "General Safety",
+          "titleEmphasis": false,
+          "hash": "general-safety",
+          "filters": [],
+          "content": [
+            {
+              "step": "notastep",
+              "content": "<p><strong>Safety First!</strong></p><p>We care about YOU. Please, always wear your safety glasses and protective gloves when servicing SRAM products. Protect yourself! Wear your safety gear!</p>",
+              "images": [
+                {
+                  "imageName": "icon - TC - General Safety",
+                  "caption1": null,
+                  "caption1color": null,
+                  "caption2": null,
+                  "caption2color": null,
+                  "caption3": null,
+                  "caption3color": null,
+                  "fullWidthImage": false,
+                  "url": "https://images.ctfassets.net/enhz2tloa31p/5zQ6ENW3ShItdqPwfLdF1D/e2086a260438782f244a16086a3fbb69/General_Safety_Smaller.svg",
+                  "details": {
+                    "Size": 49045,
+                    "Image": {
+                      "Height": 256,
+                      "Width": 256
+                    }
+                  },
+                  "width": 256,
+                  "height": 256,
+                  "fileName": "General_Safety_Smaller.svg",
+                  "contentType": "image/svg+xml",
+                  "alt": "Safety Requirements symbol",
+                  "type": "image",
+                  "title": null
+                }
+              ],
+              "type": "text",
+              "title": null
+            }
+          ]
+        },
+        {
+          "id": "4yI2mG9oljcIJmNtytSq7p",
+          "type": "block",
+          "title": "Safety Instructions",
+          "titleEmphasis": false,
+          "hash": "safety-instructions",
+          "filters": [],
+          "content": [
+            {
+              "noticeType": "ansi-instructions",
+              "content": "<p>You must read and understand the Safety Instructions document included with your product before proceeding with the installation. Improperly installed components are extremely dangerous and could result in severe and/or fatal injuries. If you have any questions about\nthe installation of these components, consult a qualified bicycle mechanic. This document is also available on <a href=\"https://www.sram.com\" title=\"\">www.sram.com</a>.\n\n</p>",
+              "type": "notice",
+              "title": "Safety Instructions"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3Pz6eUaosP0WCUj6xwMHEn",
+      "title": "How to Use This Manual",
+      "hash": "how-to-use-this-manual",
+      "filters": [],
+      "children": [
+        {
+          "id": "11wvaiNhIgMXNcPgLL5v48",
+          "type": "block",
+          "title": "Legend",
+          "titleEmphasis": false,
+          "hash": "legend_1",
+          "filters": [],
+          "content": [
+            {
+              "step": "notastep",
+              "content": "<p>Click on the icon at the top right corner of the screen to display the color legend and the complete list of tools and supplies for this manual in a scrollable dropdown list.</p><p>The colors and symbols featured in this manual correspond to specific actions or procedures. A detailed description for each color and symbol is contained in the dropdown.</p>",
+              "images": [
+                {
+                  "imageName": "IMG-UM-GENERIC-HOW TO USE THIS MANUAL-LEGEND AND TOOLS DROPDOWN",
+                  "caption1": null,
+                  "caption1color": "black",
+                  "caption2": null,
+                  "caption2color": "black",
+                  "caption3": null,
+                  "caption3color": "black",
+                  "fullWidthImage": true,
+                  "url": "https://images.ctfassets.net/enhz2tloa31p/52ROAYd1JvUZURPRkuViT3/2c439b54f7cc4f0694cbb3e4ef9384aa/IMG-UM-GENERIC-HOW_TO_USE_THIS_MANUAL-LEGEND_AND_TOOLS_DROPDOWN.jpg",
+                  "details": {
+                    "Size": 160129,
+                    "Image": {
+                      "Height": 497,
+                      "Width": 1834
+                    }
+                  },
+                  "width": 1834,
+                  "height": 497,
+                  "fileName": "IMG-UM-GENERIC-HOW TO USE THIS MANUAL-LEGEND AND TOOLS DROPDOWN.jpg",
+                  "contentType": "image/jpeg",
+                  "alt": "",
+                  "type": "image",
+                  "title": null
+                }
+              ],
+              "type": "text",
+              "title": null
+            }
+          ]
+        },
+        {
+          "id": "6U1A1adurudaNE6vAPQ3O6",
+          "type": "block",
+          "title": "How to Use Filters",
+          "titleEmphasis": false,
+          "hash": "how-to-use-filters",
+          "filters": [],
+          "content": [
+            {
+              "step": "notastep",
+              "content": "<p>Use the dropdown lists in the <strong>SELECT FILTERS:</strong> window at the top left of the page to select the preferred language, product model code, and instructional content. Product instructional content filters will vary.</p><p><strong>Language Filter:</strong> Select Language first. When a new language is selected, all other selected filters will reset.</p><p><strong>All non-Language Filters:</strong> To reset a non-language filter, click on the X. </p>",
+              "images": [
+                {
+                  "imageName": "img-howtousethismanual-filters",
+                  "caption1": null,
+                  "caption1color": "black",
+                  "caption2": null,
+                  "caption2color": "black",
+                  "caption3": null,
+                  "caption3color": "black",
+                  "fullWidthImage": false,
+                  "url": "https://images.ctfassets.net/enhz2tloa31p/4f7rvXAWC0lB8AWGTN2ZgZ/012d89872a7f1f4893c7d0adaafd49b7/img-howtousethismanual-filters.jpg",
+                  "details": {
+                    "Size": 155804,
+                    "Image": {
+                      "Height": 600,
+                      "Width": 900
+                    }
+                  },
+                  "width": 900,
+                  "height": 600,
+                  "fileName": "img-howtousethismanual-filters.jpg",
+                  "contentType": "image/jpeg",
+                  "alt": "",
+                  "type": "image",
+                  "title": null
+                },
+                {
+                  "imageName": "img-howtousethismanual-filters-models",
+                  "caption1": null,
+                  "caption1color": "black",
+                  "caption2": null,
+                  "caption2color": "black",
+                  "caption3": null,
+                  "caption3color": "black",
+                  "fullWidthImage": false,
+                  "url": "https://images.ctfassets.net/enhz2tloa31p/5kN9pKNEgNZHhF0lnB0yF4/0fc05b29dfd01356761687f8bee44d46/img-howtousethismanual-filters-models.jpg",
+                  "details": {
+                    "Size": 169303,
+                    "Image": {
+                      "Height": 600,
+                      "Width": 900
+                    }
+                  },
+                  "width": 900,
+                  "height": 600,
+                  "fileName": "img-howtousethismanual-filters-models.jpg",
+                  "contentType": "image/jpeg",
+                  "alt": "",
+                  "type": "image",
+                  "title": null
+                },
+                {
+                  "imageName": "img-howtousethismanual-filters clear",
+                  "caption1": null,
+                  "caption1color": "black",
+                  "caption2": null,
+                  "caption2color": "black",
+                  "caption3": null,
+                  "caption3color": "black",
+                  "fullWidthImage": false,
+                  "url": "https://images.ctfassets.net/enhz2tloa31p/3VPmhFF3iz8pdGHcNuSHU/c8f499a6a7c6ff515a7a90cb42c65ea7/img-howtousethismanual-filters_clear.jpg",
+                  "details": {
+                    "Size": 99388,
+                    "Image": {
+                      "Height": 600,
+                      "Width": 900
+                    }
+                  },
+                  "width": 900,
+                  "height": 600,
+                  "fileName": "img-howtousethismanual-filters clear.jpg",
+                  "contentType": "image/jpeg",
+                  "alt": "",
+                  "type": "image",
+                  "title": null
+                }
+              ],
+              "type": "text",
+              "title": null
+            }
+          ]
+        },
+        {
+          "id": "4QzHaRlDocI0qn0R5Bovdc",
+          "type": "block",
+          "title": "Model Code Identification",
+          "titleEmphasis": false,
+          "hash": "model-code-identification",
+          "filters": [],
+          "content": [
+            {
+              "step": "notastep",
+              "content": "<p>Product model code and specification details can be identified with the serial number on the product. Model codes can be used to identify the product type, series name, model name, and product version associated with the production model year. Product details can be used to identify spare parts, service kit, and lubricant compatibility.</p><p>Model Code example: <strong>RD-XX-E-B1</strong></p><p><strong>RD </strong>= Product Type - <strong>Rear Derailleur</strong></p><p><strong>XX </strong>= Platform/Series - <strong>XX</strong></p><p><strong>B1 </strong>= Version - (<strong>B</strong> - Second generation, <strong>1</strong> - first iteration)</p><p>To identify the model code, locate the serial number on the product and enter it into the Search by Model Name or Serial Number field at <a href=\"https://www.sram.com/service\" class=\"s-hyperLink\">www.sram.com/service</a>.</p>",
+              "images": null,
+              "type": "text",
+              "title": null
+            }
+          ]
+        },
+        {
+          "id": "75wr1Yx3TLztfQwMHnUurc",
+          "type": "block",
+          "title": "Product Appearance May Vary",
+          "titleEmphasis": false,
+          "hash": "product-appearance-may-vary",
+          "filters": [],
+          "content": [
+            {
+              "step": "notastep",
+              "content": "<p>Your product&#39;s appearance may vary from those pictured in this manual. </p><p>Images and examples pictured are for conceptual purposes and may vary from product design, appearance, and performance.</p>",
+              "images": null,
+              "type": "text",
+              "title": null
+            }
+          ]
+        },
+        {
+          "id": "4jcx3dmuZcjkjHsWdjUda1",
+          "type": "block",
+          "title": "Warranty and Trademark",
+          "titleEmphasis": false,
+          "hash": "warranty-and-trademark",
+          "filters": [],
+          "content": [
+            {
+              "step": "notastep",
+              "content": "<p>Consult <a href=\"https://www.sram.com/service\" class=\"s-hyperLink\">sram.com/service</a> whenever a separate manual is referenced in this document.</p><p>Read the full warranty policy for your components at <a href=\"https://www.sram.com/en/service/warranty\" class=\"s-hyperLink\">sram.com/en/service/warranty</a>.</p><p>For information about trademarks used in this manual, visit <a href=\"https://www.sram.com/website-terms-of-use\" class=\"s-hyperLink\">sram.com/website-terms-of-use</a>.\n\n</p>",
+              "images": null,
+              "type": "text",
+              "title": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3LEbYp8QcYjB0nfNEzE32s",
+      "title": "Tools and Supplies",
+      "hash": "tools-and-supplies_1",
+      "filters": [],
+      "children": [
+        {
+          "id": "FsQ4vz8kVZrvC2ingOpXH",
+          "type": "block",
+          "title": null,
+          "titleEmphasis": false,
+          "hash": null,
+          "filters": [],
+          "content": [
+            {
+              "step": "notastep",
+              "content": "<p>Highly specialized tools and supplies are required for the replacement and maintenance of your SRAM components. We recommend that you have a qualified SRAM dealer work on your SRAM components.</p>",
+              "images": null,
+              "type": "text",
+              "title": null
+            }
+          ]
+        },
+        {
+          "id": "3gwfkBfig6wj96xtGrwOWZ",
+          "type": "toolList",
+          "title": "Tools and Supplies",
+          "titleEmphasis": false,
+          "hash": "tools-and-supplies_2",
+          "filters": [],
+          "content": [
+            {
+              "name": "Tool List - Divider - Safety and Protection Supplies",
+              "label": "Safety and Protection Supplies",
+              "description": null,
+              "alt": "",
+              "url": "https://images.ctfassets.net/enhz2tloa31p/4LftM63LO6zaKe86rgcWp1/43dbeaa12c3c49a1df4b95ffd850d41a/Icon_Black_Line.svg",
+              "details": {
+                "Size": 237,
+                "Image": {
+                  "Height": 7,
+                  "Width": 126
+                }
+              },
+              "width": 126,
+              "height": 7,
+              "fileName": "Icon Black Line.svg",
+              "contentType": "image/svg+xml",
+              "type": "icon",
+              "title": null
+            },
+            {
+              "name": "Tool List - Safety Glasses",
+              "label": "Safety Glasses",
+              "description": null,
+              "alt": "Safety Requirements symbol",
+              "url": "https://images.ctfassets.net/enhz2tloa31p/5zQ6ENW3ShItdqPwfLdF1D/e2086a260438782f244a16086a3fbb69/General_Safety_Smaller.svg",
+              "details": {
+                "Size": 49045,
+                "Image": {
+                  "Height": 256,
+                  "Width": 256
+                }
+              },
+              "width": 256,
+              "height": 256,
+              "fileName": "General_Safety_Smaller.svg",
+              "contentType": "image/svg+xml",
+              "type": "icon",
+              "title": null
+            },
+            {
+              "name": "Tool List - Gloves",
+              "label": "Nitrile Gloves",
+              "description": null,
+              "alt": "",
+              "url": "https://images.ctfassets.net/enhz2tloa31p/36inGifIGKZCWXlyFqYITb/3d3a867d6edea1acc1225748551ea998/icon_-_Gloves.svg.png",
+              "details": {
+                "Size": 9449,
+                "Image": {
+                  "Height": 124,
+                  "Width": 97
+                }
+              },
+              "width": 97,
+              "height": 124,
+              "fileName": "icon_-_Gloves.svg.png",
+              "contentType": "image/png",
+              "type": "icon",
+              "title": null
+            },
+            {
+              "name": "Tool List - Divider - Common Tools",
+              "label": "Common Tools",
+              "description": null,
+              "alt": "",
+              "url": "https://images.ctfassets.net/enhz2tloa31p/4LftM63LO6zaKe86rgcWp1/43dbeaa12c3c49a1df4b95ffd850d41a/Icon_Black_Line.svg",
+              "details": {
+                "Size": 237,
+                "Image": {
+                  "Height": 7,
+                  "Width": 126
+                }
+              },
+              "width": 126,
+              "height": 7,
+              "fileName": "Icon Black Line.svg",
+              "contentType": "image/svg+xml",
+              "type": "icon",
+              "title": null
+            },
+            {
+              "name": "Tool List - Hex Wrench or Hex Bit Socket - DUB Cranksets and Bottom Brackets - 2, 8 mm",
+              "label": "Hex Wrench or Hex Bit Socket",
+              "description": "2, 8 mm",
+              "alt": "Hex tool icon",
+              "url": "https://images.ctfassets.net/enhz2tloa31p/1v266mOjaOrOMwL5w0qIEW/52ccf50678d8ee1db206dfd9b406121a/icon_-_Hex.svg",
+              "details": {
+                "Size": 305,
+                "Image": {
+                  "Height": 19,
+                  "Width": 22
+                }
+              },
+              "width": 22,
+              "height": 19,
+              "fileName": "icon - Hex.svg",
+              "contentType": "image/svg+xml",
+              "type": "icon",
+              "title": null
+            },
+            {
+              "name": "Tool List - Torque Wrench",
+              "label": "Torque Wrench",
+              "description": null,
+              "alt": "",
+              "url": "https://images.ctfassets.net/enhz2tloa31p/zQFw0zohPuS6FYFSAL57z/c318db88193031092c30f5c8add3488f/icon_-_Torque_Wrench.svg",
+              "details": {
+                "Size": 4739,
+                "Image": {
+                  "Height": 73,
+                  "Width": 70
+                }
+              },
+              "width": 70,
+              "height": 73,
+              "fileName": "icon - Torque Wrench.svg",
+              "contentType": "image/svg+xml",
+              "type": "icon",
+              "title": null
+            },
+            {
+              "name": "Tool List - Pin Spanner - DUB Cranksets and Bottom Brackets - 2.3 mm",
+              "label": "Pin Spanner",
+              "description": "2.3 mm",
+              "alt": "",
+              "url": "https://images.ctfassets.net/enhz2tloa31p/64MWvCUmmvzElK2cq8j1eh/b41919777d2d322d930c401e63a29b14/icon_-_Pin_Spanner.svg",
+              "details": {
+                "Size": 4849,
+                "Image": {
+                  "Height": 128,
+                  "Width": 255
+                }
+              },
+              "width": 255,
+              "height": 128,
+              "fileName": "icon_-_Pin_Spanner.svg",
+              "contentType": "image/svg+xml",
+              "type": "icon",
+              "title": null
+            },
+            {
+              "name": "Tool List - Divider - Bicycle Tools",
+              "label": "Bicycle Tools",
+              "description": null,
+              "alt": "",
+              "url": "https://images.ctfassets.net/enhz2tloa31p/4LftM63LO6zaKe86rgcWp1/43dbeaa12c3c49a1df4b95ffd850d41a/Icon_Black_Line.svg",
+              "details": {
+                "Size": 237,
+                "Image": {
+                  "Height": 7,
+                  "Width": 126
+                }
+              },
+              "width": 126,
+              "height": 7,
+              "fileName": "Icon Black Line.svg",
+              "contentType": "image/svg+xml",
+              "type": "icon",
+              "title": null
+            },
+            {
+              "name": "Headset Press",
+              "label": "Headset Press",
+              "description": null,
+              "alt": "",
+              "url": "https://images.ctfassets.net/enhz2tloa31p/6WszesyUxFcgEMfQbxzFcn/fb2d2a378cff6a69cf5b3d4058e1dd81/icon_-_Headset_Press_Black.svg",
+              "details": {
+                "Size": 11276,
+                "Image": {
+                  "Height": 176,
+                  "Width": 255
+                }
+              },
+              "width": 255,
+              "height": 176,
+              "fileName": "icon_-_Headset_Press_Black.svg",
+              "contentType": "image/svg+xml",
+              "type": "icon",
+              "title": null
+            },
+            {
+              "name": "Tool List - BB Notch Tool - DUB Cranksets and Bottom Brackets - 12-Notch & 16-Notch Bottom Bracket Tool-Large",
+              "label": "Bottom Bracket Tool",
+              "description": "12-Notch Bottom Bracket Tool -\n16-Notch Bottom Bracket Tool-Large",
+              "alt": "",
+              "url": "https://images.ctfassets.net/enhz2tloa31p/6XEZQfkNRf0WXIl16Xhmjc/c3bd91c426ecdaf9dc7643f2cac0a2e5/icon_-_BB_Notch_Tool.svg",
+              "details": {
+                "Size": 5304,
+                "Image": {
+                  "Height": 253,
+                  "Width": 236
+                }
+              },
+              "width": 236,
+              "height": 253,
+              "fileName": "icon_-_BB_Notch_Tool.svg",
+              "contentType": "image/svg+xml",
+              "type": "icon",
+              "title": null
+            },
+            {
+              "name": "Icon - DUB Self-Extracting Cap Tool",
+              "label": "DUB Self-Extracting Cap Tool",
+              "description": null,
+              "alt": "",
+              "url": "https://images.ctfassets.net/enhz2tloa31p/15X74bKiohZTIPusEk7BEr/9c55a7458d9b03e71951ab0d79c475b2/AbbeyDUBTool.svg",
+              "details": {
+                "Size": 14291,
+                "Image": {
+                  "Height": 245,
+                  "Width": 256
+                }
+              },
+              "width": 256,
+              "height": 245,
+              "fileName": "AbbeyDUBTool.svg",
+              "contentType": "image/svg+xml",
+              "type": "icon",
+              "title": null
+            },
+            {
+              "name": "Tool List - Divider - Lubricants and Fluids",
+              "label": "Lubricants and Fluids",
+              "description": null,
+              "alt": "",
+              "url": "https://images.ctfassets.net/enhz2tloa31p/4LftM63LO6zaKe86rgcWp1/43dbeaa12c3c49a1df4b95ffd850d41a/Icon_Black_Line.svg",
+              "details": {
+                "Size": 237,
+                "Image": {
+                  "Height": 7,
+                  "Width": 126
+                }
+              },
+              "width": 126,
+              "height": 7,
+              "fileName": "Icon Black Line.svg",
+              "contentType": "image/svg+xml",
+              "type": "icon",
+              "title": null
+            },
+            {
+              "name": "Tool List - Grease",
+              "label": "Grease",
+              "description": null,
+              "alt": "",
+              "url": "https://images.ctfassets.net/enhz2tloa31p/6ZTkfBMPXmSq3M3C8elhTg/ba7b95dc894a1aeab81d1278db8af2b2/icon_-_Grease_Bottle.svg",
+              "details": {
+                "Size": 3910,
+                "Image": {
+                  "Height": 56,
+                  "Width": 55
+                }
+              },
+              "width": 55,
+              "height": 56,
+              "fileName": "icon - Grease Bottle.svg",
+              "contentType": "image/svg+xml",
+              "type": "icon",
+              "title": null
+            },
+            {
+              "name": "Icon - Threadlock",
+              "label": "Threadlock",
+              "description": "Medium-compound strength threadlocker",
+              "alt": "",
+              "url": "https://images.ctfassets.net/enhz2tloa31p/2VxurMG6hFEHJkiobkWpLa/ad96b11773c5ea7869d26c9bbea529f4/icon_-_Threadlock_1.svg",
+              "details": {
+                "Size": 10073,
+                "Image": {
+                  "Height": 252,
+                  "Width": 87
+                }
+              },
+              "width": 87,
+              "height": 252,
+              "fileName": "icon_-_Threadlock_1.svg",
+              "contentType": "image/svg+xml",
+              "type": "icon",
+              "title": null
+            },
+            {
+              "name": "Tool List - Isopropyl Alcohol",
+              "label": "Isopropyl Alcohol",
+              "description": null,
+              "alt": "",
+              "url": "https://images.ctfassets.net/enhz2tloa31p/MO9AqZh6oaLjYrcAjdw1K/af9eac21b2ce0b975157d028c935f58b/IPA_Bottle-01.svg",
+              "details": {
+                "Size": 22317,
+                "Image": {
+                  "Height": 250,
+                  "Width": 97
+                }
+              },
+              "width": 97,
+              "height": 250,
+              "fileName": "IPA Bottle-01.svg",
+              "contentType": "image/svg+xml",
+              "type": "icon",
+              "title": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1ZSljCUgw4pLWl050HqtNx",
+      "title": "SRAM DUB Bottom Bracket Specifications",
+      "hash": "sram-dub-bottom-bracket-specifications",
+      "filters": [
+        {
+          "key": "models",
+          "values": [
+            "bb-dub-bb30-a1",
+            "bb-dub-bsa-a1",
+            "bb-dub-pf30-a1",
+            "bb-dub-pf-a1",
+            "bb-dub-t47-a1",
+            "bb-dub-it-a1"
+          ]
+        }
+      ],
+      "children": [
+        {
+          "id": "7Bj6Sa7IUHBCVk7migCFgK",
+          "type": "block",
+          "title": "DUB Bottom Bracket Anatomy",
+          "titleEmphasis": false,
+          "hash": "dub-bottom-bracket-anatomy",
+          "filters": [],
+          "content": [
+            {
+              "step": "notastep",
+              "content": "<table><tr><td><p>1. Outer left, non-drive side spacer</p></td><td><p>4. Frame shell width</p></td><td><p>7. Outer right, drive side spacer</p></td></tr><tr><td><p>2. Left side cup</p></td><td><p>5. Inner right, drive side spacer</p></td><td><p></p></td></tr><tr><td><p>3. Inner left, non-drive side spacer</p></td><td><p>6. Right side cup and  center tube</p></td><td><p></p></td></tr></table><p></p>",
+              "images": [
+                {
+                  "imageName": "SRAM DUB BB Anatomy",
+                  "caption1": null,
+                  "caption1color": "black",
+                  "caption2": null,
+                  "caption2color": "black",
+                  "caption3": null,
+                  "caption3color": "black",
+                  "fullWidthImage": true,
+                  "url": "https://images.ctfassets.net/enhz2tloa31p/4pvXaErmi56teIiDviomhG/874f24c75b0e818e03c043e8bdf6fb51/framefromrear_SIL.jpg",
+                  "details": {
+                    "Size": 105605,
+                    "Image": {
+                      "Height": 423,
+                      "Width": 900
+                    }
+                  },
+                  "width": 900,
+                  "height": 423,
+                  "fileName": "framefromrear_SIL.jpg",
+                  "contentType": "image/jpeg",
+                  "alt": "SRAM DUB BB Anatomy",
+                  "type": "image",
+                  "title": null
+                }
+              ],
+              "type": "text",
+              "title": null
+            }
+          ]
+        },
+        {
+          "id": "1dh2FLaqVUA6WP3OKE0RjK",
+          "type": "block",
+          "title": "DUB MTB Bottom Bracket Spacer Chart",
+          "titleEmphasis": false,
+          "hash": "dub-mtb-bottom-bracket-spacer-chart",
+          "filters": [
+            {
+              "key": "models",
+              "values": [
+                "bb-dub-bsa-a1",
+                "bb-dub-pf-a1",
+                "bb-dub-pf30-a1",
+                "bb-dub-bb30-a1"
+              ]
+            }
+          ],
+          "content": [
+            {
+              "step": "notastep",
+              "content": "<table><tr><th><p>Frame Shell</p><p>Interface and</p><p>Width (mm)</p></th><th><p>Crankset</p></th><th><p>Outer Left</p><p>Spacer (mm)</p></th><th><p>Inner Left</p><p>Spacer (mm)</p></th><th><p>Inner Right</p><p>Spacer (mm)</p></th><th><p>Outer Right</p><p>Spacer (mm)</p></th></tr><tr><td><p>BSA (68)</p></td><td><p>MTB</p></td><td><p>-</p></td><td><p>2.5</p></td><td><p>2.5</p></td><td><p>4.5</p></td></tr><tr><td><p>BSA (68)</p></td><td><p>MTB WIDE</p></td><td><p>3</p></td><td><p>2.5</p></td><td><p>2.5</p></td><td><p>7.5</p></td></tr><tr><td><p>BSA (73)</p></td><td><p>MTB</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>4.5</p></td></tr><tr><td><p>BSA (73)</p></td><td><p>MTB WIDE</p></td><td><p>3</p></td><td><p>-</p></td><td><p>-</p></td><td><p>7.5</p></td></tr><tr><td><p>BSA (73)</p></td><td><p>Super Boost +</p></td><td><p>4.5</p></td><td><p>-</p></td><td><p>-</p></td><td><p>9</p></td></tr><tr><td><p>BSA (73 Ai)</p></td><td><p>MTB Ai</p></td><td><p>2.5</p></td><td><p>2.5</p></td><td><p>-</p></td><td><p>10.5</p></td></tr><tr><td><p>BSA (73 with Chain Guide)</p></td><td><p>MTB</p></td><td><p>-</p></td><td><p>-</p></td><td><p>Chain Guide</p></td><td><p>2</p></td></tr><tr><td><p>BSA (73 with Chain Guide)</p></td><td><p>MTB Wide</p></td><td><p>3</p></td><td><p>-</p></td><td><p>Chain Guide</p></td><td><p>5</p></td></tr><tr><td><p>BSA (73 with Chain Guide)</p></td><td><p>Super Boost +</p></td><td><p>4.5</p></td><td><p>-</p></td><td><p>Chain Guide</p></td><td><p>6.5</p></td></tr><tr><td><p>BSA (83)</p></td><td><p>DH</p></td><td><p>-</p></td><td><p>2.5</p></td><td><p>2.5</p></td><td><p>4.5</p></td></tr><tr><td><p>BSA (83 Ai)</p></td><td><p>MTB Ai</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>5.5</p></td></tr><tr><td><p>BSA (100)</p></td><td><p>Fat</p></td><td><p>2</p></td><td><p>2.5</p></td><td><p>2.5</p></td><td><p>6</p></td></tr><tr><td><p>PressFit (89.5)</p></td><td><p>MTB</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>4.5</p></td></tr><tr><td><p>PressFit (89.5)</p></td><td><p>MTB Wide</p></td><td><p>3</p></td><td><p>-</p></td><td><p>-</p></td><td><p>7.5</p></td></tr><tr><td><p>PressFit (92)</p></td><td><p>MTB</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>2</p></td></tr><tr><td><p>PressFit (92)</p></td><td><p>MTB Wide</p></td><td><p>3</p></td><td><p>-</p></td><td><p>-</p></td><td><p>5</p></td></tr><tr><td><p>PressFit (92)</p></td><td><p>Super Boost +</p></td><td><p>4.5</p></td><td><p>-</p></td><td><p>-</p></td><td><p>6.5</p></td></tr><tr><td><p>PressFit (104.5)</p></td><td><p>DH</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>4.5</p></td></tr><tr><td><p>PressFit (107)</p></td><td><p>DH</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>2</p></td></tr><tr><td><p>PressFit (121)</p></td><td><p>Fat</p></td><td><p>2</p></td><td><p>-</p></td><td><p>-</p></td><td><p>6</p></td></tr><tr><td><p>PressFit 30 (73)</p></td><td><p>MTB</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>4.5</p></td></tr><tr><td><p>PressFit 30 (73)</p></td><td><p>MTB Wide</p></td><td><p>3</p></td><td><p>-</p></td><td><p>-</p></td><td><p>7.5</p></td></tr><tr><td><p>PressFit 30 (83)</p></td><td><p>MTB Wide</p></td><td><p>3</p></td><td><p>-</p></td><td><p>-</p></td><td><p>7.5</p></td></tr><tr><td><p>PressFit 30 (83)</p></td><td><p>DH*</p></td><td><p>3</p></td><td><p>-</p></td><td><p>-</p></td><td><p>6.5</p></td></tr><tr><td><p>PressFit 30 (83 Ai)</p></td><td><p>MTB Wide</p></td><td><p>3</p></td><td><p>-</p></td><td><p>-</p></td><td><p>7.5</p></td></tr><tr><td><p>PressFit 30 (83 Ai)</p></td><td><p>MTB Ai</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>5.5</p></td></tr><tr><td><p>PressFit 30 (100)</p></td><td><p>Fat</p></td><td><p>4.5</p></td><td><p>-</p></td><td><p>-</p></td><td><p>8.5</p></td></tr><tr><td><p>BB30 (73)</p></td><td><p>MTB</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>4.5</p></td></tr><tr><td><p>BB30 (73)</p></td><td><p>MTB Wide</p></td><td><p>3</p></td><td><p>-</p></td><td><p>-</p></td><td><p>7.5</p></td></tr><tr><td><p>BB30 (83 Ai)</p></td><td><p>MTB Ai</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>5.5</p></td></tr></table><p>*PressFit 30 DH bottom brackets must use the crankset with the words DUB DH BSA/PF30/PF marked on the spindle.\n\n</p>",
+              "images": null,
+              "type": "text",
+              "title": null
+            },
+            {
+              "step": "notastep",
+              "content": "<hr><p></p>",
+              "images": null,
+              "type": "text",
+              "title": null
+            }
+          ]
+        },
+        {
+          "id": "2EauI47sWrD3zuWd4JeFf6",
+          "type": "block",
+          "title": "DUB Road Bottom Bracket Spacer Chart",
+          "titleEmphasis": false,
+          "hash": "dub-road-bottom-bracket-spacer-chart",
+          "filters": [
+            {
+              "key": "models",
+              "values": [
+                "bb-dub-bsa-a1",
+                "bb-dub-it-a1",
+                "bb-dub-t47-a1",
+                "bb-dub-pf-a1",
+                "bb-dub-pf30-a1",
+                "bb-dub-bb30-a1"
+              ]
+            }
+          ],
+          "content": [
+            {
+              "step": "notastep",
+              "content": "<table><tr><th><p>Frame Shell</p><p>Interface and</p><p>Width (mm)</p></th><th><p>Crankset</p></th><th><p>Outer Left</p><p>Spacer (mm)</p></th><th><p>Inner Left</p><p>Spacer (mm)</p></th><th><p>Inner Right</p><p>Spacer (mm)</p></th><th><p>Outer Right</p><p>Spacer (mm)</p></th></tr><tr><td><p>BSA (68)</p></td><td><p>Road</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>3</p></td></tr><tr><td><p>BSA (68)</p></td><td><p>Road - Wide</p></td><td><p>2.5</p></td><td><p>-</p></td><td><p>-</p></td><td><p>5.5</p></td></tr><tr><td><p>BSA (73)</p></td><td><p>Road - Wide</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>3</p></td></tr><tr><td><p>Italian (70)</p></td><td><p>Road</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>2</p></td></tr><tr><td><p>Italian (70)</p></td><td><p>Road - Wide</p></td><td><p>2.5</p></td><td><p>-</p></td><td><p>-</p></td><td><p>4.5</p></td></tr><tr><td><p>T47 (68)</p></td><td><p>Road</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>3</p></td></tr><tr><td><p>T47 (68)</p></td><td><p>Road - Wide</p></td><td><p>2.5</p></td><td><p>-</p></td><td><p>-</p></td><td><p>5.5</p></td></tr><tr><td><p>T47 (77-A)</p></td><td><p>Road</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>3</p></td></tr><tr><td><p>T47 (77-A)</p></td><td><p>Road - Wide</p></td><td><p>2.5</p></td><td><p>-</p></td><td><p>-</p></td><td><p>5.5</p></td></tr><tr><td><p>T47 (85.5)</p></td><td><p>Road</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>3</p></td></tr><tr><td><p>T47 (85.5</p></td><td><p>Road - Wide</p></td><td><p>2.5</p></td><td><p>-</p></td><td><p>-</p></td><td><p>5.5</p></td></tr><tr><td><p>PressFit (86.5)</p></td><td><p>Road</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>3</p></td></tr><tr><td><p>PressFit (86.5)</p></td><td><p>Road - Wide</p></td><td><p>2.5</p></td><td><p>-</p></td><td><p>-</p></td><td><p>5.5</p></td></tr><tr><td><p>PressFit 30 (68)</p></td><td><p>Road</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>3</p></td></tr><tr><td><p>PressFit 30 (68)</p></td><td><p>Road - Wide</p></td><td><p>2.5</p></td><td><p>-</p></td><td><p>-</p></td><td><p>5.5</p></td></tr><tr><td><p>PressFit 30 (73)</p></td><td><p>Road - Wide</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>3</p></td></tr><tr><td><p>PressFit 30 (73-A)</p></td><td><p>Road</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>3</p></td></tr><tr><td><p>PressFit 30 (73-A)</p></td><td><p>Road - Wide</p></td><td><p>2.5</p></td><td><p>-</p></td><td><p>-</p></td><td><p>5.5</p></td></tr><tr><td><p>PressFit 30 (79-A)</p></td><td><p>Road</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>3</p></td></tr><tr><td><p>PressFit 30 (79-A)</p></td><td><p>Road - Wide</p></td><td><p>2.5</p></td><td><p>-</p></td><td><p>-</p></td><td><p>5.5</p></td></tr><tr><td><p>PressFit 30 (83-A)</p></td><td><p>Road - Ai</p></td><td><p>6</p></td><td><p>-</p></td><td><p>-</p></td><td><p>9</p></td></tr><tr><td><p>BB386 (86.5)</p></td><td><p>Road</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>2</p></td></tr><tr><td><p>BB386 (86.5)</p></td><td><p>Road - Wide</p></td><td><p>2.5</p></td><td><p>-</p></td><td><p>-</p></td><td><p>4.5</p></td></tr><tr><td><p>BB30 (68)</p></td><td><p>Road</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>3</p></td></tr><tr><td><p>BB30 (68)</p></td><td><p>Road - Wide</p></td><td><p>2.5</p></td><td><p>-</p></td><td><p>-</p></td><td><p>5.5</p></td></tr><tr><td><p>BB30 (73)</p></td><td><p>Road - Wide</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>3</p></td></tr><tr><td><p>BB30 (73-A)</p></td><td><p>Road</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>3</p></td></tr><tr><td><p>BB30 (73-A)</p></td><td><p>Road - Wide</p></td><td><p>2.5</p></td><td><p>-</p></td><td><p>-</p></td><td><p>5.5</p></td></tr><tr><td><p>BB30 (83-A)</p></td><td><p>Road - Ai</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>4.5</p></td></tr></table><p></p>",
+              "images": null,
+              "type": "text",
+              "title": null
+            },
+            {
+              "step": "notastep",
+              "content": "<hr><p></p>",
+              "images": null,
+              "type": "text",
+              "title": null
+            }
+          ]
+        },
+        {
+          "id": "6YEJi4Yrx9RICY4CwfVDCR",
+          "type": "block",
+          "title": "DUB BB30 / DUB PF30 / DUB PressFit / DUB BB386 Shell Measurements",
+          "titleEmphasis": false,
+          "hash": "dub-bb30-dub-pf30-dub-pressfit-dub-bb386-shell-measurements",
+          "filters": [
+            {
+              "key": "models",
+              "values": [
+                "bb-dub-pf30-a1",
+                "bb-dub-pf-a1",
+                "bb-dub-bb30-a1"
+              ]
+            },
+            {
+              "key": "bottom-bracket-type",
+              "values": [
+                "dub-bb30",
+                "dub-pf30",
+                "dub-pressfit",
+                "dub-bb386"
+              ]
+            }
+          ],
+          "content": [
+            {
+              "step": "notastep",
+              "content": "<p>SRAM DUB BB30 bottom brackets are compatible with frame shells with an inner diameter of 42 mm.</p><p>DUB PressFit 30 and BB386 bottom brackets are compatible with frame shells with an inner diameter of 46 mm. </p><p>DUB PressFit bottom brackets are compatible with frame shells with an inner diameter of 41 mm.</p>",
+              "images": [
+                {
+                  "imageName": " DUB BB30 / DUB PF30 / DUB PressFit / BB386 Shell Measurements",
+                  "caption1": null,
+                  "caption1color": "black",
+                  "caption2": null,
+                  "caption2color": "black",
+                  "caption3": null,
+                  "caption3color": "black",
+                  "fullWidthImage": true,
+                  "url": "https://images.ctfassets.net/enhz2tloa31p/6d5hXhSQVz0bNtYejigfq9/c6e27ef5f899a6f905d1cf35fe78914f/Frame_topview_angle_frame.jpg",
+                  "details": {
+                    "Size": 188921,
+                    "Image": {
+                      "Height": 600,
+                      "Width": 900
+                    }
+                  },
+                  "width": 900,
+                  "height": 600,
+                  "fileName": "Frame_topview_angle_frame.jpg",
+                  "contentType": "image/jpeg",
+                  "alt": " DUB BB30 / DUB PF30 / DUB PressFit / BB386 Shell Measurements",
+                  "type": "image",
+                  "title": null
+                }
+              ],
+              "type": "text",
+              "title": null
+            },
+            {
+              "step": "notastep",
+              "content": "<hr><p></p>",
+              "images": null,
+              "type": "text",
+              "title": null
+            }
+          ]
+        },
+        {
+          "id": "4WbZAYChYzDllNpYvD9npf",
+          "type": "block",
+          "title": "DUB BSA / DUB Italian / T47 Shell Measurements",
+          "titleEmphasis": false,
+          "hash": "dub-bsa-dub-italian-t47-shell-measurements",
+          "filters": [
+            {
+              "key": "models",
+              "values": [
+                "bb-dub-t47-a1",
+                "bb-dub-it-a1",
+                "bb-dub-bsa-a1"
+              ]
+            },
+            {
+              "key": "bottom-bracket-type",
+              "values": [
+                "dub-bsa",
+                "dub-italian",
+                "t47"
+              ]
+            }
+          ],
+          "content": [
+            {
+              "step": "notastep",
+              "content": "<p>SRAM DUB BSA bottom brackets are compatible with frame shells with English threads.</p><p>\rSRAM DUB T47 bottom brackets are compatible with frame shells with M47 x 1 threads.</p><p>\rSRAM DUB Italian bottom brackets are compatible with frame shells with \r\n36 mm x 24 tpi threads.</p>",
+              "images": [
+                {
+                  "imageName": "UM - SRAM - DUB Cranks & BB - BSA Shell Measurements",
+                  "caption1": null,
+                  "caption1color": "black",
+                  "caption2": null,
+                  "caption2color": "black",
+                  "caption3": null,
+                  "caption3color": "black",
+                  "fullWidthImage": true,
+                  "url": "https://images.ctfassets.net/enhz2tloa31p/2frjzUkRDpNcYnxP6pgm0P/723d6c282cabebf105eee78f43cb6653/Frame_topview_angle_frame_BSA_Italian.jpg",
+                  "details": {
+                    "Size": 145934,
+                    "Image": {
+                      "Height": 600,
+                      "Width": 900
+                    }
+                  },
+                  "width": 900,
+                  "height": 600,
+                  "fileName": "Frame_topview_angle_frame_BSA_Italian.jpg",
+                  "contentType": "image/jpeg",
+                  "alt": "",
+                  "type": "image",
+                  "title": null
+                }
+              ],
+              "type": "text",
+              "title": null
+            },
+            {
+              "step": "notastep",
+              "content": "<hr><p></p>",
+              "images": null,
+              "type": "text",
+              "title": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7zML3YgibPQjBzfO459npz",
+      "title": "SRAM DUB Bottom Bracket Installation",
+      "hash": "sram-dub-bottom-bracket-installation",
+      "filters": [
+        {
+          "key": "models",
+          "values": [
+            "bb-bb30-a1",
+            "bb-dub-bsa-a1",
+            "bb-dub-it-a1",
+            "bb-dub-pf-a1",
+            "bb-dub-pf30-a1",
+            "bb-dub-t47-a1"
+          ]
+        }
+      ],
+      "children": [
+        {
+          "id": "42lgf137HAoOPjGm1AanPh",
+          "type": "block",
+          "title": "Bottom Bracket Shell Preparation",
+          "titleEmphasis": false,
+          "hash": "bottom-bracket-shell-preparation",
+          "filters": [],
+          "content": [
+            {
+              "step": "notastep",
+              "content": "<p>Spray isopropyl alcohol on the bottom bracket shell and clean it. The shell should be free of dirt, paint, grease, and metal burrs. For best results, have your frame faced by a professional bicycle mechanic.</p><p><figure class=\"s-notice s-notice-notice\"><figcaption class=\"s-notice-header s-notice-header-centered\">Notice</figcaption><div class=\"s-notice-content\"><p>Consult your frame manufacturer to confirm the bottom bracket is compatible with the bottom bracket shell in your frame. </p><p>Removing the center tube from the bottom bracket to accommodate internal brake hose routing is not recommended, and may shorten the lifespan of the bottom bracket.</p><p><strong>Your product&#39;s appearance may differ from the pictures contained in this \npublication.</strong>\n\n</p></div></figure></p>",
+              "images": null,
+              "type": "text",
+              "title": null
+            }
+          ]
+        },
+        {
+          "id": "56RATahqmwz73YCT1f1im5",
+          "type": "block",
+          "title": null,
+          "titleEmphasis": false,
+          "hash": null,
+          "filters": [],
+          "content": [
+            {
+              "step": "notastep",
+              "content": "<p><strong>1.</strong> Apply grease to the inside of the frame shell.</p><p><strong>2.</strong> Prepare the bottom bracket for installation. Remove the left side cup from the center tube. Remove the left side outer spacer, if applicable. Remove the right side outer spacer from the right side cup.\n\n<figure class=\"s-notice s-notice-notice\"><figcaption class=\"s-notice-header s-notice-header-centered\">Notice</figcaption><div class=\"s-notice-content\"><p><strong>Make sure the right and left spacers are removed before installing the cups. </strong>Failure to remove the spacer(s) will damage the bearings.</p></div></figure></p>",
+              "images": [
+                {
+                  "imageName": "DUB BB Preparation 1-3",
+                  "caption1": null,
+                  "caption1color": null,
+                  "caption2": null,
+                  "caption2color": null,
+                  "caption3": null,
+                  "caption3color": null,
+                  "fullWidthImage": true,
+                  "url": "https://images.ctfassets.net/enhz2tloa31p/5CCEk41lDyseZUub0e442M/b45d78abf3b2c082e0110191d2bc0db5/BB_Spacer_Removal_and_Grease_-_FW.jpg",
+                  "details": {
+                    "Size": 134329,
+                    "Image": {
+                      "Height": 483,
+                      "Width": 900
+                    }
+                  },
+                  "width": 900,
+                  "height": 483,
+                  "fileName": "BB Spacer Removal and Grease - FW.jpg",
+                  "contentType": "image/jpeg",
+                  "alt": "SRAM DUB BB Preparation",
+                  "type": "image",
+                  "title": null
+                }
+              ],
+              "type": "text",
+              "title": null
+            }
+          ]
+        },
+        {
+          "id": "72qVGmcpyLzxmsjvv8WJvx",
+          "type": "block",
+          "title": "DUB BSA Installation",
+          "titleEmphasis": false,
+          "hash": "dub-bsa-installation",
+          "filters": [
+            {
+              "key": "models",
+              "values": [
+                "bb-dub-bsa-a1"
+              ]
+            },
+            {
+              "key": "bottom-bracket-type",
+              "values": [
+                "dub-bsa"
+              ]
+            }
+          ],
+          "content": [
+            {
+              "step": "notastep",
+              "content": "<p><strong>1.</strong> Install the inner non-drive side spacer if indicated by the chart.</p><p><strong>2.</strong> Use a 12-notch external bottom bracket tool to tighten the non-drive side cup into the frame.</p><p><strong>3.</strong> Install the left external spacer as indicated by the spacer chart.</p><p><strong>4.</strong> Install the inner drive side spacer if indicated by the chart.</p><p><strong>5.</strong> Use a 12-notch external bottom bracket tool to tighten the drive side cup into the frame.</p><p><strong>6.</strong> Install the right external spacer as indicated by the spacer chart.</p><p><figure class=\"s-notice s-notice-notice\"><figcaption class=\"s-notice-header s-notice-header-centered\">Notice</figcaption><div class=\"s-notice-content\"><p>The right side cup for BSA threads is <strong>reverse </strong>threaded. </p></div></figure>\n\n</p>",
+              "images": [
+                {
+                  "imageName": "DUB BSA Installation 1-6",
+                  "caption1": "12-Notch External Bottom Bracket Tool",
+                  "caption1color": "black",
+                  "caption2": "50 N\u00b7m (443 in-lb)",
+                  "caption2color": "red",
+                  "caption3": null,
+                  "caption3color": null,
+                  "fullWidthImage": true,
+                  "url": "https://images.ctfassets.net/enhz2tloa31p/1F9mhV14I7RTVxPFTbk5Hf/cc27cdcee20367c462087596300c448a/DUB_BB_Install_-_FW.jpg",
+                  "details": {
+                    "Size": 125061,
+                    "Image": {
+                      "Height": 372,
+                      "Width": 900
+                    }
+                  },
+                  "width": 900,
+                  "height": 372,
+                  "fileName": "DUB BB Install - FW.jpg",
+                  "contentType": "image/jpeg",
+                  "alt": "SRAM DUB BSA Installation",
+                  "type": "image",
+                  "title": null
+                }
+              ],
+              "type": "text",
+              "title": null
+            },
+            {
+              "step": "notastep",
+              "content": "<p><strong>DUB BSA Spacer Chart</strong></p><table><tr><th><p>Frame Shell</p><p>Interface and</p><p>Width (mm)</p></th><th><p>Crankset</p></th><th><p>Outer Left</p><p>Spacer (mm)</p></th><th><p>Inner Left</p><p>Spacer (mm)</p></th><th><p>Inner Right</p><p>Spacer (mm)</p></th><th><p>Outer Right</p><p>Spacer (mm)</p></th></tr><tr><td><p>BSA (68)</p></td><td><p>MTB</p></td><td><p>-</p></td><td><p>2.5</p></td><td><p>2.5</p></td><td><p>4.5</p></td></tr><tr><td><p>BSA (68)</p></td><td><p>MTB WIDE</p></td><td><p>3</p></td><td><p>2.5</p></td><td><p>2.5</p></td><td><p>7.5</p></td></tr><tr><td><p>BSA (73)</p></td><td><p>MTB</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>4.5</p></td></tr><tr><td><p>BSA (73)</p></td><td><p>MTB WIDE</p></td><td><p>3</p></td><td><p>-</p></td><td><p>-</p></td><td><p>7.5</p></td></tr><tr><td><p>BSA (73)</p></td><td><p>Super Boost +</p></td><td><p>4.5</p></td><td><p>-</p></td><td><p>-</p></td><td><p>9</p></td></tr><tr><td><p>BSA (73 Ai)</p></td><td><p>MTB Ai</p></td><td><p>2.5</p></td><td><p>2.5</p></td><td><p>-</p></td><td><p>10.5</p></td></tr><tr><td><p>BSA (73 with Chain Guide)</p></td><td><p>MTB</p></td><td><p>-</p></td><td><p>-</p></td><td><p>Chain Guide</p></td><td><p>2</p></td></tr><tr><td><p>BSA (73 with Chain Guide)</p></td><td><p>MTB Wide</p></td><td><p>3</p></td><td><p>-</p></td><td><p>Chain Guide</p></td><td><p>5</p></td></tr><tr><td><p>BSA (73 with Chain Guide)</p></td><td><p>Super Boost +</p></td><td><p>4.5</p></td><td><p>-</p></td><td><p>Chain Guide</p></td><td><p>6.5</p></td></tr><tr><td><p>BSA (83)</p></td><td><p>DH</p></td><td><p>-</p></td><td><p>2.5</p></td><td><p>2.5</p></td><td><p>4.5</p></td></tr><tr><td><p>BSA (83 Ai)</p></td><td><p>MTB Ai</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>5.5</p></td></tr><tr><td><p>BSA (100)</p></td><td><p>Fat</p></td><td><p>2</p></td><td><p>2.5</p></td><td><p>2.5</p></td><td><p>6</p></td></tr><tr><td><p>BSA (68)</p></td><td><p>Road</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>3</p></td></tr><tr><td><p>BSA (68)</p></td><td><p>Road - Wide</p></td><td><p>2.5</p></td><td><p>-</p></td><td><p>-</p></td><td><p>5.5</p></td></tr><tr><td><p>BSA (73)</p></td><td><p>Road - Wide</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>3</p></td></tr></table><p></p>",
+              "images": null,
+              "type": "text",
+              "title": null
+            }
+          ]
+        },
+        {
+          "id": "5nc2wTLSmHAFEHM23CppMk",
+          "type": "block",
+          "title": "DUB BB30 / DUB PressFit 30 / DUB PressFit Installation",
+          "titleEmphasis": false,
+          "hash": "dub-bb30-dub-pressfit-30-dub-pressfit-installation",
+          "filters": [
+            {
+              "key": "models",
+              "values": [
+                "bb-dub-bb30-a1",
+                "bb-dub-pf30-a1",
+                "bb-dub-pf-a1"
+              ]
+            },
+            {
+              "key": "bottom-bracket-type",
+              "values": [
+                "dub-bb30",
+                "dub-pf30",
+                "dub-pressfit"
+              ]
+            }
+          ],
+          "content": [
+            {
+              "step": "notastep",
+              "content": "<p><strong>1.</strong> Use a bottom bracket bearing press tool or a headset press to install the left side cup into the non-drive side of the frame according to the tool manufacturer&#39;s instructions. </p><p><strong>2.</strong> Repeat the installation with the right side cup and center tube into the drive side of the frame. \n<figure class=\"s-notice s-notice-notice\"><figcaption class=\"s-notice-header s-notice-header-centered\">Notice</figcaption><div class=\"s-notice-content\"><p>Make sure to guide the center tube parallel through the bottom bracket shell. The center tube should not contact the frame or any cable(s).\n\n</p></div></figure></p>",
+              "images": [
+                {
+                  "imageName": "DUB BB30 PF30 PF Installation 1-2",
+                  "caption1": null,
+                  "caption1color": null,
+                  "caption2": null,
+                  "caption2color": null,
+                  "caption3": null,
+                  "caption3color": null,
+                  "fullWidthImage": true,
+                  "url": "https://images.ctfassets.net/enhz2tloa31p/12stJiv3xn0VKamnKJ6rsy/9a76d96fa591e55869168e1c270de058/RoadPF30_installcups.jpg",
+                  "details": {
+                    "Size": 122925,
+                    "Image": {
+                      "Height": 346,
+                      "Width": 900
+                    }
+                  },
+                  "width": 900,
+                  "height": 346,
+                  "fileName": "RoadPF30_installcups.jpg",
+                  "contentType": "image/jpeg",
+                  "alt": "SRAM DUB BB30 PF30 PF Installation",
+                  "type": "image",
+                  "title": null
+                }
+              ],
+              "type": "text",
+              "title": null
+            },
+            {
+              "step": "notastep",
+              "content": "<p><strong>3-4.</strong> Install the spacer(s) according to the Crankset and Bottom Bracket table.\n\n</p>",
+              "images": [
+                {
+                  "imageName": "DUB BB30 PF30 PF Installation 3-4",
+                  "caption1": null,
+                  "caption1color": null,
+                  "caption2": null,
+                  "caption2color": null,
+                  "caption3": null,
+                  "caption3color": null,
+                  "fullWidthImage": false,
+                  "url": "https://images.ctfassets.net/enhz2tloa31p/6JTi7WyaG8moQVhhGZv8br/097d3181fca2936c3182a78f594c7ff2/RoadPF83a_installSpacers.jpg",
+                  "details": {
+                    "Size": 203524,
+                    "Image": {
+                      "Height": 729,
+                      "Width": 1094
+                    }
+                  },
+                  "width": 1094,
+                  "height": 729,
+                  "fileName": "RoadPF83a_installSpacers.jpg",
+                  "contentType": "image/jpeg",
+                  "alt": "DUB MTB/Road BB30 / DUB PressFit 30 / DUB PressFit Installation",
+                  "type": "image",
+                  "title": null
+                }
+              ],
+              "type": "text",
+              "title": null
+            },
+            {
+              "step": "notastep",
+              "content": "<p><strong>DUB PressFit 30 Spacer Chart</strong></p><table><tr><th><p>Frame Shell</p><p>Interface and</p><p>Width (mm)</p></th><th><p>Crankset</p></th><th><p>Outer Left</p><p>Spacer (mm)</p></th><th><p>Inner Left</p><p>Spacer (mm)</p></th><th><p>Inner Right</p><p>Spacer (mm)</p></th><th><p>Outer Right</p><p>Spacer (mm)</p></th></tr><tr><td><p>PressFit 30 (73)</p></td><td><p>MTB</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>4.5</p></td></tr><tr><td><p>PressFit 30 (73)</p></td><td><p>MTB Wide</p></td><td><p>3</p></td><td><p>-</p></td><td><p>-</p></td><td><p>7.5</p></td></tr><tr><td><p>PressFit 30 (83)</p></td><td><p>MTB Wide</p></td><td><p>3</p></td><td><p>-</p></td><td><p>-</p></td><td><p>7.5</p></td></tr><tr><td><p>PressFit 30 (83)</p></td><td><p>DH*</p></td><td><p>3</p></td><td><p>-</p></td><td><p>-</p></td><td><p>6.5</p></td></tr><tr><td><p>PressFit 30 (83 Ai)</p></td><td><p>MTB Ai</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>5.5</p></td></tr><tr><td><p>PressFit 30 (83 Ai)</p></td><td><p>MTB Wide</p></td><td><p>3</p></td><td><p>-</p></td><td><p>-</p></td><td><p>7.5</p></td></tr><tr><td><p>PressFit 30 (100)</p></td><td><p>Fat</p></td><td><p>4.5</p></td><td><p>-</p></td><td><p>-</p></td><td><p>8.5</p></td></tr><tr><td><p>PressFit 30 (68)</p></td><td><p>Road</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>3</p></td></tr><tr><td><p>PressFit 30 (68)</p></td><td><p>Road - Wide</p></td><td><p>2.5</p></td><td><p>-</p></td><td><p>-</p></td><td><p>5.5</p></td></tr><tr><td><p>PressFit 30 (73)</p></td><td><p>Road - Wide</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>3</p></td></tr><tr><td><p>PressFit 30 (73-A)</p></td><td><p>Road</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>3</p></td></tr><tr><td><p>PressFit 30 (73-A)</p></td><td><p>Road - Wide</p></td><td><p>2.5</p></td><td><p>-</p></td><td><p>-</p></td><td><p>5.5</p></td></tr><tr><td><p>PressFit 30 (79-A)</p></td><td><p>Road</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>3</p></td></tr><tr><td><p>PressFit 30 (79-A)</p></td><td><p>Road - Wide</p></td><td><p>2.5</p></td><td><p>-</p></td><td><p>-</p></td><td><p>5.5</p></td></tr><tr><td><p>PressFit 30 (83-A)</p></td><td><p>Road - Ai</p></td><td><p>6</p></td><td><p>-</p></td><td><p>-</p></td><td><p>9</p></td></tr></table><p>*PressFit 30 DH bottom brackets must use the crankset with the words DUB DH BSA/PF30/PF marked on the spindle.<figure class=\"s-notice s-notice-notice\"><figcaption class=\"s-notice-header s-notice-header-centered\">Notice</figcaption><div class=\"s-notice-content\"><p>Failure to use the DUB DH BSA/PF30/PF crankset will cause poor performance over the life of your system.\n\n</p></div></figure>\n</p>",
+              "images": null,
+              "type": "text",
+              "title": null
+            },
+            {
+              "step": "notastep",
+              "content": "<p><strong>DUB BB30 Spacer Chart</strong></p><table><tr><th><p>Frame Shell</p><p>Interface and</p><p>Width (mm)</p></th><th><p>Crankset</p></th><th><p>Outer Left</p><p>Spacer (mm)</p></th><th><p>Inner Left</p><p>Spacer (mm)</p></th><th><p>Inner Right</p><p>Spacer (mm)</p></th><th><p>Outer Right</p><p>Spacer (mm)</p></th></tr><tr><td><p>BB30 (73)</p></td><td><p>MTB</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>4.5</p></td></tr><tr><td><p>BB30 (73)</p></td><td><p>MTB Wide</p></td><td><p>3</p></td><td><p>-</p></td><td><p>-</p></td><td><p>7.5</p></td></tr><tr><td><p>BB30 (68)</p></td><td><p>Road</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>3</p></td></tr><tr><td><p>BB30 (68)</p></td><td><p>Road - Wide</p></td><td><p>2.5</p></td><td><p>-</p></td><td><p>-</p></td><td><p>5.5</p></td></tr><tr><td><p>BB30 (73)</p></td><td><p>Road - Wide</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>3</p></td></tr><tr><td><p>BB30 (73-A)</p></td><td><p>Road</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>3</p></td></tr><tr><td><p>BB30 (73-A)</p></td><td><p>Road - Wide</p></td><td><p>2.5</p></td><td><p>-</p></td><td><p>-</p></td><td><p>5.5</p></td></tr><tr><td><p>BB30 (83-A)</p></td><td><p>Road - Ai</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>4.5</p></td></tr></table><p></p>",
+              "images": null,
+              "type": "text",
+              "title": null
+            },
+            {
+              "step": "notastep",
+              "content": "<p><strong>DUB PressFit Spacer Chart</strong></p><table><tr><th><p>Frame Shell</p><p>Interface and</p><p>Width (mm)</p></th><th><p>Crankset</p></th><th><p>Outer Left</p><p>Spacer (mm)</p></th><th><p>Inner Left</p><p>Spacer (mm)</p></th><th><p>Inner Right</p><p>Spacer (mm)</p></th><th><p>Outer Right</p><p>Spacer (mm)</p></th></tr><tr><td><p>PressFit (89.5)</p></td><td><p>MTB</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>4.5</p></td></tr><tr><td><p>PressFit (89.5)</p></td><td><p>MTB Wide</p></td><td><p>3</p></td><td><p>-</p></td><td><p>-</p></td><td><p>7.5</p></td></tr><tr><td><p>PressFit (92)</p></td><td><p>MTB</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>2</p></td></tr><tr><td><p>PressFit (92)</p></td><td><p>MTB Wide</p></td><td><p>3</p></td><td><p>-</p></td><td><p>-</p></td><td><p>5</p></td></tr><tr><td><p>PressFit (92)</p></td><td><p>Super Boost +</p></td><td><p>4.5</p></td><td><p>-</p></td><td><p>-</p></td><td><p>6.5</p></td></tr><tr><td><p>PressFit (104.5)</p></td><td><p>DH</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>4.5</p></td></tr><tr><td><p>PressFit (107)</p></td><td><p>DH</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>2</p></td></tr><tr><td><p>PressFit (121)</p></td><td><p>Fat</p></td><td><p>2</p></td><td><p>-</p></td><td><p>-</p></td><td><p>6</p></td></tr><tr><td><p>PressFit (86.5)</p></td><td><p>Road</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>3</p></td></tr><tr><td><p>PressFit (86.5)</p></td><td><p>Road - Wide</p></td><td><p>2.5</p></td><td><p>-</p></td><td><p>-</p></td><td><p>5.5</p></td></tr></table><p></p>",
+              "images": null,
+              "type": "text",
+              "title": null
+            }
+          ]
+        },
+        {
+          "id": "5hpj50Tn2LYse9UgWMXRyD",
+          "type": "block",
+          "title": "DUB T47 Installation",
+          "titleEmphasis": false,
+          "hash": "dub-t47-installation",
+          "filters": [
+            {
+              "key": "models",
+              "values": [
+                "bb-dub-t47-a1"
+              ]
+            },
+            {
+              "key": "bottom-bracket-type",
+              "values": [
+                "t47"
+              ]
+            }
+          ],
+          "content": [
+            {
+              "step": "notastep",
+              "content": "<p><strong>1. </strong>Use a 16-notch external bottom bracket tool to tighten the non-drive side cup into the frame.</p><p><strong>2.</strong> Install the left external spacer as indicated by the spacer chart.</p><p><strong>3.</strong> Use a 16-notch external bottom bracket tool to tighten the drive side cup into the frame.</p><p><strong>4. </strong>Install the right external spacer as indicated by the spacer chart.</p><p>\n</p>",
+              "images": [
+                {
+                  "imageName": "DUB T47 Installation 1-4",
+                  "caption1": "50 N\u00b7m (443 in-lb)",
+                  "caption1color": "red",
+                  "caption2": null,
+                  "caption2color": null,
+                  "caption3": null,
+                  "caption3color": null,
+                  "fullWidthImage": true,
+                  "url": "https://images.ctfassets.net/enhz2tloa31p/6h2v9Ecjy4Reoc1SPDXIlz/0f8f9df9924c2a8ebfa4e54b6d145c1a/framefromrear_T47_INSTALL_Road_and_Wide.jpg",
+                  "details": {
+                    "Size": 168737,
+                    "Image": {
+                      "Height": 536,
+                      "Width": 900
+                    }
+                  },
+                  "width": 900,
+                  "height": 536,
+                  "fileName": "framefromrear_T47 INSTALL Road and Wide.jpg",
+                  "contentType": "image/jpeg",
+                  "alt": "SRAM DUB T47 Installation",
+                  "type": "image",
+                  "title": null
+                }
+              ],
+              "type": "text",
+              "title": null
+            },
+            {
+              "step": "notastep",
+              "content": "<p><strong>DUB T47 Spacer Chart</strong></p><table><tr><th><p>Frame Shell</p><p>Interface and</p><p>Width (mm)</p></th><th><p>Crankset</p></th><th><p>Outer Left</p><p>Spacer (mm)</p></th><th><p>Inner Left</p><p>Spacer (mm)</p></th><th><p>Inner Right</p><p>Spacer (mm)</p></th><th><p>Outer Right</p><p>Spacer (mm)</p></th></tr><tr><td><p>T47 (68)</p></td><td><p>Road</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>3</p></td></tr><tr><td><p>T47 (68)</p></td><td><p>Road - Wide</p></td><td><p>2.5</p></td><td><p>-</p></td><td><p>-</p></td><td><p>5.5</p></td></tr><tr><td><p>T47 (77-A)</p></td><td><p>Road</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>3</p></td></tr><tr><td><p>T47 (77-A)</p></td><td><p>Road - Wide</p></td><td><p>2.5</p></td><td><p>-</p></td><td><p>-</p></td><td><p>5.5</p></td></tr><tr><td><p>T47 (85.5)</p></td><td><p>Road</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>3</p></td></tr><tr><td><p>T47 (85.5</p></td><td><p>Road - Wide</p></td><td><p>2.5</p></td><td><p>-</p></td><td><p>-</p></td><td><p>5.5</p></td></tr></table><p></p>",
+              "images": null,
+              "type": "text",
+              "title": null
+            }
+          ]
+        },
+        {
+          "id": "5oByCWSDMUHqehhQ5E1km9",
+          "type": "block",
+          "title": "DUB BB386 Installation",
+          "titleEmphasis": false,
+          "hash": "dub-bb386-installation",
+          "filters": [
+            {
+              "key": "models",
+              "values": [
+                "bb-dub-pf30-a1"
+              ]
+            },
+            {
+              "key": "bottom-bracket-type",
+              "values": [
+                "dub-bb386"
+              ]
+            }
+          ],
+          "content": [
+            {
+              "step": "notastep",
+              "content": "<p><strong>1. </strong>Use a bottom bracket bearing press tool or a headset press to install the left side cup into the non-drive side of the frame according to the tool manufacturer&#39;s instructions.</p><p><strong>2. </strong>Use the included BB386 installation tool to install the right side cup and center tube into the drive side of the frame.</p><p><figure class=\"s-notice s-notice-notice\"><figcaption class=\"s-notice-header s-notice-header-centered\">Notice</figcaption><div class=\"s-notice-content\"><p>Make sure to guide the center tube parallel through the bottom bracket shell. The center tube should not contact the frame or any cable(s).\n\n</p></div></figure>\n\n</p>",
+              "images": [
+                {
+                  "imageName": "SRAM DUB BB386 Installation",
+                  "caption1": null,
+                  "caption1color": "black",
+                  "caption2": null,
+                  "caption2color": "black",
+                  "caption3": null,
+                  "caption3color": "black",
+                  "fullWidthImage": true,
+                  "url": "https://images.ctfassets.net/enhz2tloa31p/6V3A4utXYQJrFNIit3JX6l/9c09c569e14db8e470d510c51b0ffa88/RoadBB386_installcups.jpg",
+                  "details": {
+                    "Size": 144671,
+                    "Image": {
+                      "Height": 452,
+                      "Width": 899
+                    }
+                  },
+                  "width": 899,
+                  "height": 452,
+                  "fileName": "RoadBB386_installcups.jpg",
+                  "contentType": "image/jpeg",
+                  "alt": "SRAM DUB BB386 Installation",
+                  "type": "image",
+                  "title": null
+                }
+              ],
+              "type": "text",
+              "title": null
+            },
+            {
+              "step": "notastep",
+              "content": "<p><strong>3.</strong> Remove the BB386 installation tool.</p><p><strong>4.</strong> Install the spacer(s) according to the chart.</p>",
+              "images": [
+                {
+                  "imageName": "DUB BB386 Installation 3",
+                  "caption1": null,
+                  "caption1color": null,
+                  "caption2": null,
+                  "caption2color": null,
+                  "caption3": null,
+                  "caption3color": null,
+                  "fullWidthImage": false,
+                  "url": "https://images.ctfassets.net/enhz2tloa31p/2XZ0pzsJTOgz4uXDVXiuK5/ab6e1e8d068e1812606e7363036b67ed/RoadBB386_removetool.jpg",
+                  "details": {
+                    "Size": 140276,
+                    "Image": {
+                      "Height": 600,
+                      "Width": 900
+                    }
+                  },
+                  "width": 900,
+                  "height": 600,
+                  "fileName": "RoadBB386_removetool.jpg",
+                  "contentType": "image/jpeg",
+                  "alt": "SRAM DUB Road BB386 Installation",
+                  "type": "image",
+                  "title": null
+                },
+                {
+                  "imageName": "DUB BB386 Installation 1-2",
+                  "caption1": null,
+                  "caption1color": null,
+                  "caption2": null,
+                  "caption2color": null,
+                  "caption3": null,
+                  "caption3color": null,
+                  "fullWidthImage": false,
+                  "url": "https://images.ctfassets.net/enhz2tloa31p/AnjQfk83fbhI6oI7ME2kG/7ae44c6f170df5a7d878cdbf92eac28e/RoadBB386_installspacer.jpg",
+                  "details": {
+                    "Size": 141518,
+                    "Image": {
+                      "Height": 600,
+                      "Width": 900
+                    }
+                  },
+                  "width": 900,
+                  "height": 600,
+                  "fileName": "RoadBB386_installspacer.jpg",
+                  "contentType": "image/jpeg",
+                  "alt": "SRAM DUB BB386 Installation",
+                  "type": "image",
+                  "title": null
+                }
+              ],
+              "type": "text",
+              "title": null
+            },
+            {
+              "step": "notastep",
+              "content": "<p><strong>DUB BB386 Spacer Chart</strong></p><table><tr><th><p>Frame Shell</p><p>Interface and</p><p>Width (mm)</p></th><th><p>Crankset</p></th><th><p>Outer Left</p><p>Spacer (mm)</p></th><th><p>Inner Left</p><p>Spacer (mm)</p></th><th><p>Inner Right</p><p>Spacer (mm)</p></th><th><p>Outer Right</p><p>Spacer (mm)</p></th></tr><tr><td><p>BB386 (86.5)</p></td><td><p>Road</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>2</p></td></tr><tr><td><p>BB386 (86.5)</p></td><td><p>Road - Wide</p></td><td><p>2.5</p></td><td><p>-</p></td><td><p>-</p></td><td><p>4.5</p></td></tr></table><p></p>",
+              "images": null,
+              "type": "text",
+              "title": null
+            }
+          ]
+        },
+        {
+          "id": "78TXktpszua0C6hVrnDSaL",
+          "type": "block",
+          "title": "DUB Italian Installation",
+          "titleEmphasis": false,
+          "hash": "dub-italian-installation",
+          "filters": [
+            {
+              "key": "models",
+              "values": [
+                "bb-dub-it-a1"
+              ]
+            },
+            {
+              "key": "bottom-bracket-type",
+              "values": [
+                "dub-italian"
+              ]
+            }
+          ],
+          "content": [
+            {
+              "step": "notastep",
+              "content": "<p><strong>1.</strong> Use a 12-notch external bottom bracket tool to tighten the non-drive side cup into the frame. </p><p><strong>2. </strong>Install the left external spacer as indicated by the spacer chart.</p><p><strong>3. </strong>Use a 12-notch external bottom bracket tool to tighten the drive side cup into the frame. </p><p><strong>4. </strong>Install the right external spacer as indicated by the spacer chart.\n\n<figure class=\"s-notice s-notice-notice\"><figcaption class=\"s-notice-header s-notice-header-centered\">Notice</figcaption><div class=\"s-notice-content\"><p>The left and right cups for Italian threads are right hand threaded. </p></div></figure>\n\n</p>",
+              "images": [
+                {
+                  "imageName": "DUB Italian Installation 1-4",
+                  "caption1": "50 N\u00b7m (443 in-lb)",
+                  "caption1color": "red",
+                  "caption2": null,
+                  "caption2color": null,
+                  "caption3": null,
+                  "caption3color": null,
+                  "fullWidthImage": true,
+                  "url": "https://images.ctfassets.net/enhz2tloa31p/1oWw6eAoQ8ELMru3VM8sEZ/54947fa66321fb8425d6302507e8b925/framefromrear_italian_INSTALL.jpg",
+                  "details": {
+                    "Size": 149038,
+                    "Image": {
+                      "Height": 415,
+                      "Width": 900
+                    }
+                  },
+                  "width": 900,
+                  "height": 415,
+                  "fileName": "framefromrear_italian_INSTALL.jpg",
+                  "contentType": "image/jpeg",
+                  "alt": "SRAM DUB Italian Installation",
+                  "type": "image",
+                  "title": null
+                }
+              ],
+              "type": "text",
+              "title": null
+            },
+            {
+              "step": "notastep",
+              "content": "<p><strong>DUB Italian Spacer Chart</strong></p><table><tr><th><p>Frame Shell</p><p>Interface and</p><p>Width (mm)</p></th><th><p>Crankset</p></th><th><p>Outer Left</p><p>Spacer (mm)</p></th><th><p>Inner Left</p><p>Spacer (mm)</p></th><th><p>Inner Right</p><p>Spacer (mm)</p></th><th><p>Outer Right</p><p>Spacer (mm)</p></th></tr><tr><td><p>Italian (70)</p></td><td><p>Road</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>2</p></td></tr><tr><td><p>Italian (70)</p></td><td><p>Road - Wide</p></td><td><p>2.5</p></td><td><p>-</p></td><td><p>-</p></td><td><p>4.5</p></td></tr></table><p></p>",
+              "images": null,
+              "type": "text",
+              "title": null
+            }
+          ]
+        },
+        {
+          "id": "SRK1xOFkzLAKPARdkf75P",
+          "type": "block",
+          "title": null,
+          "titleEmphasis": false,
+          "hash": null,
+          "filters": [],
+          "content": [
+            {
+              "step": "notastep",
+              "content": "<hr><p></p>",
+              "images": null,
+              "type": "text",
+              "title": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5TWz82kjMS8U6lDmCGyWP5",
+      "title": "DUB Crankset Installation",
+      "hash": "dub-crankset-installation",
+      "filters": [
+        {
+          "key": "procedure",
+          "values": [
+            "installation-axs"
+          ]
+        }
+      ],
+      "children": [
+        {
+          "id": "36pF4emzGEjBoH199ymfJh",
+          "type": "block",
+          "title": "DUB Crankset with Preload Adjuster Installation ",
+          "titleEmphasis": false,
+          "hash": "dub-crankset-with-preload-adjuster-installation-",
+          "filters": [],
+          "content": [
+            {
+              "step": "notastep",
+              "content": "<p><strong>1.</strong> Apply grease to the indicated areas on the spindle.</p><p><strong>2.</strong> Install the non-drive side crankarm and spindle into the bottom bracket. Make sure the blue o-rings remain installed in the gland in the left and right bottom bracket cups during spindle installation.\n\n</p>",
+              "images": [
+                {
+                  "imageName": "DUB Crankset Installation 1",
+                  "caption1": null,
+                  "caption1color": null,
+                  "caption2": null,
+                  "caption2color": null,
+                  "caption3": null,
+                  "caption3color": null,
+                  "fullWidthImage": false,
+                  "url": "https://images.ctfassets.net/enhz2tloa31p/6yvikfZVk3jTm9oXcbN5GR/e8871eaef2707703dbce50c3f1a4dd66/RoadNDS_greasespindle.jpg",
+                  "details": {
+                    "Size": 106379,
+                    "Image": {
+                      "Height": 600,
+                      "Width": 900
+                    }
+                  },
+                  "width": 900,
+                  "height": 600,
+                  "fileName": "RoadNDS_greasespindle.jpg",
+                  "contentType": "image/jpeg",
+                  "alt": "SRAM DUB Crankset Installation",
+                  "type": "image",
+                  "title": null
+                },
+                {
+                  "imageName": "DUB Crankset Installation 2",
+                  "caption1": null,
+                  "caption1color": null,
+                  "caption2": null,
+                  "caption2color": null,
+                  "caption3": null,
+                  "caption3color": null,
+                  "fullWidthImage": false,
+                  "url": "https://images.ctfassets.net/enhz2tloa31p/6OqU1e6a1LkPuOrGpU324l/345cb18dd4d3a993c12a4c8adebd0658/RoadPF30_installNDSCrankarm.jpg",
+                  "details": {
+                    "Size": 162324,
+                    "Image": {
+                      "Height": 600,
+                      "Width": 900
+                    }
+                  },
+                  "width": 900,
+                  "height": 600,
+                  "fileName": "RoadPF30_installNDSCrankarm.jpg",
+                  "contentType": "image/jpeg",
+                  "alt": "SRAM DUB Crankset Installation",
+                  "type": "image",
+                  "title": null
+                },
+                {
+                  "imageName": "DUB Crankset Installation 2 O-Rings",
+                  "caption1": null,
+                  "caption1color": null,
+                  "caption2": null,
+                  "caption2color": null,
+                  "caption3": null,
+                  "caption3color": null,
+                  "fullWidthImage": false,
+                  "url": "https://images.ctfassets.net/enhz2tloa31p/1QyQ4oN6NDVxDJDAnUsJQJ/eae20e0c6a6f6f48dddf442ddee08860/blueoring.jpg",
+                  "details": {
+                    "Size": 528358,
+                    "Image": {
+                      "Height": 1406,
+                      "Width": 2109
+                    }
+                  },
+                  "width": 2109,
+                  "height": 1406,
+                  "fileName": "blueoring.jpg",
+                  "contentType": "image/jpeg",
+                  "alt": "SRAM DUB Crankset Installation O-Ring",
+                  "type": "image",
+                  "title": null
+                }
+              ],
+              "type": "text",
+              "title": null
+            },
+            {
+              "step": "notastep",
+              "content": "<p><strong>3.</strong> Install the drive-side crankarm onto the spindle.</p><p><strong>4. </strong>Use a torque wrench with an 8 mm hex bit socket to tighten the crank arm bolt to 54 N&#183;m (478 in-lb).</p><p><strong>5. </strong>Use a rubber or plastic mallet to tap the drive side crank arm until it is fully seated.</p><p><strong>6. </strong>Remove play from the system by turning the preload adjuster in the + direction until it stops or makes contact with the bearing shield. </p><p><strong>7. </strong>Use a 2 mm hex wrench to tighten the bolt until the adjuster edges touch.</p><p><figure class=\"s-notice s-notice-notice\"><figcaption class=\"s-notice-header s-notice-header-centered\">Notice</figcaption><div class=\"s-notice-content\"><p>Do not use a ball-end style hex wrench to tighten the preload adjuster.</p><p>Do not overtighten the preload adjuster as this could damage the bearing. Do not overtighten the bolt. It is okay if there is a gap in the adjuster, as long as the top edges touch. </p></div></figure>\n\n</p>",
+              "images": [
+                {
+                  "imageName": "DUB MTB AXS Crankset Installation 3-5",
+                  "caption1": "8 mm",
+                  "caption1color": "black",
+                  "caption2": "54 N\u00b7m (478 in-lb)",
+                  "caption2color": "red",
+                  "caption3": null,
+                  "caption3color": "black",
+                  "fullWidthImage": false,
+                  "url": "https://images.ctfassets.net/enhz2tloa31p/56t6GyhEf8Fjw1LStZ6szk/c562751a1bf3a3363511ef00ff838df0/DUB_MTB_Crankset_Install_3-5.jpg",
+                  "details": {
+                    "Size": 179687,
+                    "Image": {
+                      "Height": 600,
+                      "Width": 900
+                    }
+                  },
+                  "width": 900,
+                  "height": 600,
+                  "fileName": "DUB MTB Crankset Install 3-5.jpg",
+                  "contentType": "image/jpeg",
+                  "alt": "",
+                  "type": "image",
+                  "title": null
+                },
+                {
+                  "imageName": "DUB Crankset Installation 6-7",
+                  "caption1": "2 mm",
+                  "caption1color": "black",
+                  "caption2": null,
+                  "caption2color": null,
+                  "caption3": null,
+                  "caption3color": null,
+                  "fullWidthImage": false,
+                  "url": "https://images.ctfassets.net/enhz2tloa31p/v5ffm5s0pI33GFFr5pt7e/970d9bcc55f5a5b6904ecba8ed6d9f24/PreloadAdjusterview_crank_installation.jpg",
+                  "details": {
+                    "Size": 186875,
+                    "Image": {
+                      "Height": 600,
+                      "Width": 900
+                    }
+                  },
+                  "width": 900,
+                  "height": 600,
+                  "fileName": "PreloadAdjusterview_crank_installation.jpg",
+                  "contentType": "image/jpeg",
+                  "alt": "SRAM DUB Crankset Installation",
+                  "type": "image",
+                  "title": null
+                }
+              ],
+              "type": "text",
+              "title": null
+            },
+            {
+              "step": "notastep",
+              "content": "<p><strong>8. </strong>Check the crankset for play by rocking the crankarms back and forth.</p><p><figure class=\"s-notice s-notice-notice\"><figcaption class=\"s-notice-header s-notice-header-centered\">Notice</figcaption><div class=\"s-notice-content\"><p>If there is play in the crankset, remove the crankarms and apply additional grease to the spindle. Turn the preload adjuster in the opposite direction of the + sign until it stops. Repeat the installation procedure until play is eliminated. </p></div></figure></p>",
+              "images": [
+                {
+                  "imageName": "DUB Crankset Installation 8",
+                  "caption1": null,
+                  "caption1color": null,
+                  "caption2": null,
+                  "caption2color": null,
+                  "caption3": null,
+                  "caption3color": null,
+                  "fullWidthImage": false,
+                  "url": "https://images.ctfassets.net/enhz2tloa31p/1qBnu0puJcRho2TJ1YbScV/0b9b8e2356401fa4d85afa587f45a8c1/Play_rear.jpg",
+                  "details": {
+                    "Size": 96249,
+                    "Image": {
+                      "Height": 600,
+                      "Width": 900
+                    }
+                  },
+                  "width": 900,
+                  "height": 600,
+                  "fileName": "Play_rear.jpg",
+                  "contentType": "image/jpeg",
+                  "alt": "SRAM DUB Crankset Removal",
+                  "type": "image",
+                  "title": null
+                }
+              ],
+              "type": "text",
+              "title": null
+            },
+            {
+              "step": "notastep",
+              "content": "<p><strong>9. </strong>Apply grease to the crank arm pedal threads.</p><p><strong>10. </strong>Install the washer between the crank arm and pedal. </p><p><strong>11.</strong> Tighten the pedal shaft to 54 N&#183;m (477 in-lb) unless otherwise specified by the pedal manufacturer.</p><p><figure class=\"s-notice s-notice-notice\"><figcaption class=\"s-notice-header s-notice-header-centered\">Notice</figcaption><div class=\"s-notice-content\"><p>The non-drive side pedal bore is reverse threaded.</p></div></figure></p><p><figure class=\"s-notice s-notice-warning\"><figcaption class=\"s-notice-header s-notice-header-centered\">Warning</figcaption><div class=\"s-notice-content\"><p>Make sure the pedal shaft threads do not extend past the back of the crankarm. Do not use the pedal if the shaft is exposed. This could interfere with the frame or chain and result in a crash. </p></div></figure></p>",
+              "images": [
+                {
+                  "imageName": "DUB Crankset Installation 8-9",
+                  "caption1": null,
+                  "caption1color": null,
+                  "caption2": null,
+                  "caption2color": null,
+                  "caption3": null,
+                  "caption3color": null,
+                  "fullWidthImage": false,
+                  "url": "https://images.ctfassets.net/enhz2tloa31p/3EErXxqH9nAjANxnO5vnDS/57ed2cc8cfca19fa723f28b986beaeb9/Pedal_Washer.jpg",
+                  "details": {
+                    "Size": 121343,
+                    "Image": {
+                      "Height": 601,
+                      "Width": 900
+                    }
+                  },
+                  "width": 900,
+                  "height": 601,
+                  "fileName": "Pedal Washer.jpg",
+                  "contentType": "image/jpeg",
+                  "alt": "SRAM DUB Crankset Installation Pedal Washer",
+                  "type": "image",
+                  "title": null
+                },
+                {
+                  "imageName": "img - DUB Crankset Installation 11 (pedal torque)",
+                  "caption1": "54 N\u00b7M (477 in-lb)",
+                  "caption1color": "red",
+                  "caption2": null,
+                  "caption2color": "black",
+                  "caption3": null,
+                  "caption3color": "black",
+                  "fullWidthImage": false,
+                  "url": "https://images.ctfassets.net/enhz2tloa31p/1Vq2ulp6aSipGzmUILH07f/dd5bbb0d680cfca908ad678e819d0c30/Pedal_Torque.jpg",
+                  "details": {
+                    "Size": 145947,
+                    "Image": {
+                      "Height": 600,
+                      "Width": 900
+                    }
+                  },
+                  "width": 900,
+                  "height": 600,
+                  "fileName": "Pedal Torque.jpg",
+                  "contentType": "image/jpeg",
+                  "alt": "Torque pedal to 54 Newton meters",
+                  "type": "image",
+                  "title": null
+                },
+                {
+                  "imageName": "DUB Crankset Installation Pedal WARNING",
+                  "caption1": null,
+                  "caption1color": null,
+                  "caption2": null,
+                  "caption2color": null,
+                  "caption3": null,
+                  "caption3color": null,
+                  "fullWidthImage": false,
+                  "url": "https://images.ctfassets.net/enhz2tloa31p/6Ch05MYSMPVY03LoQwkgzN/3a88577771e42ef2af2ef187655e3e53/crankarm_yep_nay.jpg",
+                  "details": {
+                    "Size": 98648,
+                    "Image": {
+                      "Height": 600,
+                      "Width": 900
+                    }
+                  },
+                  "width": 900,
+                  "height": 600,
+                  "fileName": "crankarm_yep_nay.jpg",
+                  "contentType": "image/jpeg",
+                  "alt": "DUB Crankset Installation Pedal",
+                  "type": "image",
+                  "title": null
+                }
+              ],
+              "type": "text",
+              "title": null
+            }
+          ]
+        },
+        {
+          "id": "SRK1xOFkzLAKPARdkf75P",
+          "type": "block",
+          "title": null,
+          "titleEmphasis": false,
+          "hash": null,
+          "filters": [],
+          "content": [
+            {
+              "step": "notastep",
+              "content": "<hr><p></p>",
+              "images": null,
+              "type": "text",
+              "title": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7jBVlNk8pskIs9gjsR5xEb",
+      "title": "DUB Crankset Removal",
+      "hash": "dub-crankset-removal",
+      "filters": [],
+      "children": [
+        {
+          "id": "BMEwIXLeRpzkWLQcky85w",
+          "type": "block",
+          "title": "DUB Crankset Removal",
+          "titleEmphasis": false,
+          "hash": "dub-crankset-removal_1",
+          "filters": [],
+          "content": [
+            {
+              "step": "notastep",
+              "content": "<p><strong>1. </strong>Use an 8 mm hex wrench to loosen the crank arm bolt.</p><p><strong>2. </strong>Remove the drive side crankarm.</p><p><strong>3. </strong>Use a rubber or plastic mallet to lightly tap the spindle from the drive side. </p><p><strong>4. </strong>Remove the crank arm. </p>",
+              "images": [
+                {
+                  "imageName": "UM - SRAM - DUB Crankset Removal 1-2",
+                  "caption1": "8 mm Hex Wrench",
+                  "caption1color": "black",
+                  "caption2": null,
+                  "caption2color": "black",
+                  "caption3": null,
+                  "caption3color": "black",
+                  "fullWidthImage": false,
+                  "url": "https://images.ctfassets.net/enhz2tloa31p/AKC4pHIFK6UuXbIxpMQwv/46c2dd32c5005f97df74d6b2bf7e8834/CranksetRemoval_CrankBolt.jpg",
+                  "details": {
+                    "Size": 200479,
+                    "Image": {
+                      "Height": 599,
+                      "Width": 900
+                    }
+                  },
+                  "width": 900,
+                  "height": 599,
+                  "fileName": "CranksetRemoval_CrankBolt.jpg",
+                  "contentType": "image/jpeg",
+                  "alt": "DUB Crankset Removal",
+                  "type": "image",
+                  "title": null
+                },
+                {
+                  "imageName": "UM - DUB Crankset Removal 3-4",
+                  "caption1": null,
+                  "caption1color": "black",
+                  "caption2": null,
+                  "caption2color": "black",
+                  "caption3": null,
+                  "caption3color": "black",
+                  "fullWidthImage": false,
+                  "url": "https://images.ctfassets.net/enhz2tloa31p/2ExiMTdMu9Sjk8kaC60U0h/ccff79d465c9cc605cf3bbbb913b8f07/Rear_Spindle_Removal.jpg",
+                  "details": {
+                    "Size": 131183,
+                    "Image": {
+                      "Height": 600,
+                      "Width": 900
+                    }
+                  },
+                  "width": 900,
+                  "height": 600,
+                  "fileName": "Rear_Spindle Removal.jpg",
+                  "contentType": "image/jpeg",
+                  "alt": "DUB Crankset Removal",
+                  "type": "image",
+                  "title": null
+                }
+              ],
+              "type": "text",
+              "title": null
+            },
+            {
+              "step": "notastep",
+              "content": "<p><strong>5. </strong>Loosen the bolt until the preload adjuster will rotate. Do not exceed a 1 mm gap.</p><p><strong>6. </strong>Rotate the preload adjuster in the opposite direction of the adjuster arrow until it stops or makes contact with the crankarm. \n\n</p>",
+              "images": [
+                {
+                  "imageName": "UM - DUB Crankset Removal 5",
+                  "caption1": "2 mm",
+                  "caption1color": "black",
+                  "caption2": null,
+                  "caption2color": "black",
+                  "caption3": null,
+                  "caption3color": "black",
+                  "fullWidthImage": false,
+                  "url": "https://images.ctfassets.net/enhz2tloa31p/7mn1q76VjWiSa17B3BF8pX/56e0f25ca7fff2464d1486a7a965b113/CrankRemoval_AdjusterLoosen.jpg",
+                  "details": {
+                    "Size": 124248,
+                    "Image": {
+                      "Height": 600,
+                      "Width": 900
+                    }
+                  },
+                  "width": 900,
+                  "height": 600,
+                  "fileName": "CrankRemoval_AdjusterLoosen.jpg",
+                  "contentType": "image/jpeg",
+                  "alt": "DUB Crankset Removal",
+                  "type": "image",
+                  "title": null
+                },
+                {
+                  "imageName": "DUB Crankset Removal 6",
+                  "caption1": null,
+                  "caption1color": "black",
+                  "caption2": null,
+                  "caption2color": "black",
+                  "caption3": null,
+                  "caption3color": "black",
+                  "fullWidthImage": false,
+                  "url": "https://images.ctfassets.net/enhz2tloa31p/3nSAyZ1IxqcwEFWvhCPZYE/06b9439c242dfcea688ba5843fd4a503/CrankRemoval_AdjusterRotate.jpg",
+                  "details": {
+                    "Size": 124464,
+                    "Image": {
+                      "Height": 601,
+                      "Width": 900
+                    }
+                  },
+                  "width": 900,
+                  "height": 601,
+                  "fileName": "CrankRemoval_AdjusterRotate.jpg",
+                  "contentType": "image/jpeg",
+                  "alt": "DUB Crankset Removal",
+                  "type": "image",
+                  "title": null
+                }
+              ],
+              "type": "text",
+              "title": null
+            }
+          ]
+        },
+        {
+          "id": "SRK1xOFkzLAKPARdkf75P",
+          "type": "block",
+          "title": null,
+          "titleEmphasis": false,
+          "hash": null,
+          "filters": [],
+          "content": [
+            {
+              "step": "notastep",
+              "content": "<hr><p></p>",
+              "images": null,
+              "type": "text",
+              "title": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5VDhKWQfpyGig0bLjw2WAZ",
+      "title": "DUB Crank and Bottom Bracket Maintenance",
+      "hash": "dub-crank-and-bottom-bracket-maintenance",
+      "filters": [],
+      "children": [
+        {
+          "id": "2QX0xxUi95V2Zwg28nFale",
+          "type": "block",
+          "title": "DUB Crankset and Bottom Bracket Maintenance",
+          "titleEmphasis": false,
+          "hash": "dub-crankset-and-bottom-bracket-maintenance",
+          "filters": [],
+          "content": [
+            {
+              "step": "notastep",
+              "content": "<p>Inspect the crankset and bottom bracket for play, and tighten as needed. Clean the crankset and bottom bracket with<strong> water and mild soap</strong>. </p><p>Replace the bottom bracket when it no longer rotates smoothly. </p><p><figure class=\"s-notice s-notice-notice\"><figcaption class=\"s-notice-header s-notice-header-centered\">Notice</figcaption><div class=\"s-notice-content\"><p>Do not clean the crankset or bottom bracket with a power washer.</p></div></figure>\n\nRoutinely check the chainring bolts, crankset bolt, and preload adjuster for the correct torque values; never ride with loose bolts. </p><p>Consult the <em>Chainrings and Spiders User Manual</em> on www.sram.com for complete torque specifications.</p><p><figure class=\"s-notice s-notice-notice\"><figcaption class=\"s-notice-header s-notice-header-centered\">Notice</figcaption><div class=\"s-notice-content\"><p>Failure to check your chainring bolts could lead to the chainring bolts backing out of the chainring.</p></div></figure></p>",
+              "images": null,
+              "type": "text",
+              "title": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ThzulpL6ueCDcOSoWyM7J",
+      "title": "DUB Crank Self-Extractor Bolt and Cap Installation",
+      "hash": "dub-crank-self-extractor-bolt-and-cap-installation",
+      "filters": [],
+      "children": [
+        {
+          "id": "69bOlCZR0XBx0qENrmyaY7",
+          "type": "block",
+          "title": "DUB Crank Self-Extractor Bolt and Cap Installation",
+          "titleEmphasis": false,
+          "hash": "dub-crank-self-extractor-bolt-and-cap-installation_1",
+          "filters": [],
+          "content": [
+            {
+              "step": "notastep",
+              "content": "<p>To install and tighten the self-extractor cap\r only, perform steps 3-5.</p>",
+              "images": null,
+              "type": "text",
+              "title": null
+            },
+            {
+              "step": "notastep",
+              "content": "<p><strong>1. </strong>Place the washer onto the crank bolt.\r</p><p><strong>2. </strong>Install the crank bolt assembly.\n\n\n</p>",
+              "images": [
+                {
+                  "imageName": "DUB Crank Self-Extractor Bolt and Cup Installation 1-2",
+                  "caption1": null,
+                  "caption1color": "black",
+                  "caption2": null,
+                  "caption2color": "black",
+                  "caption3": null,
+                  "caption3color": "black",
+                  "fullWidthImage": true,
+                  "url": "https://images.ctfassets.net/enhz2tloa31p/2Gj9DSo9KWKMuhDyP0caWQ/467a5ef46e49dbc6692c465ac28c140c/Crankbolt_Full_Install_Bolt_and_Washer_1.jpg",
+                  "details": {
+                    "Size": 132603,
+                    "Image": {
+                      "Height": 472,
+                      "Width": 900
+                    }
+                  },
+                  "width": 900,
+                  "height": 472,
+                  "fileName": "Crankbolt Full Install Bolt and Washer_1.jpg",
+                  "contentType": "image/jpeg",
+                  "alt": "DUB Crank Self-Extractor Bolt and Cup Installation",
+                  "type": "image",
+                  "title": null
+                }
+              ],
+              "type": "text",
+              "title": null
+            },
+            {
+              "step": "notastep",
+              "content": "<p><strong>3-4.</strong> Apply new threadlocker if not present.<strong> </strong>Use the Abbey Bike Tools Dub Self-Extracting Cap Tool (A) to install the self-extracting cap or use a 2.3 mm spanner (B). If the cap does not include spanner holes, use a 10 mm Hex Tool (C)*.</p><p><strong>5. </strong>Tighten the self-extracting cap counter-clockwise to 14 N&#183;m (123 in-lb) when using the Abbey Bike Tools DUB Self-Extracting Cap Tool (A), 10 mm Hex Tool (C)* or hand tight** when using a spanner (B).</p>",
+              "images": [
+                {
+                  "imageName": "DUB Crank Self-Extractor Bolt and Cup Installation 3-5",
+                  "caption1": "** Hand tight",
+                  "caption1color": "black",
+                  "caption2": null,
+                  "caption2color": "black",
+                  "caption3": null,
+                  "caption3color": "black",
+                  "fullWidthImage": true,
+                  "url": "https://images.ctfassets.net/enhz2tloa31p/tBp80a7HtjCEBwaovtxsK/c8e7c28480135459b6718766d0d8f5e0/Crankbolt_Full_Install_Cap_installed_2_C.jpg",
+                  "details": {
+                    "Size": 216757,
+                    "Image": {
+                      "Height": 466,
+                      "Width": 900
+                    }
+                  },
+                  "width": 900,
+                  "height": 466,
+                  "fileName": "Crankbolt Full Install Cap installed_2_C.jpg",
+                  "contentType": "image/jpeg",
+                  "alt": "DUB Crank Self-Extractor Bolt and Cup Installation",
+                  "type": "image",
+                  "title": null
+                }
+              ],
+              "type": "text",
+              "title": null
+            },
+            {
+              "noticeType": "ansi-notice",
+              "content": "<p>The self-extracting cap is <strong>reverse </strong>threaded.</p>",
+              "type": "notice",
+              "title": "Notice"
+            },
+            {
+              "step": "notastep",
+              "content": "<hr><p></p>",
+              "images": null,
+              "type": "text",
+              "title": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "QWMpCuy4cNGPlgIRUJmrz",
+      "title": "Recycling",
+      "hash": "recycling",
+      "filters": [],
+      "children": [
+        {
+          "id": "1pfTLZ1NIOE1h4cH5zoniV",
+          "type": "block",
+          "title": null,
+          "titleEmphasis": false,
+          "hash": null,
+          "filters": [],
+          "content": [
+            {
+              "step": "notastep",
+              "content": "<p>\u267bFor recycling and environmental compliance information, please visit <a href=\"https://www.sram.com/en/company/about/environmental-policy-and-recycling\" class=\"s-hyperLink\">www.sram.com/en/company/about/environmental-policy-and-recycling</a></p>",
+              "images": null,
+              "type": "text",
+              "title": null
+            },
+            {
+              "step": "notastep",
+              "content": "<hr><p></p>",
+              "images": null,
+              "type": "text",
+              "title": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "id": "7unL17qdyCWxTL38aPmYJ0"
+}

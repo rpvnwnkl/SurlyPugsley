@@ -1,0 +1,2003 @@
+{
+  "resources": [
+    {
+      "url": "https://surlybikes.com/products/pugsley_2016",
+      "file": "assets/c1bfe956cbdad92edc34.html",
+      "mime": "text/html; charset=utf-8",
+      "sha256_original": "d506c0e737156b79b4e2804a181a905ecbbce1dba54f6581377ab83e1d7b73be",
+      "bytes": 233752
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/storefront/assets/storefront/storefronts.moderate.specrules-eb468f32.json",
+      "file": "assets/d13bb0b7a2e16a0a8dc2.json",
+      "mime": "application/speculationrules+json; charset=utf-8",
+      "sha256_original": "ad9e54988c5168d5598dd705f9d1ced4bd18016a69ae798cd781976e4e77e629",
+      "bytes": 578
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/constants.js?v=132983761750457495441782988452",
+      "file": "assets/5ef4e05974b52506144b.js",
+      "mime": "text/javascript",
+      "sha256_original": "1f2914e91511472e6b5626c3c856ced06ac6ce23101c4cc9c0b99c67363cf1ce",
+      "bytes": 258
+    },
+    {
+      "url": "https://use.typekit.net/myh2riu.css",
+      "file": "assets/4b7101d458f948701b27.css",
+      "mime": "text/css;charset=utf-8",
+      "sha256_original": "83499ef21df7c736d6924c2f0a50430ab7e219841ed0a6891fed7218973255f1",
+      "bytes": 2686
+    },
+    {
+      "url": "https://p.typekit.net/p.css?s=1&k=myh2riu&ht=tk&f=6930.16466.16472&a=83859492&app=typekit&e=css",
+      "file": "assets/63a070c9528d90608c64.css",
+      "mime": "text/css",
+      "sha256_original": "1c0ff118a4290c99f39c90abb38703a866e47251b23cca20266c69c812ccafeb",
+      "bytes": 5
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/pubsub.js?v=158357773527763999511782988452",
+      "file": "assets/4fbf5400beb66d93f98e.js",
+      "mime": "text/javascript",
+      "sha256_original": "683061976b453687d4c93873f1a085771c765b6af4a6f9e5924b9c610af0feb4",
+      "bytes": 477
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/loader.init-shop-cart-sync.en.esm.js",
+      "file": "assets/f8277da8c99f5df41608.js",
+      "mime": "text/javascript",
+      "sha256_original": "990e7b0d5752574447db5d326e21a19eebb07c2992db4a294fec312a714829ac",
+      "bytes": 793
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "file": "assets/2c483446825074a71e41.css",
+      "mime": "text/css",
+      "sha256_original": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "bytes": 13728
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/base.css?v=169814693307334747501782988452",
+      "file": "assets/1e57561a1c11a84171ce.css",
+      "mime": "text/css",
+      "sha256_original": "46a6423207f1913dd08d960f03901a074164376f3574021d7a1da8305835eb98",
+      "bytes": 68708
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/component-localization-form.css?v=170315343355214948141782988452",
+      "file": "assets/c1d986940ac590545c66.css",
+      "mime": "text/css",
+      "sha256_original": "e83de4853990e2d2c0fb97a59412f89ec589105d0fdd63581e093ae57f0c50c1",
+      "bytes": 8341
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/component-slideshow.css?v=17933591812325749411782988452",
+      "file": "assets/9b02bc6e8de2e8aefaac.css",
+      "mime": "text/css",
+      "sha256_original": "bc4c56f6064dd34b454132f8c7f87204c4c2a3f62b7b89406298492fb2c639b1",
+      "bytes": 3674
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/component-slider.css?v=34727137162838910171782988452",
+      "file": "assets/4ed5951875d1a00f01e2.css",
+      "mime": "text/css",
+      "sha256_original": "f39db264b7bcffb54911f17601e21e9ae15ae5bfa34f6dd1bd33cc6268c4b045",
+      "bytes": 8242
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/component-list-social.css?v=35792976012981934991782988452",
+      "file": "assets/f291d869a6275ba012d5.css",
+      "mime": "text/css",
+      "sha256_original": "675a875df8c636dfea5bbcfc39cacc0d8c5167183ddd6d41ab3799ccb5cfd3ee",
+      "bytes": 504
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/section-main-product.css?v=135421445517778671651782988452",
+      "file": "assets/6f55cb3c841e62521635.css",
+      "mime": "text/css",
+      "sha256_original": "5bc3c2a2317ac01e603f53603b1974ed5f1910abcea4eba06cdd79b0b1ad2506",
+      "bytes": 26645
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/component-accordion.css?v=154445304651600215101782988452",
+      "file": "assets/07c4d9a6b61b6464be8e.css",
+      "mime": "text/css",
+      "sha256_original": "fc004f83ef62da96ff2962144db07eeb59fe35e778390eb114726831a98945c6",
+      "bytes": 1428
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/loader.shop-follow-button.en.esm.js",
+      "file": "assets/dc65b939580827d285e8.js",
+      "mime": "text/javascript",
+      "sha256_original": "12f9c961a978468450d7a7ffe3a1fa1e0986153381f1094efa2b9557b6d44a3f",
+      "bytes": 1317
+    },
+    {
+      "url": "https://cdn.shopify.com/storefront/standard-actions.js",
+      "file": "assets/2ae8f10af71a61aa042e.js",
+      "mime": "text/javascript",
+      "sha256_original": "f726c36acddcd5ae627e5786f31e0cf3dca02c4b3c38ff0ceec3c1b32edb7eb5",
+      "bytes": 11267
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/client.init-shop-cart-sync_BK_PKL7G.en.esm.js",
+      "file": "assets/ba5723422055591a8883.js",
+      "mime": "text/javascript",
+      "sha256_original": "8beaac42745362b28fc343200f2b44768c5125987887cfdc7e74b6f0d17a3c87",
+      "bytes": 1694
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.document_DMcRsBXN.esm.js",
+      "file": "assets/9bff557ea049155462db.js",
+      "mime": "text/javascript",
+      "sha256_original": "fe7ba008108a21dd0bab76d29e7fa1b1e795a63d0117470be2f8983f24d96fd4",
+      "bytes": 543
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.init_D4ufR3pg.esm.js",
+      "file": "assets/b7da3b20842b05a70db1.js",
+      "mime": "text/javascript",
+      "sha256_original": "2252ba9262c5c3424db15c3189770d186792a4d9cab7084f1ea2d040bd96cf3a",
+      "bytes": 664
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.register_CyWSTojb.esm.js",
+      "file": "assets/f0952408d38b03acf344.js",
+      "mime": "text/javascript",
+      "sha256_original": "003c3b55051231e2ef34571c4c990a1358c9c8f0ab466986daf0e733ba8c353b",
+      "bytes": 74299
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.tslib-es6_CHHZATl5.esm.js",
+      "file": "assets/8e73b6171a42a645a03a.js",
+      "mime": "text/javascript",
+      "sha256_original": "5041b0238aed2ec092bfbb18ce75376eadd5531ddae913bfbe85212db644d35a",
+      "bytes": 1370
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.networkErrorMessages_DIkDbO6W.esm.js",
+      "file": "assets/2195619d5591c9c62264.js",
+      "mime": "text/javascript",
+      "sha256_original": "a640be7a37bb92ef93baf07567c93e494f89f46ddd0350b390265406ac5e00c9",
+      "bytes": 349
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/client.shop-cart-sync_CWtV3bZg.en.esm.js",
+      "file": "assets/58f11393f992b87c739d.js",
+      "mime": "text/javascript",
+      "sha256_original": "4c272aebec4008809212d20f2e2c3b2be838259cb7ae2b3a46d51086f883616f",
+      "bytes": 7400
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.defineInitFunction_CIjOjzsO.esm.js",
+      "file": "assets/26d97c2cf5e8f22d8f9e.js",
+      "mime": "text/javascript",
+      "sha256_original": "0f51f524c6660a63350dce47e9bdba622dc95bb9757c986004644a5491c4afbf",
+      "bytes": 289
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.window_CAbVMZox.esm.js",
+      "file": "assets/785aa729e104b3baa343.js",
+      "mime": "text/javascript",
+      "sha256_original": "03c808aa6ff1e8f96e92db8922bfa343e2da39ef4abb758d07aede14af95800a",
+      "bytes": 1264
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.casing_U_9x-Om3.esm.js",
+      "file": "assets/788f266f80489ec1136c.js",
+      "mime": "text/javascript",
+      "sha256_original": "549ea67177e11b4c062400d32e40ef5cfbc1790d7ac40779d7166a36bf2d0aa2",
+      "bytes": 11655
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.utils_CY1J4tRu.esm.js",
+      "file": "assets/6fbb96bdd6ede574f8e7.js",
+      "mime": "text/javascript",
+      "sha256_original": "6940c12ae85c2e944854ee2821c4e16a1f2f39337fa848f542bc16948f9b1422",
+      "bytes": 9333
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.v4_D2VNBPfk.esm.js",
+      "file": "assets/4a996da744db6eeb3b0c.js",
+      "mime": "text/javascript",
+      "sha256_original": "d8c847427aa242910efe8a9d105e435633d6e79323927609844db4e6627f09b6",
+      "bytes": 1103
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.useUserRecognitionSignal_D5ZIuhZc.esm.js",
+      "file": "assets/4397ecb20120fb727cd8.js",
+      "mime": "text/javascript",
+      "sha256_original": "b9946c2154247f7f91359d27658ea658ffed7caa13864163aab66d535af138a8",
+      "bytes": 793
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.storage_DQF5v-OM.esm.js",
+      "file": "assets/13dad7ef3ea24a4e7f33.js",
+      "mime": "text/javascript",
+      "sha256_original": "129653811b7ceedd866b85492425a914b93fad5803d3fbb238b2a6a6be8a607c",
+      "bytes": 569
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.hooks_FQ60gQnj.esm.js",
+      "file": "assets/74d14b149de2edad514f.js",
+      "mime": "text/javascript",
+      "sha256_original": "55f0f05800d3bf0de83d5e0c597d8797b611539a8c8810877813bf1aeaea5c17",
+      "bytes": 140
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.authorize_WtTR8Xbh.esm.js",
+      "file": "assets/14025fabd23a94d6b096.js",
+      "mime": "text/javascript",
+      "sha256_original": "94803aedee5470b589413166b6d24a0d6a406dc5b83fef34953ae9745dbb58d2",
+      "bytes": 628
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.useEventListener_D5-R6De3.esm.js",
+      "file": "assets/de7e82f00ed4cad55c65.js",
+      "mime": "text/javascript",
+      "sha256_original": "8539ec6371d04202ee56e2be3f5ae3c4d7c977550a5a8c2f82feca8d5a15e26b",
+      "bytes": 1409
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.validators_09U1U9sZ.esm.js",
+      "file": "assets/ddd7f4488ec748c9f803.js",
+      "mime": "text/javascript",
+      "sha256_original": "dd7640617f7bc04951fa775d3c49d76f3a6307a72f7a9ce2b29519b49664b13e",
+      "bytes": 1047
+    },
+    {
+      "url": "https://conf.config-security.com/model",
+      "file": "assets/0836b9b79e47d3cb83a9.bin",
+      "mime": "text/json",
+      "sha256_original": "8de443c212ae55110cfc9962f9fed91c3815e51e05732f8961c1cafdd36f2648",
+      "bytes": 304
+    },
+    {
+      "url": "https://api.config-security.com/first?host=surly-qbp.myshopify.com&plat=SHOPIFY",
+      "file": "assets/99f08ca47cb48daa18a6.bin",
+      "mime": "text/plain; charset=utf-8",
+      "sha256_original": "9d459ceeed2357c966a496857352c1cea6779994e253edc573c45611ddfe91d2",
+      "bytes": 161267
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/component-price.css?v=70172745017360139101782988452",
+      "file": "assets/bb49d7797d074b51e39d.css",
+      "mime": "text/css",
+      "sha256_original": "1ff0e2f588af8ff6e2bad74ef8e5929f199f3d9bddffac75e9ee76cbe27452b1",
+      "bytes": 1667
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/component-rating.css?v=179577762467860590411782988452",
+      "file": "assets/ad1d319052f893d3432b.css",
+      "mime": "text/css",
+      "sha256_original": "42886d8453009764445610aaf7360d5165ac255d2e8a5e0e9dda71fa87eb0552",
+      "bytes": 1102
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/component-deferred-media.css?v=14096082462203297471782988452",
+      "file": "assets/0cbe8ee42a3e7932a3ef.css",
+      "mime": "text/css",
+      "sha256_original": "9958376fa50427f02cb8074544e31a5b0c8657493fb2312c5805bc1b9d5daf33",
+      "bytes": 2303
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/files/surly-pugsley-ops-grey-930x390.jpg?v=1748608611&width=823",
+      "file": "assets/d92d7887111d2875e795.jpg",
+      "mime": "image/webp",
+      "sha256_original": "dc619a4cd737d03207db2d565270167d6ada0fc6b2d42ba381c2d32cb5010c07",
+      "bytes": 34652
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/section-rich-text.css?v=173240442043816947101782988452",
+      "file": "assets/f4e51b285aaa990c7fe5.css",
+      "mime": "text/css",
+      "sha256_original": "3be299868e3598541febc9873db4cb020199c94b504ae4945f06575bc173dece",
+      "bytes": 1275
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/collapsible-content.css?v=38274078270601687081782988452",
+      "file": "assets/309bf6bcf3d9a51bc00b.css",
+      "mime": "text/css",
+      "sha256_original": "ebeefbfc1c9918b996d93b1a02f8f5a163d00c919dad6ebef315933a534168b5",
+      "bytes": 4421
+    },
+    {
+      "url": "https://shop.app/checkouts/internal/preloads.js?locale=en-US&default_configuration_id=1994391575&shop_id=73597878295",
+      "file": "assets/d226a8eced9e070c1781.js",
+      "mime": "application/javascript; charset=utf-8",
+      "sha256_original": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/files/surly-geo-drawing-mtn-2000x1287.png?v=1746110488",
+      "file": "assets/a4147ec0209d23ad7008.png",
+      "mime": "image/webp",
+      "sha256_original": "5645e7b4063205e81d29dca6b896d9bead999d5acfe4f69a7acc5cddca32b8b1",
+      "bytes": 85924
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/component-card.css?v=170852869543169365271782988452",
+      "file": "assets/c78d132e56b2f1e96813.css",
+      "mime": "text/css",
+      "sha256_original": "16054b9fa51ba5949286dff8afd17081ba6f9d7e884330a9f6c3691d4eebfeda",
+      "bytes": 12082
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/storefront/assets/storefront/origin_trials-318ab40a.js",
+      "file": "assets/dc9b29b6399867a2a9db.js",
+      "mime": "text/javascript",
+      "sha256_original": "a896defe3119047b6be56fc1940d9c280cf7be45eeeaf250c8b8e0be0082f3a8",
+      "bytes": 1679
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/component-article-card.css?v=47105078945762260691782988452",
+      "file": "assets/f0846cca6c3e94f098f1.css",
+      "mime": "text/css",
+      "sha256_original": "58c214206688dee5bed5510376fcc6c35f0f35483fe98bd640c8ff7176be385b",
+      "bytes": 2004
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/section-featured-blog.css?v=36629982431115873811782988452",
+      "file": "assets/947b6a78467801036eb8.css",
+      "mime": "text/css",
+      "sha256_original": "2ef41e9748f9988e9ea9e2c77070293bba25bd0b04e6fc71be837ea05b1c8b9f",
+      "bytes": 964
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/template-collection.css?v=58558206033505836701782988452",
+      "file": "assets/14ede12ed0a9d8b8947d.css",
+      "mime": "text/css",
+      "sha256_original": "d218342897cf0ee1a85899a540d520a9bff42dc5fd070cb718df3002aa4f8ccc",
+      "bytes": 1509
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/section-related-products.css?v=80324771040738084201782988452",
+      "file": "assets/4f58a2de3f07a506c9fe.css",
+      "mime": "text/css",
+      "sha256_original": "52bf6644384d53433d548dafa545cd0c716a06babe9c21d6fab7cc2ff0003273",
+      "bytes": 92
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/section-footer.css?v=60318643098753476351782988452",
+      "file": "assets/de5bae7507a2a1da1607.css",
+      "mime": "text/css",
+      "sha256_original": "9d5fa5088f4fc0ef011a93cebb558ce625fda3fcbf7b389a28dc1f14acde7f6b",
+      "bytes": 7472
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/component-newsletter.css?v=4727253280200485261782988452",
+      "file": "assets/c123f6587c9c86763a05.css",
+      "mime": "text/css",
+      "sha256_original": "fb71740ec0f888615d38645b5fd5f9d7445883a2ca601ba6f1206010c24f71d7",
+      "bytes": 1305
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/component-list-menu.css?v=151968516119678728991782988452",
+      "file": "assets/0713736af493df5bb1c5.css",
+      "mime": "text/css",
+      "sha256_original": "7e5d9009e86a53f67e2eb846cc835fcea43bcef8afd1db9d65bd3053239d703c",
+      "bytes": 516
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/component-list-payment.css?v=69253961410771838501782988452",
+      "file": "assets/aa1628a685a8bfd4708b.css",
+      "mime": "text/css",
+      "sha256_original": "91c2889dda4223a062da9cc8e6dd536f0e043735d45d769f105ba1b2babe6e07",
+      "bytes": 362
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/global.js?v=152862011079830610291782988452",
+      "file": "assets/bfe4edba0a5465ac9b39.js",
+      "mime": "text/javascript",
+      "sha256_original": "ea906a7ac7782e543adbf8b9251824410fd49e4b4f1d959d882b979fc22eabe4",
+      "bytes": 32629
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/details-disclosure.js?v=13653116266235556501782988452",
+      "file": "assets/1185ee13d169e9f6b88a.js",
+      "mime": "text/javascript",
+      "sha256_original": "c69922077775090916e12697f331f6131ba9ac3b8b278747e994ee9310b2d1bb",
+      "bytes": 1441
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/details-modal.js?v=25581673532751508451782988452",
+      "file": "assets/cb5812b13cf0995c28c8.js",
+      "mime": "text/javascript",
+      "sha256_original": "2aaa2931b55913d40b804644f5c81b1e841b84b142e9191443be5686f00f9eb6",
+      "bytes": 1555
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/search-form.js?v=133129549252120666541782988452",
+      "file": "assets/910373eb04030484771e.js",
+      "mime": "text/javascript",
+      "sha256_original": "6f57724e512716e04bf6b69ae52ce09f79ca6cf063c87ee6227bbd3c5400f3bc",
+      "bytes": 995
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/animations.js?v=88693664871331136111782988452",
+      "file": "assets/32f5db236c60fded7a9e.js",
+      "mime": "text/javascript",
+      "sha256_original": "bbf6761d842682fb4effcac17ed4f1399f5e4b3ab54f40451e8a6f01051786dd",
+      "bytes": 2930
+    },
+    {
+      "url": "https://surlybikes.com/checkouts/internal/preloads.js?locale=en-US&default_configuration_id=1994391575",
+      "file": "assets/5f640df5d7f3018b4614.js",
+      "mime": "application/javascript; charset=utf-8",
+      "sha256_original": "a97e28affe0320514f4a3f6d5f2d6fe7206d138aff656140fcd13c5cb9cdea87",
+      "bytes": 12584
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/storefront/assets/storefront/load_feature-1bd60354.js",
+      "file": "assets/9c535e75f82e074cdfa0.js",
+      "mime": "text/javascript",
+      "sha256_original": "263a0fa7965f075b1202ce5241aa25d71d4682fbde33e060991cf20dec489c44",
+      "bytes": 13938
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/storefront/assets/shopify_pay/storefront-616277c7.js?v=20250812",
+      "file": "assets/e42b24526959667431ae.js",
+      "mime": "text/javascript",
+      "sha256_original": "34b9745197fd74b106c1fe35eebe8dca521b3349c0aef85a8cbcb5d7f2a09fc5",
+      "bytes": 82404
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/compiled_assets/scripts.js?v=184325197989695213571782988469",
+      "file": "assets/3247d0dea7a7916b8323.js",
+      "mime": "text/javascript",
+      "sha256_original": "c174ad3bfe05c178097db414f4856ef08ae9bed151db5c6bac5fe00aa26bd1d3",
+      "bytes": 3293
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/localization-form.js?v=144176611646395275351782988452",
+      "file": "assets/3d518e49ba8f07640666.js",
+      "mime": "text/javascript",
+      "sha256_original": "04ba946e1265f4a3d313af8eb8c7a7906f55df1920caeccab5c0780ebd4e5ed5",
+      "bytes": 5823
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/perf-kit/shopify-perf-kit-3.9.4.min.js",
+      "file": "assets/18ea73112435e390b60e.js",
+      "mime": "text/javascript",
+      "sha256_original": "c1c5756bda05a089b40589b7b8cd153294e76ab10e6f15c8d87c687c27c872a6",
+      "bytes": 83644
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/cart-notification.js?v=133508293167896966491782988452",
+      "file": "assets/59b4672f5fd188deda31.js",
+      "mime": "text/javascript",
+      "sha256_original": "74c623378994e7113d6dff17fc28dbfc4ed9eabcad04a9335e4a660ffb651b29",
+      "bytes": 1915
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/files/Surly-Logo-White.svg?v=1741038664&width=180",
+      "file": "assets/976ca9da4cfb6d8bc346.svg",
+      "mime": "image/svg+xml",
+      "sha256_original": "a0423f94264367b0161cd413466ab512135b9046a966f67a5e84c816f7a79ab3",
+      "bytes": 28159
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/product-info.js?v=149160427226008204701782988452",
+      "file": "assets/cbb88ab3fddaab28ea7a.js",
+      "mime": "text/javascript",
+      "sha256_original": "03a5d067b019e9502771c69258c30a80fb551ef6f8c601ef608e7a530d4c1a36",
+      "bytes": 11430
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/product-form.js?v=82553749319723712671782988452",
+      "file": "assets/241a543536e680ea84a5.js",
+      "mime": "text/javascript",
+      "sha256_original": "7934883e03905d8e5756160cc696d99fe1991c4196d8d902213e5a224dec1f3e",
+      "bytes": 3490
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/share.js?v=13024540447964430191782988452",
+      "file": "assets/ae5c73672805d6c232f3.js",
+      "mime": "text/javascript",
+      "sha256_original": "39ed00eeb2039bf268ca6c513a8ba6373c37a13febf3da21bff610fcdad44a2b",
+      "bytes": 1719
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/product-modal.js?v=116616134454508949461782988452",
+      "file": "assets/b2adec4adaab64379dca.js",
+      "mime": "text/javascript",
+      "sha256_original": "9f9a43d71808cdbf31ebb7a8bdde704080f1e20e44f2612ca3b16cea9df581f0",
+      "bytes": 1039
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/media-gallery.js?v=53998976194532824491782988452",
+      "file": "assets/7225db828e4ed9ae0d2c.js",
+      "mime": "text/javascript",
+      "sha256_original": "d8fbfdfe4e308c8b506b7768f40f0b456511e25422b18565e19cdbfd26e76a18",
+      "bytes": 3775
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/predictive-search.js?v=57209189334897115771782988452",
+      "file": "assets/def3c09c06a1b65d9a08.js",
+      "mime": "text/javascript",
+      "sha256_original": "247c6599c90f76b7dc9d8972295b88e9f72af2f27e5ca207c60a6ca659a4aead",
+      "bytes": 6317
+    },
+    {
+      "url": "https://surlybikes.com/cdn/wpm/bc8540278we853e1abpb62b2c4amde256306m.js",
+      "file": "assets/302ba0b3d0e4e24603ff.js",
+      "mime": "text/javascript",
+      "sha256_original": "d637acd0db820b0d7d2e12164293223a78cd2419cac1c453b748af80a0f731a4",
+      "bytes": 281822
+    },
+    {
+      "url": "https://surlybikes.com/cdn/s/trekkie.storefront.f1ba865b3fecd812ad617f74ac079261075e9edb.min.js",
+      "file": "assets/7e2bab892d7c1255a518.js",
+      "mime": "text/javascript",
+      "sha256_original": "6d5b58c8b87541531a04cb3f4a3612dc2f99213e05a59b59d79651369e78a34b",
+      "bytes": 139246
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/storefront/assets/shop_events_listener-4e26a9ce.js",
+      "file": "assets/da03f225a51a2c380130.js",
+      "mime": "text/javascript",
+      "sha256_original": "1d3ecda47a1526c73eb21d5909875b2d7008eede49702d4dabcece4cfe3f1f6f",
+      "bytes": 13482
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/component-cart-items.css?v=123238115697927560811782988452",
+      "file": "assets/520200b70678c92d9d37.css",
+      "mime": "text/css",
+      "sha256_original": "813961d128effe74759768ddd4bab8d9ea12885479260751fae26ae95701b463",
+      "bytes": 4697
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/component-predictive-search.css?v=118923337488134913561782988452",
+      "file": "assets/7549aedeaa3f2686f3e9.css",
+      "mime": "text/css",
+      "sha256_original": "a3da7625a8aa9643c591c123e2fc8a988ee579af052a25c4613b6a9973312535",
+      "bytes": 4976
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/component-search.css?v=165164710990765432851782988452",
+      "file": "assets/8f3ba87457c51422259e.css",
+      "mime": "text/css",
+      "sha256_original": "243cd55662d83c316bbb0f137c15809fb58f91cc6d084c335bc1c9c6cc6ba9b8",
+      "bytes": 1338
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/component-menu-drawer.css?v=147478906057189667651782988452",
+      "file": "assets/972c59cd0e018d2c44c4.css",
+      "mime": "text/css",
+      "sha256_original": "98c1d0d72aa6c42b97cdbc86d65558bd2f9c32edc290170679e01b990f334320",
+      "bytes": 4689
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/component-cart-notification.css?v=54116361853792938221782988452",
+      "file": "assets/62f2b0529e86c3c28683.css",
+      "mime": "text/css",
+      "sha256_original": "7eef9281b181a3a2428f5a42a852387a842467b52248f8018bba4492cf297e80",
+      "bytes": 2692
+    },
+    {
+      "url": "https://use.typekit.net/af/e6584e/000000000000000077359b87/31/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n4&v=3",
+      "file": "assets/6231b3065d37c66ba093.bin",
+      "mime": "application/font-woff2",
+      "sha256_original": "259e8ee5d941d3f773182e5b0f28f60ef1586eb43babf2cc8c1e3eab3c9a94d2",
+      "bytes": 16632
+    },
+    {
+      "url": "https://use.typekit.net/af/870551/000000000000000077359b94/31/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n6&v=3",
+      "file": "assets/6459ca3f8ddaf60073b9.bin",
+      "mime": "application/font-woff2",
+      "sha256_original": "aae715587b451ea7d201c1c3a4e9ec006d0471cd41c1cdb582669fdd30fab32b",
+      "bytes": 18132
+    },
+    {
+      "url": "https://use.typekit.net/af/19461e/000000000000000077359b7d/31/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n9&v=3",
+      "file": "assets/e57524984725c2178e17.bin",
+      "mime": "application/font-woff2",
+      "sha256_original": "12965de86879bc77f6747c402eb64bc07bd2148709a35d4834e3912240f73241",
+      "bytes": 17732
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/files/surly-pug-ops-green-930x390.jpg?v=1748608611&width=823",
+      "file": "assets/7d104ce68da85c463066.jpg",
+      "mime": "image/webp",
+      "sha256_original": "80ead7f44001eadbb521e0cf43f701cdc9efbe357eeedcc5af680340930437ec",
+      "bytes": 36096
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/files/surly-pugsley-grassy-green-930x390.jpg?v=1748608611&width=823",
+      "file": "assets/c0c3e754a10f1285dcaf.jpg",
+      "mime": "image/webp",
+      "sha256_original": "3e31d4997d955e0fa8a14629d96ea72d8eee3038db2fd4c91440f671be65167b",
+      "bytes": 37684
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/files/surly-pugsley-ss-purple-930x390.jpg?v=1748608611&width=823",
+      "file": "assets/345d1fff1d89eaad1247.jpg",
+      "mime": "image/webp",
+      "sha256_original": "7322a071d35c88d84cf0fbfab6e2cd3e08d463b41e196bbf98628d357aa5034b",
+      "bytes": 34772
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/files/surly-pugsley-blue-930x390.jpg?v=1748608611&width=823",
+      "file": "assets/7b632c1b1fac6e15a818.jpg",
+      "mime": "image/webp",
+      "sha256_original": "629d7588595e8ae498c2c4f7f0bfce68ea8e80d9c4a3f64fdd0b6972da4a32d4",
+      "bytes": 37296
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/files/surly-pugsley-ops-maroon-930x390.jpg?v=1748608611&width=823",
+      "file": "assets/163a99cb56a87202ec0f.jpg",
+      "mime": "image/webp",
+      "sha256_original": "00802fc8d58e08f4f8ef3228a724f4076d83694b38646d17c067c80017077d54",
+      "bytes": 38390
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/files/surly-pugsley-yellow-930x390.jpg?v=1748608611&width=823",
+      "file": "assets/b4dcb558052369d8b460.jpg",
+      "mime": "image/webp",
+      "sha256_original": "49cfea8875921a2e91b50cc5ac6a85afdffae31e802350be12bd396daadd60fb",
+      "bytes": 36430
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/files/surly-pugsley-ops-grey-930x390.jpg?v=1748608611",
+      "file": "assets/a0d1e648f187dd8b3dbe.jpg",
+      "mime": "image/webp",
+      "sha256_original": "0975a000e6b831436f28263bc2579646f1b75a094cf004c6d63f41ad21a0b052",
+      "bytes": 43326
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/files/surly-pug-ops-green-930x390.jpg?v=1748608611",
+      "file": "assets/2d25517a0111ca4a21e1.jpg",
+      "mime": "image/webp",
+      "sha256_original": "da2c8f9c97f7f0f2c6bd85b1a88b77407a074eb10f35592444033ddf57f0089e",
+      "bytes": 44428
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/files/surly-pugsley-grassy-green-930x390.jpg?v=1748608611",
+      "file": "assets/85019eb87c99d7e6abea.jpg",
+      "mime": "image/webp",
+      "sha256_original": "3db7644a712664137e545b03e9ed437127d68c9be4058cbe4f90ace901e9d01e",
+      "bytes": 46504
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/files/surly-pugsley-ss-purple-930x390.jpg?v=1748608611",
+      "file": "assets/4f55dc4996b7f550c19e.jpg",
+      "mime": "image/webp",
+      "sha256_original": "5b66eea0d0ddaea0260a8024c249c709b20ae430bb1460b6d461ab7c141d8f9f",
+      "bytes": 43164
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/files/surly-pugsley-blue-930x390.jpg?v=1748608611",
+      "file": "assets/cfdf2840849609902c40.jpg",
+      "mime": "image/webp",
+      "sha256_original": "b8d0f2ed39278b0471abf1733184c3d4da5fa5c096fc34ed7e272945a653f054",
+      "bytes": 45848
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/client.shop-follow-button_Ceq5z9E1.en.esm.js",
+      "file": "assets/33ddcecd9325332f3885.js",
+      "mime": "text/javascript",
+      "sha256_original": "bb1f4bcf23a03cb23bda56416a9dee160b74c4a6c61d43f08fbfc82e7b5227a8",
+      "bytes": 8625
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.hooks_BdHMoIgb.esm.js",
+      "file": "assets/4302ae7a554b450c688d.js",
+      "mime": "text/javascript",
+      "sha256_original": "29f4408a7ef13ab253babefbd3b540812e07a78b079b038fe6be256224569999",
+      "bytes": 1169
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.css_D1J1H_Eq.esm.js",
+      "file": "assets/d7df5d129219cca49004.js",
+      "mime": "text/javascript",
+      "sha256_original": "d3af468abe4ccd5938cb9d3af0d339d3586b0a667e875aa986a9aad275985dcc",
+      "bytes": 6644
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.StyleProvider_CUGLkeh7.esm.js",
+      "file": "assets/8190e032da57a41238ea.js",
+      "mime": "text/javascript",
+      "sha256_original": "35b5b66c9a2220952ceaceaefe1278bdee8861d3dd78d227fae5858ad1a7f4e9",
+      "bytes": 1224
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.AuthorizeStateProvider_DeMWbqQN.esm.js",
+      "file": "assets/458604f3b81e103002c1.js",
+      "mime": "text/javascript",
+      "sha256_original": "4492c3fc423f1ed21e95f6c79fce43d6fc14724201beafb01d9c89e1c8c4bda3",
+      "bytes": 30663
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.useDispatchEvent_DwwPIxoe.esm.js",
+      "file": "assets/c33cc49069052bc4c600.js",
+      "mime": "text/javascript",
+      "sha256_original": "8ceac44520943e370933499cceed62df0c2c6a1b92703ce44b53c103cb8d3e2f",
+      "bytes": 561
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.ShopIcon_CaEhj5ku.esm.js",
+      "file": "assets/9a5b4baf22ba6413cfc5.js",
+      "mime": "text/javascript",
+      "sha256_original": "023fa928cfacf18ca68fa3c0ac75a10293fcd49f5cfc88d3a4f9cfde328d6d7d",
+      "bytes": 2075
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.I18n_C_nx5xaP.en.esm.js",
+      "file": "assets/784ecfb1bfdee3c75a4f.js",
+      "mime": "text/javascript",
+      "sha256_original": "50d1b7bf691ba7ad770cb24aba3c2847f96a8087230af15ff9f20c117436849c",
+      "bytes": 3599
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.useWindoidMessageHandler_B6SXM7kO.esm.js",
+      "file": "assets/f6bb7817cd04f57413c9.js",
+      "mime": "text/javascript",
+      "sha256_original": "16ca61d66511b01afbbc70d991237ea7da6388bef73d036ba4fff79eef6ddf85",
+      "bytes": 1414
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.useAuthorizeUrl_Bxh1x4Qk.esm.js",
+      "file": "assets/958704ddd4b71278fc91.js",
+      "mime": "text/javascript",
+      "sha256_original": "d8cd044f841c2fe1803749c2b288ccf035f3c4bb8e1478913e1ea4f146b68d64",
+      "bytes": 1955
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.windoid_9toOZaoM.esm.js",
+      "file": "assets/dc61797d8005ac56fa23.js",
+      "mime": "text/javascript",
+      "sha256_original": "8dc610736c168a9978b1f33450038bb8d4e150da71699211880a568cdd616112",
+      "bytes": 1507
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.useStorefrontOrigin_D1qO0ftY.esm.js",
+      "file": "assets/c41dff549bcba081eca9.js",
+      "mime": "text/javascript",
+      "sha256_original": "e002aab64a5081d320fbd06b8516e4a545ed47e7274e5f02bea45fbc1d9a1a25",
+      "bytes": 453
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.context_IZTYG4gY.esm.js",
+      "file": "assets/be5020d331fa572d81fd.js",
+      "mime": "text/javascript",
+      "sha256_original": "cb753cc38c5e9e97794a42585d590c772240d341dc62371caa801ea6a7cf4bed",
+      "bytes": 603
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.PortalProvider_DLLsSNSs.esm.js",
+      "file": "assets/7ccbbaf6408fd0a16305.js",
+      "mime": "text/javascript",
+      "sha256_original": "b45691b13eca7639208aea917e712bca2ea3d3716b6b69beda214d279f110d0b",
+      "bytes": 694
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.debounce_C-IIq26m.esm.js",
+      "file": "assets/35523c79a4afa395a893.js",
+      "mime": "text/javascript",
+      "sha256_original": "5497ed2a310952869dda1f3aae8ee63038d867ea13ade1eba79a0c429cf5578c",
+      "bytes": 237
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.buildAuthorizeUrl_r2lBdfrg.esm.js",
+      "file": "assets/270fdfd49a81b3fdd83b.js",
+      "mime": "text/javascript",
+      "sha256_original": "053b109fe11aad1c367204db41f32131e39e5d5be7bf4862db9320c6f1e588c1",
+      "bytes": 825
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.buildUrlSearchParams_AG1B310F.esm.js",
+      "file": "assets/de56169d3b71e20b498a.js",
+      "mime": "text/javascript",
+      "sha256_original": "eda062ff63881990f2bf6528689aa660186cc78f49f54ef39b6dbc0ae9c6ea92",
+      "bytes": 2669
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/files/Surly-Logo-White.svg?v=1741038664&width=265",
+      "file": "assets/5f40cd23e2cde108c103.svg",
+      "mime": "image/svg+xml",
+      "sha256_original": "a0423f94264367b0161cd413466ab512135b9046a966f67a5e84c816f7a79ab3",
+      "bytes": 28159
+    },
+    {
+      "url": "https://shop.app/pay/session?v=1&token=bf0838b3-f19a-4320-b22d-f14d9d0a1cfc&shop_id=73597878295",
+      "file": "assets/7e24e501b58c5626dbea.bin",
+      "mime": "application/json; charset=utf-8",
+      "sha256_original": "9b5179ea2a77fe69b294fbd2ed504eacbfbe048ede58967b43af2ca537144b1f",
+      "bytes": 18
+    },
+    {
+      "url": "https://surlybikes.com/web-pixels@c8540278we853e1abpb62b2c4amde256306/app/web-pixel-576618519@a3321ca85cf5aaf6b57585fcd8d67b3a~2/pixel.modern.js",
+      "file": "assets/308e412e5c4ac0f591a0.js",
+      "mime": "text/javascript; charset=utf-8",
+      "sha256_original": "88f7c196f563b9a96c167a697712a79faf894f555edc53a5c244273de7df6e9c",
+      "bytes": 18772
+    },
+    {
+      "url": "https://surlybikes.com/web-pixels@c8540278we853e1abpb62b2c4amde256306/custom/web-pixel-shopify-custom-pixel@0530/sandbox/modern/products/pugsley_2016",
+      "file": "assets/29bbd255fe68ae693d09.html",
+      "mime": "text/html; charset=utf-8",
+      "sha256_original": "7ea524a2a92b95a4b6c4e425ad3febe2a59c02e311ab5fb2ed63f0e1d7932723",
+      "bytes": 75602
+    },
+    {
+      "url": "https://surlybikes.com/web-pixels@c8540278we853e1abpb62b2c4amde256306/web-pixel-1580138519@c63c5b72c8d77be5f2d27d14c081da38/sandbox/worker.modern.js",
+      "file": "assets/0fe56313cba396ec989d.js",
+      "mime": "text/javascript; charset=utf-8",
+      "sha256_original": "ffc7611d94e522d1270d9379d28aaf7ca4f291157054e1ebe0856ca05af2beb2",
+      "bytes": 75000
+    },
+    {
+      "url": "https://surlybikes.com/web-pixels@c8540278we853e1abpb62b2c4amde256306/web-pixel-826736663@7093dff47f098f6de2afb75b62011ebe/sandbox/worker.modern.js",
+      "file": "assets/a0b132ad0dc5df8421df.js",
+      "mime": "text/javascript; charset=utf-8",
+      "sha256_original": "83b093c2b926265e1acef1ad392b4ece0f85ef553e667754333306bdaba78fff",
+      "bytes": 74998
+    },
+    {
+      "url": "https://surlybikes.com/web-pixels@c8540278we853e1abpb62b2c4amde256306/web-pixel-shopify-app-pixel@0530/sandbox/worker.modern.js",
+      "file": "assets/bca2e2d54e3b4d380210.js",
+      "mime": "text/javascript; charset=utf-8",
+      "sha256_original": "3cbcc57cd7862fb74bad423013250cbc5e03295bd6a9433fc23f78f121915259",
+      "bytes": 74986
+    },
+    {
+      "url": "https://surlybikes.com/web-pixels/strict/app/web-pixel-1580138519@c63c5b72c8d77be5f2d27d14c081da38.js",
+      "file": "assets/4cedeaa47c05dca820c1.js",
+      "mime": "text/javascript; charset=utf-8",
+      "sha256_original": "96c522d5de4d26b42e6055fbc86e96515c60a7227a5944ad2ac290917c503dbd",
+      "bytes": 8385
+    },
+    {
+      "url": "https://surlybikes.com/web-pixels/strict/app/web-pixel-shopify-app-pixel@0530.js",
+      "file": "assets/a967b0bf459e90b83250.js",
+      "mime": "text/javascript; charset=utf-8",
+      "sha256_original": "10ef60aadb010b3bc8fee1bc234b4d216479f9be59587b33d7cea89ff3dafbdd",
+      "bytes": 452
+    },
+    {
+      "url": "https://surlybikes.com/web-pixels/strict/app/web-pixel-826736663@7093dff47f098f6de2afb75b62011ebe.js",
+      "file": "assets/6007827a739027713095.js",
+      "mime": "text/javascript; charset=utf-8",
+      "sha256_original": "2e78f452739f8d2701655fbf955c1af2b1dd56f4148034babc937be06b688af2",
+      "bytes": 7547
+    },
+    {
+      "url": "https://cdn.shopify.com/shop-assets/static_uploads/shoplift/GTStandard-MSemibold.woff2",
+      "file": "assets/26caeb180ece7c4b6073.woff2",
+      "mime": "font/woff2",
+      "sha256_original": "d2910416447682f4c6a39a46d9ca49ce5e4895a878c45d51325cd1f932db9696",
+      "bytes": 64452
+    },
+    {
+      "url": "https://cdn.shopify.com/shop-assets/static_uploads/shoplift/GTStandard-MRegular.woff2",
+      "file": "assets/0dcea348dc16bb5d28db.woff2",
+      "mime": "font/woff2",
+      "sha256_original": "2dda39790292f332e481fbd37dd6c3d430a2b0dabf907e438f46a07f13b4d673",
+      "bytes": 63600
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.reportAssetMetrics_NQ0pCVj-.esm.js",
+      "file": "assets/f31ca514310825fd93cb.js",
+      "mime": "text/javascript",
+      "sha256_original": "af746d7619e898d78191bad49f37bd796142d59139fd58342cd7b83a070aa9e3",
+      "bytes": 3239
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/files/Surly-Favicon.svg?crop=center&height=32&v=1742481016&width=32",
+      "file": "assets/31483d3df694bcac233d.svg",
+      "mime": "image/svg+xml",
+      "sha256_original": "281208f356c2b7f3fc0286e856ec90530daab48bff7a168436097979c9a0a343",
+      "bytes": 15811
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/polyfills.QSVzdYsv.js",
+      "file": "assets/a32b8dee2ae89d56b124.js",
+      "mime": "text/javascript",
+      "sha256_original": "acee176f8b16aa0e6f25a4737ef11b7e4d32c2f3bbe8e5a5b518c375ad5818e8",
+      "bytes": 56316
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/app.DbSrjjlA.js",
+      "file": "assets/ab52f141b203dad75dbd.js",
+      "mime": "text/javascript",
+      "sha256_original": "9a44e1b4098f42edea1ec29a1f2eb0f28e512daf8d813587e7ce6fb0bb929d2e",
+      "bytes": 21948
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/esnext-vendor.B9Da21W6.js",
+      "file": "assets/2eb85330e602899ea705.js",
+      "mime": "text/javascript",
+      "sha256_original": "998acf9057176de1902f15dd553e56cd7e9584726e28b568922f9274279bc8ee",
+      "bytes": 141032
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/context-browser.DZZzP-lc.js",
+      "file": "assets/e77236d965d27a7a1eeb.js",
+      "mime": "text/javascript",
+      "sha256_original": "81dafb27834f855b53f10a09e2b6a356caaff5c388ef963df2cc68cd008879f6",
+      "bytes": 297409
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/addresses-is-address-empty.Bn2lNY_L.js",
+      "file": "assets/19f18910fcd310435b30.js",
+      "mime": "text/javascript",
+      "sha256_original": "4ee5bb05934f91971a2b2984a3d2ba86cdf3ee39e76fed152ebadf59b6d1a72f",
+      "bytes": 472907
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/shared-buyer-consent.B_gDyRCR.js",
+      "file": "assets/17fc2a032c7a181a370f.js",
+      "mime": "text/javascript",
+      "sha256_original": "77207ba94dd0e29cb524ecb311d4044055c28390096e133e1a9bc383513de467",
+      "bytes": 1559
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/proposal-delegated-payment-instrument.Gc2rhfd3.js",
+      "file": "assets/fdeee9529a1df22f262f.js",
+      "mime": "text/javascript",
+      "sha256_original": "d81269c87631fb379e6eb10fc4a7f565567ae54a745a574469fd9e9514e42661",
+      "bytes": 4685
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/shared-shop-theme.DIHIQUEd.js",
+      "file": "assets/a5ae8033a891102f4275.js",
+      "mime": "text/javascript",
+      "sha256_original": "f04f78ad44ca282075dce7eedb405ce8ed8e9ca54b1357e26a15e483a1d4f401",
+      "bytes": 2295
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/consent-manager-shared.DROIEFP2.js",
+      "file": "assets/2bc4d21995fa26ad5639.js",
+      "mime": "text/javascript",
+      "sha256_original": "c6d7e64f41ab8859a16e96d53b38b5670dc03bc293c36085f1e7e129b33ea3f3",
+      "bytes": 3151
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/shared-receipt-mapper-load-recovery.Ci5IIc7r.js",
+      "file": "assets/2058abbc98ffb733889d.js",
+      "mime": "text/javascript",
+      "sha256_original": "3f9d3fd424f188f3dcc6ac8bc3529894597a4b14b063919421f3f153e2be320f",
+      "bytes": 6326
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/shared-receipt-eager-mappers.BEm77m4Q.js",
+      "file": "assets/c09dd4f13275f08e0eb7.js",
+      "mime": "text/javascript",
+      "sha256_original": "12aa5a7eb57edb582facb330afadd32ae4cae9e3a988688fa85ba190511f180b",
+      "bytes": 10082
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/shared-report-graphql-error.0sJ2-gTk.js",
+      "file": "assets/66dce1fcf44711eee32d.js",
+      "mime": "text/javascript",
+      "sha256_original": "5a84d7826c0850ab2ab771787c4cebe5aea4bcaf9fab736fefe452e568cf6a06",
+      "bytes": 5286
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/shop-pay-normalizeBuyerDetails.CCnGCeBZ.js",
+      "file": "assets/37b3cbe85ad2b4ad0567.js",
+      "mime": "text/javascript",
+      "sha256_original": "8e70085491deb89b4e67636217deec59e90dde642f19120b6685d8d9aa18af68",
+      "bytes": 3363
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/helpers-derivations.Dug6X2_v.js",
+      "file": "assets/89fa47400fe8410d26e9.js",
+      "mime": "text/javascript",
+      "sha256_original": "0e44b9f31e000aee3b7dec95c0d01318d3022965a3895655cd30c2335ed91e25",
+      "bytes": 2991
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/redemption-promotions.DicFJEgz.js",
+      "file": "assets/e593f10b2e78e051f888.js",
+      "mime": "text/javascript",
+      "sha256_original": "a4c69affdc464f0d6d937b5be41c9222fae3118a0c7bd9a96e2bc99e0f435d4e",
+      "bytes": 1689
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/cvv-cvvBridge.B-VIACTq.js",
+      "file": "assets/0a7abbe063f8aa2de72a.js",
+      "mime": "text/javascript",
+      "sha256_original": "36dcaf65b9341044b2120300a4d660514ce0c1ba84dd421db777849826fe2909",
+      "bytes": 1989
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/graphql-PaymentSessionMutation.CAXCwUvV.js",
+      "file": "assets/f0a9b4c2cdaae28f3d95.js",
+      "mime": "text/javascript",
+      "sha256_original": "bb07709843b7296b46400de27ca80c0e4f31aefb898ce0f61046a64849edb8f9",
+      "bytes": 3952
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/hydrate.DZ4YTm7p.js",
+      "file": "assets/75c4772141ebbe101c97.js",
+      "mime": "text/javascript",
+      "sha256_original": "b12874e45b3346b463247a8f0b26c3a9d33359a712b9ecf995b91a819d6a119f",
+      "bytes": 827500
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/hooks-useShopPayExternalAppContext.DWwMuRnz.js",
+      "file": "assets/66c5b2c6a1f43cff8fe0.js",
+      "mime": "text/javascript",
+      "sha256_original": "066bdb3329c69749e93dc968de136661d4f799e6b2dca03695189c86845f1e3f",
+      "bytes": 1496
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/hooks-useReplaceShopPayInHistory.DPpLejwu.js",
+      "file": "assets/ca5bc0efff839ab0e58e.js",
+      "mime": "text/javascript",
+      "sha256_original": "e2497979dd9b532b50af2dacd648772953263dcda7ab750bb7bba1795c7a20fa",
+      "bytes": 3509
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/locale-en.CuHoACj7.js",
+      "file": "assets/5988bdac194f9e6726d0.js",
+      "mime": "text/javascript",
+      "sha256_original": "7d43e46c7dca60b4690775b2d8205fd442fc22fd7ff9b6c6eec4fce7c5e37afb",
+      "bytes": 135060
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/OnePage.B6rwcJvn.js",
+      "file": "assets/0c3b27247ecd25ff7a82.js",
+      "mime": "text/javascript",
+      "sha256_original": "36324c0afd4b175a1176990eab71fa4fec8a47db4a2a4db553474356e4587174",
+      "bytes": 176189
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/components-VatNumberValidationField.DDyS8GP9.js",
+      "file": "assets/b508c4142fad2b0df280.js",
+      "mime": "text/javascript",
+      "sha256_original": "a401057401da49fa55fb162cab61113aee59641ff0fc19c1cdfe4671c8a88c5a",
+      "bytes": 112756
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/localization-index.1YNaS8kx.js",
+      "file": "assets/ce8c55bec850268baa62.js",
+      "mime": "text/javascript",
+      "sha256_original": "68da488524f1e75887b12060ffc1400a61c8ed08acc41e3c875eb031afa8206a",
+      "bytes": 887
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/useShopPayButtonClassName.FG1djxr9.js",
+      "file": "assets/d4712249bb399a7476ea.js",
+      "mime": "text/javascript",
+      "sha256_original": "5f69a26912fbe3a02f7f0a6437700c470b6c6d72e93d39a08d6240ba3e7b6eeb",
+      "bytes": 2233
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/hooks-useShowShopPayOptin.Br0M25ky.js",
+      "file": "assets/14f578f976beaaab0d18.js",
+      "mime": "text/javascript",
+      "sha256_original": "782e29e55e9c14fbe1ed0f378a92231cb1c895d98342f59cef9a2de79d1a4a70",
+      "bytes": 3056
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/AddressPresenter.BIgrto4P.js",
+      "file": "assets/14eea71d9ce347774906.js",
+      "mime": "text/javascript",
+      "sha256_original": "ee5e9ee1d9871da3b0bc53c9e2866ed0f53eee89a01641f072eeab2b8349d7b4",
+      "bytes": 1441
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/hooks-useShouldRevealCustomization.D_kH_Ics.js",
+      "file": "assets/ad4bce55cecb4d2a4334.js",
+      "mime": "text/javascript",
+      "sha256_original": "6ae9467729badae35c86a0e736b6db5c67ab672c0d6fe39036634468fd3f8aab",
+      "bytes": 1643
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/hooks-useForceShopPayUrl.BFRInJvm.js",
+      "file": "assets/0535715fffbaaeb31f1e.js",
+      "mime": "text/javascript",
+      "sha256_original": "d430fe80a70a6f8bb5ad1b57edfdbc31dead3234f0154aa79d34e45363d45061",
+      "bytes": 3690
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/ChangeCompanyLocationLink.r3PUjspg.js",
+      "file": "assets/1465a7b99640bbad663c.js",
+      "mime": "text/javascript",
+      "sha256_original": "fcbc718966a3aa1ba979d5103b9c311defb93f39b17ef4e2d31f0f7be42cc1d6",
+      "bytes": 3213
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/BillingAddressForm.pnsu7UK8.js",
+      "file": "assets/a9327563de47161fca6a.js",
+      "mime": "text/javascript",
+      "sha256_original": "45a8409bae9ac726300a75fe03b7c901cc6fa5cdd9b88fc8c9958dbe657d39eb",
+      "bytes": 68197
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/components-RedirectionNotice.module.CsVdFi0g.js",
+      "file": "assets/216a0462fb32aa125ee9.js",
+      "mime": "text/javascript",
+      "sha256_original": "460bd7962ea1a08af4791ecb44f7fd4e24ac701c19b4318d1b1a6921da45861a",
+      "bytes": 1838
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/amazon-pay-useAmazonPayPaymentLine.Ju006AId.js",
+      "file": "assets/843e88cbccf96f562ee9.js",
+      "mime": "text/javascript",
+      "sha256_original": "b687abecee8f1411b1d87c0b7da4922311b9c2d6cde38b1e599aa63a51caf19f",
+      "bytes": 2020
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/PhoneField.C0TeiZrn.js",
+      "file": "assets/4dedc64a0407a40804a9.js",
+      "mime": "text/javascript",
+      "sha256_original": "b773e7b891f0ce6222c05663d37f8615c41fb77e95f4179d718ec4edf64a3744",
+      "bytes": 4170
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/hooks-useSuppressShopPayModalOnLoad.DFOLDSdS.js",
+      "file": "assets/590b7d9e0ec094ed11f1.js",
+      "mime": "text/javascript",
+      "sha256_original": "6e7bba5a9f64b8f841288913bc9c3911ec49e50e17504be783b65eecb7e2496a",
+      "bytes": 2612
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/Popover.BScgzCsS.js",
+      "file": "assets/02075f8592d1ab92cbbb.js",
+      "mime": "text/javascript",
+      "sha256_original": "aa52a3eaf831758620eddbc51765da944834b0aa9b871062ac4a016485bae6f6",
+      "bytes": 3642
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/Choice.DSKmQsTS.js",
+      "file": "assets/3270449b93dbf7d138f2.js",
+      "mime": "text/javascript",
+      "sha256_original": "a015807773e13252b7d30542d3313762a3ca4a2bbc3b69f51c25c21e18484061",
+      "bytes": 13171
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/Checkbox.DQyvbr9E.js",
+      "file": "assets/27479ef86bb7a1758e6f.js",
+      "mime": "text/javascript",
+      "sha256_original": "2e0725447c09f0b5f7d416c3591f5746686b2a829fd23ae397694f0887d2430f",
+      "bytes": 2907
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/shop-pay-installments-monorail.BAOukcZ1.js",
+      "file": "assets/123f785070d0e38cdb22.js",
+      "mime": "text/javascript",
+      "sha256_original": "4f63c0f3eefa5da3b01229d8c2ca1654f392d6a3544ca31b6d79cbfa4393e338",
+      "bytes": 1839
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/ShopPayLogo.C-Gy2CdB.js",
+      "file": "assets/239bc5b4b52fdb94a637.js",
+      "mime": "text/javascript",
+      "sha256_original": "4e500867f8460743554d5af37f348e976a7609c9bfd1815d580cb5d679e7cde7",
+      "bytes": 5648
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/hooks-useWalletsTimeout.CS-oFfve.js",
+      "file": "assets/6620cd1f409a523a11ef.js",
+      "mime": "text/javascript",
+      "sha256_original": "ff8f1297d858e023a6c1aa8c89c47aaced96a38685ce81b8a9887beba5996909",
+      "bytes": 9149
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/stopwatch.CfKlh48v.js",
+      "file": "assets/59350b4ca1ad852d2885.js",
+      "mime": "text/javascript",
+      "sha256_original": "e1ca07903a276885b0e32a970bd8c464bb05a1b59c4e2918699495da399df373",
+      "bytes": 4677
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/cross-border-hooks.xPE4TSQ5.js",
+      "file": "assets/62e43fb9009986dbf236.js",
+      "mime": "text/javascript",
+      "sha256_original": "6d01c5bda101ddc106e21671a9eb68f4a097ac47e587cb30a3f1556653e05dee",
+      "bytes": 4932
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/PayButton-helpers.Cc_ffyKs.js",
+      "file": "assets/c6682fa89199eae617b3.js",
+      "mime": "text/javascript",
+      "sha256_original": "45ca4c6fbbab5d494d7968be52d3ee8f6cbdabd3a87f8665311ee680f2270b4b",
+      "bytes": 2259
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/MarketsProDisclaimer.BqGHM17j.js",
+      "file": "assets/4a6d86b12d825f6c7a50.js",
+      "mime": "text/javascript",
+      "sha256_original": "bb62da17fa0ac1c4345eb47697ed83f95291da18b63f0880913cd4a71b29e3c6",
+      "bytes": 2823
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/IncentiveBadge.DborNHa8.js",
+      "file": "assets/0787bded28cf2f0d8ccf.js",
+      "mime": "text/javascript",
+      "sha256_original": "ac4ead36ff2eb6f7f8ed0dabe7da4c79dbb262749794874a6d31cbb262b1947a",
+      "bytes": 4062
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/Section-SectionStyleOverride.hMiKajvE.js",
+      "file": "assets/a7a0e085af5ce875326f.js",
+      "mime": "text/javascript",
+      "sha256_original": "18ce629d54eda63b820d04913a09c25ac9256d62b0510135055158a5bd73e946",
+      "bytes": 2056
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/TransitionHeight.CV2XV0NY.js",
+      "file": "assets/637922b579c273592338.js",
+      "mime": "text/javascript",
+      "sha256_original": "283a5f2f6a9e660248f381dbf49593899b0d1c21ad166ba75c559f30f6c10e50",
+      "bytes": 1631
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/AutocompleteField-hooks.RGAAfjBE.js",
+      "file": "assets/8f634ae451ae816e1178.js",
+      "mime": "text/javascript",
+      "sha256_original": "379acba3bb9624d676e7a4086e1b7297ac45c304c1259025054ea8d922bd6651",
+      "bytes": 12015
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/PendingShipping.CnPQOmzL.js",
+      "file": "assets/1e5637cab946c7325b12.js",
+      "mime": "text/javascript",
+      "sha256_original": "1e71abe4b80138398fb6aa4dffa6fc4addc7b3bf424a5d2350317594c8b1cbcc",
+      "bytes": 2064
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/StickyPayButton-StickyPayButton.module.C7bJOHW4.js",
+      "file": "assets/b159f34250476aea74bb.js",
+      "mime": "text/javascript",
+      "sha256_original": "61a7468d86f8514251d48ffc366eaaec158d9736a7cd60c0babb11d4be370c59",
+      "bytes": 12964
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/Switch.jEKUIqPZ.js",
+      "file": "assets/8bf3f36b79d8036aaf9b.js",
+      "mime": "text/javascript",
+      "sha256_original": "39925dd14467396d1ed53890dddf6c44f0b94aa253002fcc19191023b1c757ff",
+      "bytes": 2410
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/hooks-payment-button.CEm7ZXVs.js",
+      "file": "assets/beaa7c05507addc6c898.js",
+      "mime": "text/javascript",
+      "sha256_original": "149c16e05b35a2b9ab53a11defba5fcf4d59ca4d6d90f48529114976521ef383",
+      "bytes": 2561
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/useAddressMutationsWithNegotiation.qYbyFTyH.js",
+      "file": "assets/0a81300e896e59d90133.js",
+      "mime": "text/javascript",
+      "sha256_original": "86520be8e3d06dff7c7d1488d2c4ab22b5f52548d559fe2dead9531b2b9daba3",
+      "bytes": 84449
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/PaymentIcon.CIva5Q4J.js",
+      "file": "assets/5ffb873b6d0bf3a8ea21.js",
+      "mime": "text/javascript",
+      "sha256_original": "d88967ce566fb7be90e228bd68de20577a59f1d2a5fdf3dfac34d148a89c195e",
+      "bytes": 5707
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/PaymentLine.ClzCacf5.js",
+      "file": "assets/9c64aaf6dd2d460e787e.js",
+      "mime": "text/javascript",
+      "sha256_original": "0bbeca6c803442212c38a0654e1165e80829b0d0e536fd9a6fc5cbcb7c0ebbb8",
+      "bytes": 15242
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/Theme-ThemeOverride.DZIcf8ya.js",
+      "file": "assets/e654de4d7155e3784880.js",
+      "mime": "text/javascript",
+      "sha256_original": "495d688b0bc33526af6f69ed432eb02ec4aeb611199497b8f1c41d008cfc8633",
+      "bytes": 3421
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/hooks-useUpdateCheckoutAddress.DUYbpduS.js",
+      "file": "assets/91760df7797daebee801.js",
+      "mime": "text/javascript",
+      "sha256_original": "5501683e0bf5eca2fee0e6d6da842e7be1583ecdf7d295dce1cd75fef873716d",
+      "bytes": 5758
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/payment-usePaymentExemptionReason.B4VABxaE.js",
+      "file": "assets/ee9a56f63e56a6588dce.js",
+      "mime": "text/javascript",
+      "sha256_original": "82a78215b16b7fbcf59e01cf414f92b252b0fe1d04301e7aac2849120429ef7f",
+      "bytes": 1199
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/hooks-useShopPayProgressIntercepts.C0rljcs-.js",
+      "file": "assets/e33c93222176984b6785.js",
+      "mime": "text/javascript",
+      "sha256_original": "122d64d96015cc352beb03ecebec8355147f86c5aa1a0959d8574eee71e47f6c",
+      "bytes": 6743
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/Section.BlBY023l.js",
+      "file": "assets/a9558a167f744dccff25.js",
+      "mime": "text/javascript",
+      "sha256_original": "3598edd68c7bb05765f64228b7e2281e168a3a77761b89ca98617fe49c93d908",
+      "bytes": 2152
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/negotiated-findSelectedDeliveryMethod.DuEyfwut.js",
+      "file": "assets/c6283d455cae0f139abe.js",
+      "mime": "text/javascript",
+      "sha256_original": "082fbea85cd46bddcda7a022bbaddd0807087b8facce12f47f49fb1316b7f18b",
+      "bytes": 1392
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/PaymentErrorBanner.DceAStMH.js",
+      "file": "assets/5bd0fdf8d60685906d89.js",
+      "mime": "text/javascript",
+      "sha256_original": "e02860e8b71f170bf875eb62245d15c45db64608f507612a4d44252e68d4635c",
+      "bytes": 5946
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/hooks-useGeneralPaymentErrorMessage.EV5zhNz-.js",
+      "file": "assets/eca2b5a792d7acdc7347.js",
+      "mime": "text/javascript",
+      "sha256_original": "bcb25c8f4f034b471276033f19f32f37988f053626ad70610e4f4efe11265da9",
+      "bytes": 2374
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/hooks-usePreselectSpi.zcfP7GH7.js",
+      "file": "assets/f65825bd208f3266b5d9.js",
+      "mime": "text/javascript",
+      "sha256_original": "5362439d9f75890f19ba2abc6bd64c5b208448e2b1dadf732066c8b1708387ce",
+      "bytes": 4314
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/checkout-as-guest-amazon-pay.BDkrfUVE.js",
+      "file": "assets/6169f7d1e1b934f43edd.js",
+      "mime": "text/javascript",
+      "sha256_original": "8e753a29a6cc5f86925d4f2094c96b9e945e180029c43b8bac54e5870295e614",
+      "bytes": 1577
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/Middot.Dbfct-go.js",
+      "file": "assets/87c0cf5faf627f5b333c.js",
+      "mime": "text/javascript",
+      "sha256_original": "f95756d468bcd2dca02364914ab10d66b7dba5fc463a454a8f400e218d037e1d",
+      "bytes": 4759
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/EstimatedDeliveryContent.BuJLi-Ww.js",
+      "file": "assets/b366561145bb08095f19.js",
+      "mime": "text/javascript",
+      "sha256_original": "117ef59f9abdcbceb1b1d49c13534e50d542a53bdf9a1033238b1e1bc7adf9f6",
+      "bytes": 10506
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/ShippingMethodRateLabel.DAtbOh1H.js",
+      "file": "assets/4e58681acab41d929c53.js",
+      "mime": "text/javascript",
+      "sha256_original": "31dde62b749d5a24eec0fe710681067fa26c3650ef3f0544be8641e1603be8a4",
+      "bytes": 1475
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/shipping-methods-consolidated-included.BE_t6ovz.js",
+      "file": "assets/7a2857a87ad0e1a12186.js",
+      "mime": "text/javascript",
+      "sha256_original": "f83419262ae83557b7fc7d98a33b1eb0089332392d8c4d3a33d06ba651d827f2",
+      "bytes": 3448
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/ShippingLines.DZaI5-k3.js",
+      "file": "assets/1e6fb7670dc9f7e60e3b.js",
+      "mime": "text/javascript",
+      "sha256_original": "20a54d6da9557f3c64ce181d6527f8f9c8ef3743899f2cd1422b5e357b409189",
+      "bytes": 8711
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/ShipmentBreakdown.Da0Xa8EW.js",
+      "file": "assets/e7e95d95c690db716451.js",
+      "mime": "text/javascript",
+      "sha256_original": "24d6ae3959c42added8d0c3071012da3f254c169cda2647b3b9218ea42488074",
+      "bytes": 4504
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/MerchandiseModal.BtS8T15h.js",
+      "file": "assets/28290da40bb9874942d2.js",
+      "mime": "text/javascript",
+      "sha256_original": "8e459faf47df064b8430a6c41d3f380c3580a213e70667bf046ac462c1aaf8a5",
+      "bytes": 5548
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/ShippingMethodSelector.DcVyvGiN.js",
+      "file": "assets/b91f0b7420e301f18599.js",
+      "mime": "text/javascript",
+      "sha256_original": "05fa23e888ac9f9afe56caf44f596b6c070b86e4dc4c55c92ad17f6d8387b37f",
+      "bytes": 7287
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/TextArea.C1mMoZ65.js",
+      "file": "assets/2d49ac21e76201b3be68.js",
+      "mime": "text/javascript",
+      "sha256_original": "3aa189e50a9546c5a4cc4e782a04ff4e71957980d99fd1cc316660e33a44c6ef",
+      "bytes": 621
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/SubscriptionPriceBreakdown.ChspO5Cv.js",
+      "file": "assets/88ea43dd4eb16bf71360.js",
+      "mime": "text/javascript",
+      "sha256_original": "93f5a071285464969ee848e2407ff77268c591414445c6419113232e696991e7",
+      "bytes": 8429
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/StockProblems-StockProblemsLineItemList.BhXfh82f.js",
+      "file": "assets/1f56b3f29a136f364bf9.js",
+      "mime": "text/javascript",
+      "sha256_original": "3a2dbe14e3518f4d298a6da3d9fb868a5fe260e8e6f1ba908b572de95888f7d9",
+      "bytes": 3387
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/hooks-useShopPayNewSignupLoginExperiment.vaE9WYHy.js",
+      "file": "assets/3512a418c2a52f778c97.js",
+      "mime": "text/javascript",
+      "sha256_original": "4208415eb69604670364cb6087db5899d3a385dcbbb979da72b78dfaa26a99f3",
+      "bytes": 1653
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/page-BelowTheFoldContent.Djbc3WLD.js",
+      "file": "assets/3286d26c9d8f3489db47.js",
+      "mime": "text/javascript",
+      "sha256_original": "00bf4a6ccc9dadbe20c51407b444373505e39539c860263e9e4b9b4e9d10f5c0",
+      "bytes": 23670
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/Captcha.kpGPI4W4.js",
+      "file": "assets/9e2b839c1372a5c2c581.js",
+      "mime": "text/javascript",
+      "sha256_original": "d660c80266998e483328de8d630dbe779f53d877f4158dd9f84c3b9dde182a80",
+      "bytes": 4400
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/ShopPayCaptcha.DPBCCrUk.js",
+      "file": "assets/7f4812acce8f221a7d77.js",
+      "mime": "text/javascript",
+      "sha256_original": "21d1639825397cc859d6eb7bfaef48970ac359ded57b90a53cefd9e5e2a3e86e",
+      "bytes": 6296
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/RememberMeSection.Cvwu6d1U.js",
+      "file": "assets/f02c3a0086eb5bb7f32d.js",
+      "mime": "text/javascript",
+      "sha256_original": "7f6577e33c59012049211e1258893aa5eed978cea27e8937772a46c3a9aeb6cf",
+      "bytes": 14276
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/components-PaymentMethodProgressionHost.DtGKVVH3.js",
+      "file": "assets/931ca1defef8c23c24df.js",
+      "mime": "text/javascript",
+      "sha256_original": "43eb44bc052f155d036a28ef1a65c2d616d3191e112952e15d5adb3c20ceae46",
+      "bytes": 157399
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/component-MobileOrderSummary.DnA-T0m-.js",
+      "file": "assets/a26ffa464e2e6911539f.js",
+      "mime": "text/javascript",
+      "sha256_original": "d410390ed3bbd3bff147583e3b917f22e11b3139153fb1a6b36fb3e1ba7d6c3e",
+      "bytes": 13510
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/styles-floating-layer.module.BCoSmdvP.js",
+      "file": "assets/99a3d2c6deca19889b6e.js",
+      "mime": "text/javascript",
+      "sha256_original": "5e6b4fba066a96c845b82ae6df35e014c8026c9de523c925e578782f0abd743e",
+      "bytes": 977
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/PayButtonSection.C-faiTG_.js",
+      "file": "assets/a7ca16ea96c729213494.js",
+      "mime": "text/javascript",
+      "sha256_original": "bea603d6f77ad244be1866649bc5055ee7379199cd3b9acad40a880f6a891fb4",
+      "bytes": 73661
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/PaymentButtons.MV6WHZES.js",
+      "file": "assets/792a97927822fca9cdce.js",
+      "mime": "text/javascript",
+      "sha256_original": "fe44d0fcee3369ff90586c7a4dd78f9252e8126bd40bc781313129fc625cb22f",
+      "bytes": 10418
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/utils-useViolationsHandler.BE3Ij9oJ.js",
+      "file": "assets/90d2ea5e22f940a8b077.js",
+      "mime": "text/javascript",
+      "sha256_original": "99b6740a6e37e3481946bf3d5975ceb0fbad7cfc14df972b3fc5b317fd24c7c0",
+      "bytes": 2439
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/PaymentOptionSelector.D-08K5CC.js",
+      "file": "assets/31e16ed12a0b8ebca206.js",
+      "mime": "text/javascript",
+      "sha256_original": "be052ca9684e431f5a708ed621ef6eae05bd82d79797cb4f78fe85c3a9ec9634",
+      "bytes": 11817
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/BillingAddressSelector.DB4kH3hG.js",
+      "file": "assets/64f15b20d40dc8acffea.js",
+      "mime": "text/javascript",
+      "sha256_original": "df2334c3616c4fa13adc60bb492c7f2498802edae26f890220663cd95c09e49d",
+      "bytes": 3240
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/hooks-useStableHostMethodsReferences.DObnt9s8.js",
+      "file": "assets/b6ad29374a70dc309c08.js",
+      "mime": "text/javascript",
+      "sha256_original": "4045a817b0bed871000aa432dccb7bcbf25e6f56382d0b0dfafe1263617f6943",
+      "bytes": 1536
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/assets/app.Sxsz5knT.css",
+      "file": "assets/f078427740fca70c78ca.css",
+      "mime": "text/css",
+      "sha256_original": "c4e568110867d180590fc6d8f38ca3dceb3d04800bd077b9d07ee1e788d10892",
+      "bytes": 8226
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/assets/is-address-empty.DJksNKpk.css",
+      "file": "assets/89a593e560fa1c697ce8.css",
+      "mime": "text/css",
+      "sha256_original": "73dc51e57388198470feb5462cb87fd5a14567c4fb56190bf29025f508d5337e",
+      "bytes": 123573
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/assets/previous.owLoDmpy.css",
+      "file": "assets/27e31e089db7cfe67caa.css",
+      "mime": "text/css",
+      "sha256_original": "6633ca25908842eeb1bed4ba6713f10d04199f305058c4c7f65706199ea7d711",
+      "bytes": 106979
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/assets/OnePage.DxMZvmU_.css",
+      "file": "assets/bc445c72c5c3983527b1.css",
+      "mime": "text/css",
+      "sha256_original": "c5571a2ec8b6c9a488c77ed8b6784d6b13a7ea4a1e7ad3a9298e1bbcd0412634",
+      "bytes": 5516
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/assets/VatNumberValidationField.WmDmCQ5a.css",
+      "file": "assets/a86296ee0c578af6a12a.css",
+      "mime": "text/css",
+      "sha256_original": "2543689cf8dfb15bced2c5485960916655779fca95ee039b8dfca4e0758b0fd3",
+      "bytes": 16776
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/assets/StickyPayButton.CPXhWoNv.css",
+      "file": "assets/87f882b4ee8a158f21af.css",
+      "mime": "text/css",
+      "sha256_original": "1717797123d39a38538e42aca1831324cf9944501677941426429012c34185c6",
+      "bytes": 4741
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/assets/useAddressMutationsWithNegotiation.BcTJoNaV.css",
+      "file": "assets/bc80a88177a44537d900.css",
+      "mime": "text/css",
+      "sha256_original": "4fafb70b2b9da82303f4d765e9114dd800b2d9bc36d7cf22335e148a9066c09f",
+      "bytes": 578
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/assets/Section.CU18S7Ap.css",
+      "file": "assets/7da4381b35b35162fe7a.css",
+      "mime": "text/css",
+      "sha256_original": "05c82bcef9e0729b12ab6c28a77cc38fd7f02beb8f6ad3eb50a294ac635f7130",
+      "bytes": 133
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/assets/PaymentLine.D3bcP-mr.css",
+      "file": "assets/ca5978c46d4563ea4676.css",
+      "mime": "text/css",
+      "sha256_original": "2846b4ca905737f28eef62984137474a0f46efc8e29217c6a2fc63398c9d95cb",
+      "bytes": 9222
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/assets/PaymentIcon.gzvCNwz_.css",
+      "file": "assets/6ed9feb6c8e187942ed8.css",
+      "mime": "text/css",
+      "sha256_original": "3e66294f2da2502dad1ac4d42736b0b928bd0485ecafa24c8cd570067e24de97",
+      "bytes": 231
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/assets/useShopPayProgressIntercepts.CIy8uDiZ.css",
+      "file": "assets/a87f9b2a7e80862acfe4.css",
+      "mime": "text/css",
+      "sha256_original": "f34268a02f47b7bbcce92a68bb21cb94b74bc4d076fa745411d5fc9e19d3a376",
+      "bytes": 404
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/assets/Choice.aPApdPe_.css",
+      "file": "assets/3333f3cc33d2388d3031.css",
+      "mime": "text/css",
+      "sha256_original": "b15bada37e46408822f4a65acb8510a52f944eae1420c2bfb631d294913600eb",
+      "bytes": 14025
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/assets/IncentiveBadge.Dlnp55te.css",
+      "file": "assets/14352ce098bd2e11e24a.css",
+      "mime": "text/css",
+      "sha256_original": "863b63907b9c9654a84373c64f3bd7b0234f5d3cb4428b53c82ae964ef721c2b",
+      "bytes": 2001
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/assets/BillingAddressForm.BdwN7V1K.css",
+      "file": "assets/918ca51d21a7be30b2e4.css",
+      "mime": "text/css",
+      "sha256_original": "a49006fd418dac8a1b6b02387a937d070c3d268ae3c2016a6c33d5e94f709d2d",
+      "bytes": 659
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/assets/Switch.BS8yVgoP.css",
+      "file": "assets/a30db75a351f2fdb85e0.css",
+      "mime": "text/css",
+      "sha256_original": "3bf65e66a7c91a06d0a33f6f8e448765f1965ba2d9e86d6c6052674ba1b1c7dd",
+      "bytes": 2632
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/assets/useShopPayButtonClassName.CpHF4L7Q.css",
+      "file": "assets/deee547a1256ab722791.css",
+      "mime": "text/css",
+      "sha256_original": "c2d985bcf0f9992d28b2df9a703637d4c6e6861d1603acaae368bcbe132ccfb8",
+      "bytes": 913
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/assets/PhoneField.uZEuHncj.css",
+      "file": "assets/ddf721cb19e88d960911.css",
+      "mime": "text/css",
+      "sha256_original": "030cbbca26fd7ad9325fa6dc2e54f5006162f9a9e5e096104290f99a8601f576",
+      "bytes": 1627
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/assets/Middot.D7Ujmshx.css",
+      "file": "assets/0ae9d111760d83075cdc.css",
+      "mime": "text/css",
+      "sha256_original": "9477031ab7942de09d8b1a58d2dedcb4895d83d537eda05beafd3a94127a78d3",
+      "bytes": 89
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/assets/index.CFj15lwv.css",
+      "file": "assets/a5f8c03560c00a7cee35.css",
+      "mime": "text/css",
+      "sha256_original": "d7111de5b113778447608674bdd70916a909ab4de6fd30240aa839a0a891144c",
+      "bytes": 1479
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/assets/ShippingLines.LcqrKXE1.css",
+      "file": "assets/1c70acfc346967c4fa7d.css",
+      "mime": "text/css",
+      "sha256_original": "6226be667a498cb34735b3278954663684d4face7c6b3b9a5b51fc74118d87d5",
+      "bytes": 68
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/assets/EstimatedDeliveryContent.B_THySFF.css",
+      "file": "assets/1b7658335c6f2564caa0.css",
+      "mime": "text/css",
+      "sha256_original": "4ce38e91bac356b341a4c3242e42060293c851a87966691021219bb22b8366f3",
+      "bytes": 362
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/assets/RedirectionNotice.B8v_QGNW.css",
+      "file": "assets/c936417a303ffb5a1690.css",
+      "mime": "text/css",
+      "sha256_original": "de9279bc0a03f55e80b8bd6fba7795ac5d5984b14cf77758efc0433167b81f97",
+      "bytes": 25
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/assets/TransitionHeight.CuRoM9zv.css",
+      "file": "assets/34d0c91c6ca78a86f81e.css",
+      "mime": "text/css",
+      "sha256_original": "ad263eafb65064679d8785ec80195bbc050e2b9b2dd26e3312a0e53a2d09e0a6",
+      "bytes": 54
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/assets/BelowTheFoldContent.CmuzzmSI.css",
+      "file": "assets/d23fc8aa166c76f0e534.css",
+      "mime": "text/css",
+      "sha256_original": "4fe4c7937e2b84f6b9d5270a25b48a969d6493fbf20a024fac28567e6912283d",
+      "bytes": 500
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/assets/Captcha.CJQgLR0i.css",
+      "file": "assets/801e68555f5cd393de5d.css",
+      "mime": "text/css",
+      "sha256_original": "3270afc1243d9e4e5927bb18087e37aced838808722fc2d4a8500421bf482b81",
+      "bytes": 154
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/assets/RememberMeSection.JBO5WNhc.css",
+      "file": "assets/28bfb05803ab53673c9e.css",
+      "mime": "text/css",
+      "sha256_original": "9997493d963dd0b348de757cbb4bc441be28dcea30201398095deb634a3b07b5",
+      "bytes": 236
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/assets/MobileOrderSummary.2B5x30PG.css",
+      "file": "assets/60bb0c55db8934557cde.css",
+      "mime": "text/css",
+      "sha256_original": "5ffdb3f8cfcf74bd3da79f6be79bf66ef76622c3ecf1a9613c45297c711a106e",
+      "bytes": 2323
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/assets/PayButtonSection.Bi0nhBOp.css",
+      "file": "assets/d6283d4a6788e482bb12.css",
+      "mime": "text/css",
+      "sha256_original": "0939af5ec3739c48a959577c6e84b3e93ce484561f4d33495e37f0eaa50002fd",
+      "bytes": 4256
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/assets/PaymentOptionSelector.s-Kd_X2E.css",
+      "file": "assets/5dc5ab8c687c3233920e.css",
+      "mime": "text/css",
+      "sha256_original": "09ec1bc94d824f9653849a71b60c81ef9fd816be3c823891952d62245484acef",
+      "bytes": 2831
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/assets/PaymentMethodProgressionHost.CyN3XztW.css",
+      "file": "assets/e2e6e2a25d9d764e9d1d.css",
+      "mime": "text/css",
+      "sha256_original": "ebf7e1ade73660c04e864200c89752c7a3bfbe8fe7a05d463c4d60393d247b6a",
+      "bytes": 7130
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/assets/PaymentButtons.CKE1iCma.css",
+      "file": "assets/bb1248111f8f6e17a91f.css",
+      "mime": "text/css",
+      "sha256_original": "0256683c91455c43d256636219312ff47f16af2a3fbd89800ba132a851121786",
+      "bytes": 1386
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/assets/Checkbox.SrYMuQu4.css",
+      "file": "assets/1f6cbb38973789991af6.css",
+      "mime": "text/css",
+      "sha256_original": "89a6be58aaf2919ed0e78ad08b844e38e56268d0dc5b6a63f2777f31ee3ac686",
+      "bytes": 2035
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/assets/floating-layer.DfWUBaTh.css",
+      "file": "assets/a189ab92273739173dd1.css",
+      "mime": "text/css",
+      "sha256_original": "615c4cf48fbd8bc280e23fe769b37968bc2b6a5186cb07a5110c54476838b721",
+      "bytes": 558
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/assets/Popover.Bi1nHaU-.css",
+      "file": "assets/be6881338a1fa5f48851.css",
+      "mime": "text/css",
+      "sha256_original": "8215fa535f5717c7b0d8c08520282bc0bc6e1fff5079738f8341b7954ffd45e7",
+      "bytes": 1171
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/assets/ShippingMethodSelector.B0hio2RO.css",
+      "file": "assets/d0f950f7b229bb4bc6cf.css",
+      "mime": "text/css",
+      "sha256_original": "9e416637d6805204b00864f05487accbca42bc0522ca09618a6466e09ff70d10",
+      "bytes": 278
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/assets/SubscriptionPriceBreakdown.vTcdVGq4.css",
+      "file": "assets/66d9f593b35bee2b6fc4.css",
+      "mime": "text/css",
+      "sha256_original": "30c4c88844ddd0e6afdc542e205b5ed7a3d878d1341d86f207f37a456ae742a9",
+      "bytes": 70
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shopifycloud/checkout-web/assets/c1/assets/stopwatch.BxwwfmsJ.css",
+      "file": "assets/1d9104c4e7aa6debba24.css",
+      "mime": "text/css",
+      "sha256_original": "442b7b111bc907f7ad7aab8502ec4cd1cd097dfc7d28b5f5f1a3062ce7f3d495",
+      "bytes": 215
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0735/9787/8295/files/logo_surly_x320.jpg?v=1741022045",
+      "file": "assets/ddb49db6c03cf5c3dad4.jpg",
+      "mime": "image/jpeg",
+      "sha256_original": "639c99dacb3364b4e5aeeb02c2f0a26be1729a1589279ee6b1f8de4eab03e01f",
+      "bytes": 19281
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0735/9787/8295/files/surly-grunge-banner_2000x.png?v=1741099851",
+      "file": "assets/5f1b857f4a057f35f0ce.png",
+      "mime": "image/png",
+      "sha256_original": "e40a8704bd35d262d1f195876f33bccccff0ff32cd314eab892eeea33149bcbe",
+      "bytes": 332547
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/files/QBP-Logo.svg?v=1741036857&width=90",
+      "file": "assets/641b3f70ca836ee65fbf.svg",
+      "mime": "image/svg+xml",
+      "sha256_original": "907f046b2cab783036ac4f6805d4a9c8d382a1203e8258bde4090cb8934f0cce",
+      "bytes": 13919
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/files/B-Corp-Logo-Tagline-Lockup-Standards-White-RGB.png?v=1741036898&width=190",
+      "file": "assets/81925eb9a035a6d6dabb.png",
+      "mime": "image/avif",
+      "sha256_original": "a38f59041e033d1750c815f6dabc413c094f57520666c4923f1a3da0274d996f",
+      "bytes": 5608
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/files/Reviewed_by_Allyant_for_Accessibility_Badge_Black.svg?v=1741036945&width=95",
+      "file": "assets/234935d1336e9bd4f96f.svg",
+      "mime": "image/svg+xml",
+      "sha256_original": "7d42738f89ab05702bc5c9a7cfbe28d7a4359347f7e8d9a0e4d2b0000d376ee5",
+      "bytes": 9221
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/files/surly-pugsley-ops-maroon-930x390.jpg?v=1748608611",
+      "file": "assets/6d74b621bc5b3b18cf9f.jpg",
+      "mime": "image/webp",
+      "sha256_original": "348cc1b7726f2f97280b3e3ab6353375e1dc330a06d7136cedd9d5b6ddba72dd",
+      "bytes": 47386
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/files/surly-pugsley-yellow-930x390.jpg?v=1748608611",
+      "file": "assets/67692c9877742638313f.jpg",
+      "mime": "image/webp",
+      "sha256_original": "3a1a3d7f259f72ccdcd93155092a4719aac07dccdd58fe972b974b29ce7e2b7a",
+      "bytes": 44618
+    },
+    {
+      "url": "https://surlybikes.com/recommendations/products?limit=4&product_id=7666631114775&section_id=template--24493748944919__related-products",
+      "file": "assets/93dfe1276e37b0787fcf.html",
+      "mime": "text/html; charset=utf-8",
+      "sha256_original": "65ef9c034a32dbd77f733521db4567bb2668de556bf477e1b82d7810ec3699de",
+      "bytes": 1295
+    },
+    {
+      "url": "https://surlybikes.com/recommendations/products?limit=4&intent=complementary&product_id=7666631114775&section_id=template--24493748944919__complimentary_products_9xjLkK",
+      "file": "assets/733a7f4758e65fafc9c7.html",
+      "mime": "text/html; charset=utf-8",
+      "sha256_original": "f337b7c43b92ec872a801b513c3987039f827658078dce7bac66943f45e282ab",
+      "bytes": 1576
+    },
+    {
+      "url": "https://surlybikes.com/products/pugsley",
+      "file": "assets/a109608bb317bfde1e8f.html",
+      "mime": "text/html; charset=utf-8",
+      "sha256_original": "6bf05333b86ad76f2522f0373f128efca3cd54a93b2b87bcc83a492624e68f02",
+      "bytes": 204345
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/files/Pugsley_BK1417.jpg?v=1748875728&width=823",
+      "file": "assets/5e0c7984b2eae9d01612.jpg",
+      "mime": "image/webp",
+      "sha256_original": "d9440f97584bd4c6c971ae06677214ec4b3a83e397df9694c6523ce67c4fb06d",
+      "bytes": 56212
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/files/Pugsley_BK1417.jpg?v=1748875728&width=1100",
+      "file": "assets/458ac8d839b0402c3520.jpg",
+      "mime": "image/webp",
+      "sha256_original": "160e9a9cb4604c2bb3ffd6a5695614031225f141a63453ff9d3936c62d864669",
+      "bytes": 84870
+    },
+    {
+      "url": "https://surlybikes.com/web-pixels@c8540278we853e1abpb62b2c4amde256306/custom/web-pixel-shopify-custom-pixel@0530/sandbox/modern/products/pugsley",
+      "file": "assets/17e617ebc4d155635221.html",
+      "mime": "text/html; charset=utf-8",
+      "sha256_original": "7ea524a2a92b95a4b6c4e425ad3febe2a59c02e311ab5fb2ed63f0e1d7932723",
+      "bytes": 75602
+    },
+    {
+      "url": "https://surlybikes.com/recommendations/products?limit=4&product_id=7674270089239&section_id=template--24493748944919__related-products",
+      "file": "assets/71ed153516f919a6f853.html",
+      "mime": "text/html; charset=utf-8",
+      "sha256_original": "bd818936772d3a52d3f3e22f34b4541c82c7d4ee780c3cf590fdbaa1222f5998",
+      "bytes": 1295
+    },
+    {
+      "url": "https://surlybikes.com/recommendations/products?limit=4&intent=complementary&product_id=7674270089239&section_id=template--24493748944919__complimentary_products_9xjLkK",
+      "file": "assets/c99d17371f57d477d506.html",
+      "mime": "text/html; charset=utf-8",
+      "sha256_original": "b160eddc3e08af6d2a1bcb56bae7f31dc0f7a8bc559b7eac3e2d5989c1b7208e",
+      "bytes": 1576
+    },
+    {
+      "url": "https://cdn.shopify.com/shop-assets/static_uploads/shop-cash/checkout/coinDefault2x.png",
+      "file": "assets/c205fa337d076a6c8994.png",
+      "mime": "image/png",
+      "sha256_original": "b54dc4227780c651710fa0fbc9dd717fe7dc4d7a9196e976df73a48618dc222c",
+      "bytes": 3985
+    },
+    {
+      "url": "https://cdn.shopify.com/shop-assets/static_uploads/shop-cash/checkout/coinTinted2x.png",
+      "file": "assets/3c8d8c6407c40871d2d3.png",
+      "mime": "image/png",
+      "sha256_original": "42d2beb52799403ea499b0df2fbe05cd95114e89de972ddfb66c8b6c8df9a584",
+      "bytes": 3579
+    },
+    {
+      "url": "https://cdn.shopify.com/shop-assets/static_uploads/shoplift/GTStandard-MMedium.woff2",
+      "file": "assets/4c3bce5af8b91a1a9a37.woff2",
+      "mime": "font/woff2",
+      "sha256_original": "6ea0b2680eb8aadcf270facd673567280915ee6bb0b0d1ae78ca146787902011",
+      "bytes": 64484
+    },
+    {
+      "url": "https://surlybikes.com/cdn/shop/t/29/assets/sparkle.gif",
+      "file": "assets/777757e178856cb1c81b.gif",
+      "mime": "image/gif",
+      "sha256_original": "69b825b459518a36592a21b0f492b11dd77095c564fb6aa92c0cecd281c72a85",
+      "bytes": 320702
+    },
+    {
+      "url": "https://use.typekit.net/af/19461e/000000000000000077359b7d/31/a?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n9&v=3",
+      "file": "assets/12cdc0c43ab5bbcb72f5.bin",
+      "mime": "font/opentype",
+      "sha256_original": "4cde027bae072810ecd9e160f8ed1e60e77099f60ae59c4de926db75ec83b0a4",
+      "bytes": 27964
+    },
+    {
+      "url": "https://use.typekit.net/af/19461e/000000000000000077359b7d/31/d?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n9&v=3",
+      "file": "assets/39ddc76886b2bee11942.bin",
+      "mime": "application/font-woff",
+      "sha256_original": "31c94be7043a162a9bf98308fc7ab5180afa5bd0240f2a60551e37bb50433f29",
+      "bytes": 18052
+    },
+    {
+      "url": "https://use.typekit.net/af/870551/000000000000000077359b94/31/a?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n6&v=3",
+      "file": "assets/a8210e2009c87f76b94a.bin",
+      "mime": "font/opentype",
+      "sha256_original": "1ce54c8e9e2327cc3aaaf2a4c6735b8a4e898907db1475f9807c6cbf19e17ece",
+      "bytes": 28372
+    },
+    {
+      "url": "https://use.typekit.net/af/870551/000000000000000077359b94/31/d?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n6&v=3",
+      "file": "assets/ec36eecb33a28e62a33b.bin",
+      "mime": "application/font-woff",
+      "sha256_original": "3c6752ab47db47f0991b557ffa95068e5b0f885028d6594742646d92ac668de2",
+      "bytes": 18392
+    },
+    {
+      "url": "https://use.typekit.net/af/e6584e/000000000000000077359b87/31/a?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n4&v=3",
+      "file": "assets/49b0e597b621556c3653.bin",
+      "mime": "font/opentype",
+      "sha256_original": "29a25f13499fde839bfa0c0bb987ae00a23b41de7248b2bc1a6c7576765ba1b5",
+      "bytes": 26936
+    },
+    {
+      "url": "https://use.typekit.net/af/e6584e/000000000000000077359b87/31/d?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n4&v=3",
+      "file": "assets/2219b5d26312fb72f2da.bin",
+      "mime": "application/font-woff",
+      "sha256_original": "5491e999339b2465d56064b390ad85bb1f780e471feddd961a1f70bba8c4f298",
+      "bytes": 16856
+    }
+  ],
+  "failed_responses": [
+    {
+      "url": "https://static.klaviyo.com/onsite/js/TqfPc6/klaviyo.js?company_id=TqfPc6",
+      "status": -1
+    },
+    {
+      "url": "https://shop.app/pay/hop?analytics_trace_id=2b00a264-7750-4f95-b0b7-9118d6733109&target_origin=https%3A%2F%2Fsurlybikes.com&client_handle=surly-qbp.myshopify.com",
+      "status": 403
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-XQWN059EGP",
+      "status": -1
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js?id=AW-17985201719",
+      "status": -1
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js?id=GT-PZVK6RKT",
+      "status": -1
+    },
+    {
+      "url": "https://static.klaviyo.com/onsite/js/TqfPc6/klaviyo.js?company_id=TqfPc6",
+      "status": -1
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-XQWN059EGP",
+      "status": -1
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js?id=AW-17985201719",
+      "status": -1
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js?id=GT-PZVK6RKT",
+      "status": -1
+    }
+  ],
+  "missing_css_dependencies": []
+}
