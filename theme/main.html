@@ -7,6 +7,9 @@
       {% include "partials/nav.html" %}
     </nav>
     <main class="content">
+      {% if page.file.src_uri == 'archive/interview_with_dave_gray_from_surly_bikes/article.md' %}
+      {% include "partials/interview-source.html" %}
+      {% endif %}
       {{ page.content | safe }}
     </main>
   </div>

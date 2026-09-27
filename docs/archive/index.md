@@ -28,6 +28,10 @@ Find the documents behind the Pugsley's design, dimensions, and components. Star
 
 [Open the 2010 frame-page capture](pugsley-frame-2010/offline.html) to explore an earlier presentation of the Pugsley, or [view the April 21, 2010 snapshot in the Internet Archive](https://web.archive.org/web/20100421123801/http://surlybikes.com/frames/pugsley_frame).
 
+The 2010 page was published by Surly and captured by the Internet Archive on April 21, 2010. Its original publication date is not established. The local copy is incomplete: some original assets and links are unresolved. Use the Internet Archive replay for comparison.
+
+[Download all collected 2010 files](pugsley-frame-2010/collected-files.zip), including [source HTML](pugsley-frame-2010/source.html), the [capture and asset record](pugsley-frame-2010/manifest.json), and the [capture index](pugsley-frame-2010/capture-index.json). The index records capture history; it does not mean every capture was downloaded.
+
 ## About the preserved copies
 
 The collection pages describe where their copies came from and how they were preserved. Catalogs and crank instructions are available as full PDFs; the preserved product-page collection includes local stylesheets, images, and a downloadable bundle.

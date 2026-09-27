@@ -1,6 +1,8 @@
 # Preserved Surly Pugsley pages
 
-Manufacturer reference pages saved September 26, 2026 UTC (September 25 in New York), with local stylesheets, fonts, images and captured scripts.
+**Publisher:** Surly Bikes. **References:** 2016 legacy and Gen. 2 product pages. **Captured:** September 26, 2026 UTC (September 25 in New York). Original publication/revision dates are not established by these captures.
+
+Read the styled local copies below, or download the complete preservation bundle.
 
 | Reference | Preserved page | Original |
 | --- | --- | --- |

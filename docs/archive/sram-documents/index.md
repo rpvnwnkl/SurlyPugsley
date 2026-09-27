@@ -1,10 +1,14 @@
 # SRAM DUB crank references
 
+**Publisher:** SRAM. **Retrieved:** September 13, 2026. **Edition:** captured English digital manual and compatibility PDF; publication/revision dates have not yet been verified.
+
+[Read the preserved illustrated manual](dub-offline/manual.html) or use the original links below.
+
 ## Installation manual
 
 [Read SRAM’s DUB Cranksets and Bottom Brackets manual](https://docs.sram.com/en-US/publications/7unL17qdyCWxTL38aPmYJ0/UM%20-%20DUB%20Cranksets%20and%20Bottom%20Brackets).
 
-This is the current digital manual linked by SRAM’s [DUB BSA service page](https://www.sram.com/en/service/models/bb-dub-bsa-a1). It includes installation procedures and a spacer chart with a BSA 100 mm / Fat entry. Match the instructions to the particular crank and bottom bracket; this is not a Pugsley-specific fit approval or a separate FAT4-only manual.
+At retrieval on September 13, 2026, this was the digital manual linked by SRAM’s [DUB BSA service page](https://www.sram.com/en/service/models/bb-dub-bsa-a1). It includes installation procedures and a spacer chart with a BSA 100 mm / Fat entry. Match the instructions to the particular crank and bottom bracket; this is not a Pugsley-specific fit approval or a separate FAT4-only manual.
 
 ## Compatibility chart
 
