@@ -4,6 +4,17 @@ Two manufacturer references for comparing Pugsley frame sizes: Surly’s 2016 le
 
 Measurements below are transcribed from Surly’s tables without recalculation. Linear measurements are in millimetres; angles are in degrees. Original size labels are retained.
 
+## How to read these tables
+
+Start by choosing the reference version: **2016 legacy** or **Gen. 2**. For an earlier bike, consult the [dated catalogs](../archive/surly-documents/index.md#catalogs-by-year); neither table below identifies every Pugsley year.
+
+- **Reach:** the horizontal distance from the bottom-bracket center to the center of the top of the head tube. It describes the frame's forward length independently of the stem.
+- **Stack:** the vertical distance between those same points. Together, reach and stack locate the front of the frame relative to the cranks.
+- **Effective top tube:** the horizontal distance from the top of the head tube to the seat-tube centerline. This differs from the actual length of a sloping top tube.
+- **Standover:** the top tube's height above the ground at the stated measurement point. Tire diameter and measurement method matter; read the source's footnotes before comparing figures.
+
+These are frame comparisons, not a rider-size prescription. Stem length, handlebar width, and crank length describe fitted components; the Gen. 2 component rows are separated below without changing Surly's labels or values. For more on the distinction between reach and effective top tube, see [Transition's geometry explanation](https://www.transitionbikes.com/PDF/GETDIALED_FrameGeo_Part1_ETTvsReach.pdf).
+
 ![Surly frame geometry diagram](../archive/pugsley-geometry/geometry-diagram.png)
 
 ## Pugsley — 2016 legacy reference
@@ -47,12 +58,19 @@ Surly’s qualification: “All dimensions are preliminary and subject to change
 | Top Tube Length, Effective | 560 | 580 | 600 | 620 | 640 |
 | Seat Tube Angle | 73.0° | 72.0° | 72.0° | 72.0° | 72.0° |
 | Standover Height | 733.5 | 762 | 793.5 | 825.5 | 857 |
+| Fork Length | 447 | 447 | 447 | 447 | 447 |
+| Fork Rake | 43 | 43 | 43 | 43 | 43 |
+
+### Gen. 2 listed component dimensions
+
+These are the components listed with this reference, not fixed frame dimensions or confirmation of what is installed on an individual bike.
+
+|  | XS | SM | MD | LG | XL |
+| --- | --- | --- | --- | --- | --- |
 | Stem Length | 70 | 70 | 80 | 90 | 100 |
 | Stem Angle | 7° | 7° | 7° | 7° | 7° |
 | Handlebar Width | 685 | 685 | 735 | 735 | 735 |
 | Crank Length | 170 | 170 | 175 | 175 | 175 |
-| Fork Length | 447 | 447 | 447 | 447 | 447 |
-| Fork Rake | 43 | 43 | 43 | 43 | 43 |
 
 ## Earlier bikes and dated catalogs
 
