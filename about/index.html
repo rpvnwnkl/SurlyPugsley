@@ -4,28 +4,30 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Pugsley Wiki</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>About | Pugsley Wiki</title>
   <link rel="stylesheet" href="../assets/main.css">
   <script src="../assets/main.js" defer></script>
 </head>
 <body>
+  <a class="skip-link" href="#main-content">Skip to content</a>
   <header>
-  <button id="menu-toggle" aria-label="Toggle navigation" aria-expanded="false">
+  <button id="menu-toggle" aria-label="Toggle navigation" aria-expanded="false" aria-controls="sidebar" hidden>
     &#9776;
   </button>
-  <div class="logo">
+  <a class="logo" href=".." aria-label="Pugsley Wiki home">
     <svg role="img" aria-hidden="true" width="180" height="40" xmlns="http://www.w3.org/2000/svg">
       <rect width="180" height="40" fill="#000" />
       <text x="10" y="25" fill="#fff" font-size="18" font-family="sans-serif">PUGSLEY WIKI</text>
     </svg>
     <span class="sr-only">Pugsley Wiki</span>
-  </div>
+  </a>
 </header>
 
   
   
   <div class="layout">
-    <nav id="sidebar" class="collapsed">
+    <nav id="sidebar" aria-label="Main navigation">
       
 
 
@@ -38,9 +40,9 @@
     <a href="../archive/sram-documents/">SRAM DUB references</a></li><li>
     <a href="../archive/pugsley-geometry/">Preserved Pugsley pages</a></li><li>
     <a href="../archive/interview_with_dave_gray_from_surly_bikes/article/">Dave Gray interview</a></li></ul></li><li>
-    <a href="./">About</a></li></ul>
+    <a href="./" aria-current="page">About</a></li></ul>
     </nav>
-    <main class="content">
+    <main id="main-content" tabindex="-1" class="content">
       
       <h1 id="about-this-site">About this site<a class="headerlink" href="#about-this-site" title="Permanent link">&para;</a></h1>
 <p>Pugsley Wiki brings together the Surly Pugsley's design history, published frame geometry, and original reference documents. It is a place to explore how the bike was designed and find the sources for a closer look.</p>
