@@ -1,131 +1,50 @@
-/* ------------------------------------------------------------------
-   Base & Reset
-   ------------------------------------------------------------------ */
-body {
-  margin: 0;
-  font-family: sans-serif;
-}
-
-header {
-  display: flex;
-  align-items: center;
-  background: #111;
-  color: #fff;
-  padding: 0.5rem 1rem;
-}
-
-.logo {
-  margin-left: 1rem;
-}
-
-/* ------------------------------------------------------------------
-   Hamburger Toggle
-   ------------------------------------------------------------------ */
-#menu-toggle {
-  background: none;
-  border: none;
-  font-size: 2rem;
-  color: #fff;
-  cursor: pointer;
-}
-
-/* ------------------------------------------------------------------
-   Layout Wrapper
-   ------------------------------------------------------------------ */
-.layout {
-  display: flex;
-  flex-wrap: nowrap;
-  min-height: calc(100vh - 3rem); /* adjust if header height changes */
-}
-
-/* ------------------------------------------------------------------
-   Sidebar
-   ------------------------------------------------------------------ */
-#sidebar {
-  background: #f7f7f7;
-  border-right: 1px solid #ddd;
-  overflow-y: auto;
-  width: 240px;      /* desktop width */
-  padding: 1rem;
-  transition: none;
-}
-
-/* Hide on mobile unless toggled open */
-#sidebar.collapsed {
-  display: none;
-}
-
-/* ------------------------------------------------------------------
-   Main Content
-   ------------------------------------------------------------------ */
-main.content {
-  flex: 1;
-  padding: 1rem;
-}
-
-/* ------------------------------------------------------------------
-   Accessibility
-   ------------------------------------------------------------------ */
-.sr-only {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  padding: 0;
-  border: 0;
-  overflow: hidden;
-  clip: rect(0, 0, 0, 0);
-  white-space: nowrap;
-}
-
-/* ------------------------------------------------------------------
-   Responsive Breakpoints
-   ------------------------------------------------------------------ */
-/* Mobile (up to 767px) */
+/* Reading interface only; archived standalone pages keep their own styles. */
+* { box-sizing: border-box; }
+body { margin: 0; font-family: sans-serif; color: #222; line-height: 1.65; }
+a { color: #174d87; text-underline-offset: .16em; }
+a:hover { text-decoration-thickness: 2px; }
+:focus-visible { outline: 3px solid #b05000; outline-offset: 3px; }
+header { display: flex; align-items: center; background: #111; color: #fff; padding: .5rem 1rem; }
+.logo { display: inline-flex; align-items: center; margin-left: .5rem; }
+header :focus-visible { outline-color: #ffd166; }
+#menu-toggle { background: none; border: 1px solid #777; border-radius: 3px; font-size: 1.5rem; color: #fff; cursor: pointer; min-width: 44px; min-height: 44px; }
+[hidden] { display: none !important; }
+.layout { display: flex; min-height: calc(100vh - 4rem); max-width: 92rem; margin-inline: auto; }
+#sidebar { flex: 0 0 15rem; background: #f7f7f7; border-right: 1px solid #ddd; padding: 1rem; }
+#sidebar ul { list-style: none; margin: 0; padding: 0; }
+#sidebar ul ul { padding-left: .75rem; }
+#sidebar a, .nav-section { display: block; padding: .5rem; line-height: 1.4; }
+#sidebar a[aria-current="page"] { font-weight: bold; background: #e6e6e6; border-left: 3px solid #333; text-decoration: underline; }
+main.content { flex: 1; min-width: 0; padding: 1.5rem 2rem 3rem; overflow-wrap: break-word; }
+.content > p, .content > ul, .content > ol, .content > blockquote, .content > aside, .content > h1, .content > h2, .content > h3 { max-width: 70ch; }
+h1, h2, h3 { line-height: 1.25; }
+h1 { font-size: 2rem; margin-top: 0; }
+h2 { margin-top: 2rem; }
+li + li { margin-top: .4rem; }
+blockquote { margin-inline: 0; padding-left: 1.25rem; border-left: 3px solid #ddd; }
+.content img { max-width: 100%; height: auto; display: block; margin: 1.5rem auto; }
+.content > aside { padding: 1rem; border: 1px solid #ddd; margin-bottom: 1.5rem; background: #fafafa; }
+/* These embedded PNGs are transparent placeholders paired with real interview photos. */
+.archived-interview img[src^="data:image/png;base64,"] { display: none; }
+/* Block-table fallback still scrolls when JavaScript is unavailable. */
+.content table { display: block; max-width: 100%; overflow-x: auto; border-collapse: collapse; font-size: .95rem; line-height: 1.5; margin: 1.5rem 0; }
+.content th, .content td { text-align: left; vertical-align: top; padding: .65rem .8rem; border-bottom: 1px solid #ccc; min-width: 6rem; }
+.content th { background: #eee; }
+.content tbody tr:nth-child(even) { background: #f7f7f7; }
+.table-scroll { overflow-x: auto; max-width: 100%; margin: 1.5rem 0; }
+.table-scroll table { display: table; min-width: 100%; margin: 0; }
+.table-scroll th, .table-scroll td { min-width: 7rem; }
+.table-scroll th:first-child, .table-scroll td:first-child { min-width: 10rem; }
+.table-help { font-size: .9rem; color: #444; }
+.headerlink { padding-left: .2em; font-size: .7em; }
+footer { padding: 1rem; border-top: 1px solid #ddd; }
+.sr-only, .skip-link:not(:focus) { position: absolute; width: 1px; height: 1px; padding: 0; border: 0; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+.skip-link:focus { display: block; padding: .75rem; background: #fff; color: #111; }
 @media (max-width: 767px) {
-  .layout {
-    display: block;
-  }
-  #menu-toggle {
-    display: block;
-  }
-  #sidebar {
-    width: 100%;
-    border-right: none;
-  }
+  .layout { display: block; }
+  #sidebar { border-right: 0; border-bottom: 1px solid #ddd; }
+  #sidebar.collapsed { display: none; }
+  main.content { padding: 1.25rem 1rem 2rem; }
+  h1 { font-size: 1.75rem; }
 }
-
-/* Desktop (768px and up) */
-@media (min-width: 768px) {
-  #menu-toggle {
-    display: none;
-  }
-  /* Force sidebar visible on desktop */
-  #sidebar {
-    display: block !important;
-    position: static;
-  }
-}
-
-/* Make images in markdown responsive */
-.markdown-body img, .md-content img, main.content img, .content img, img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 1.5rem auto;
-  box-sizing: border-box;
-}
-
-/* Ensure images never overflow their container and allow shrinking */
-img {
-  width: 100%;
-  max-width: 700px; /* Optional: set a max width for large screens */
-  height: auto;
-}
-
-/* Optional: Make images shrink on smaller screens */
-@media (max-width: 700px) {
-  img {
-    max-width: 100%;
-    width: 100%;
-  }
-}
+@media (min-width: 768px) { #menu-toggle { display: none; } }
