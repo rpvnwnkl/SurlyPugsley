@@ -1,12 +1,12 @@
 <header>
-  <button id="menu-toggle" aria-label="Toggle navigation" aria-expanded="false">
+  <button id="menu-toggle" aria-label="Toggle navigation" aria-expanded="false" aria-controls="sidebar" hidden>
     &#9776;
   </button>
-  <div class="logo">
+  <a class="logo" href="{{ nav.homepage.url | url }}" aria-label="Pugsley Wiki home">
     <svg role="img" aria-hidden="true" width="180" height="40" xmlns="http://www.w3.org/2000/svg">
       <rect width="180" height="40" fill="#000" />
       <text x="10" y="25" fill="#fff" font-size="18" font-family="sans-serif">PUGSLEY WIKI</text>
     </svg>
     <span class="sr-only">Pugsley Wiki</span>
-  </div>
+  </a>
 </header>

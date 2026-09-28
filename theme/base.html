@@ -3,11 +3,13 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>{{ config.site_name }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}{% if page and page.title %}{{ page.title }} | {% endif %}{{ config.site_name }}{% endblock %}</title>
   <link rel="stylesheet" href="{{ base_url }}/assets/main.css">
   <script src="{{ base_url }}/assets/main.js" defer></script>
 </head>
 <body>
+  <a class="skip-link" href="#main-content">Skip to content</a>
   {% include "partials/header.html" %}
 
   {# child templates will inject here #}

@@ -13,12 +13,12 @@
       {%- endfor -%}
 
       {%- if ns.link -%}
-        <a href="{{ ns.link | url }}">{{ item.title }}</a>
+        <a href="{{ ns.link | url }}"{% if page and page.url == ns.link %} aria-current="page"{% endif %}>{{ item.title }}</a>
       {%- else -%}
         <span class="nav-section">{{ item.title }}</span>
       {%- endif -%}
     {%- else -%}
-      <a href="{{ item.url | url }}">{{ item.title }}</a>
+      <a href="{{ item.url | url }}"{% if item.active %} aria-current="page"{% endif %}>{{ item.title }}</a>
     {%- endif -%}
 
     {%- if item.children -%}
