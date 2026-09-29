@@ -1,0 +1,40 @@
+{
+  "label": "Original frame page, capture 20110226135321",
+  "requested_url": "https://web.archive.org/web/20110226135321id_/http://surlybikes.com:80/frames/pugsley_frame/",
+  "resolved_url": "https://web.archive.org/web/20110226135321id_/http://surlybikes.com:80/frames/pugsley_frame/",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 24185,
+  "sha256": "db3d91fb0c91aa5d0786a9ab1fdb7bfa78edac26757fde98a7240e89118fb19f",
+  "body": "pages/1815b0383f72db59e9e0.body",
+  "headers": "pages/1815b0383f72db59e9e0.headers",
+  "error": "",
+  "retrieved_utc": "2026-09-29T01:37:38.522459+00:00",
+  "title": "Frames | Pugsley Frame",
+  "status": "reading-copy-with-image-gaps",
+  "embedded_images": [
+    {
+      "label": "Frames | Pugsley Frame image",
+      "requested_url": "https://web.archive.org/web/20110226135321id_/http://surlybikes.com:80/uploads/frames/FM3181.jpg",
+      "resolved_url": "https://web.archive.org/web/20101224141238id_/http://surlybikes.com/uploads/frames/FM3181.jpg",
+      "http_status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 21282,
+      "sha256": "923ae539046c2daa3f4a422465b6ea2ab4e8918ad4d1104cce1b4c8943263aa8",
+      "body": "reading-assets/4a2d69b2a76db381589e.body",
+      "headers": "reading-assets/4a2d69b2a76db381589e.headers",
+      "error": "",
+      "retrieved_utc": "2026-09-29T01:50:56.328738+00:00"
+    }
+  ],
+  "unresolved_images": [
+    "https://web.archive.org/web/20110226135321id_/http://surlybikes.com:80/images/sized/uploads/frames/FM3181-01-125x125.jpg",
+    "https://web.archive.org/web/20110226135321id_/http://surlybikes.com:80/images/sized/uploads/frames/FM3181-02-125x125.jpg",
+    "https://web.archive.org/web/20110226135321id_/http://surlybikes.com:80/images/sized/uploads/frames/FM3181-03-125x125.jpg",
+    "https://web.archive.org/web/20110226135321id_/http://surlybikes.com:80/images/sized/uploads/frames/FM3181-04-125x125.jpg",
+    "https://web.archive.org/web/20110226135321id_/http://surlybikes.com:80/images/template_images/geo_top.jpg",
+    "https://web.archive.org/web/20110226135321id_/http://surlybikes.com:80/uploads/bikes/pugsley2011_geo.gif",
+    "https://web.archive.org/web/20110226135321id_/http://surlybikes.com:80/images/template_images/geo_bottom.jpg"
+  ],
+  "reading_path": "reference-2/reading.html"
+}

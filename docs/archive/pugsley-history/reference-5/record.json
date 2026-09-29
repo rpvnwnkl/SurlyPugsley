@@ -1,0 +1,32 @@
+{
+  "label": "Surly hub, fork and disc compatibility",
+  "requested_url": "https://surlybikes.com/pages/hub-fork-and-disc-brake-compatibility",
+  "resolved_url": "https://surlybikes.com/pages/hub-fork-and-disc-brake-compatibility",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 168223,
+  "sha256": "b4d8b17bf7997a3ecbd2657e1ab7c432c2c905050515d63e3738af19defe4c50",
+  "body": "pages/db200ea6df3fad4b84dd.body",
+  "headers": "pages/db200ea6df3fad4b84dd.headers",
+  "error": "",
+  "retrieved_utc": "2026-09-29T01:37:39.516000+00:00",
+  "title": "Hub, Fork, and Disc Brake Compatibility\n \u2013 Surly Bikes",
+  "status": "reading-copy",
+  "embedded_images": [
+    {
+      "label": "Hub, Fork, and Disc Brake Compatibility\n \u2013 Surly Bikes image",
+      "requested_url": "https://surlybikes.com/cdn/shop/files/Info_Hole_1500x1000_806fca68-d19f-4f85-b890-98e188f13a12.jpg?v=1741044630&width=3840",
+      "resolved_url": "https://surlybikes.com/cdn/shop/files/Info_Hole_1500x1000_806fca68-d19f-4f85-b890-98e188f13a12.jpg?v=1741044630&width=3840",
+      "http_status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 182027,
+      "sha256": "4466d020a308fccce2dec74f8d77167a847b95d3411691ee37cc6e752ffcb0f4",
+      "body": "reading-assets/3d4b481ec1ef58905ee7.body",
+      "headers": "reading-assets/3d4b481ec1ef58905ee7.headers",
+      "error": "",
+      "retrieved_utc": "2026-09-29T01:54:37.838021+00:00"
+    }
+  ],
+  "unresolved_images": [],
+  "reading_path": "reference-5/reading.html"
+}
