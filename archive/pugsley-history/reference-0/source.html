@@ -1,0 +1,1092 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Frames | Pugsley Frame</title>
+	<script src="/js/jquery-1.3.2.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="/js/jquery.colorbox-min.js" type="text/javascript" ></script>
+<script src="/js/sifr.js" type="text/javascript" charset="utf-8"></script> 
+<script src="/js/sifr-config.js" type="text/javascript" charset="utf-8"></script>
+<script src="/js/funcs.js" type="text/javascript" charset="utf-8"></script>
+		<link rel="stylesheet" href="/css/base.css" type="text/css" media="screen" title="Base" charset="utf-8" />
+	<!--[if lte IE 6]>  
+		<script type="text/javascript" src="/js/iepngfix_tilebg.js"></script>
+		<link rel="stylesheet" href="/css/ie6.css" type="text/css" />
+	<![endif]-->
+	
+    
+    <style type="text/css">
+<!--
+
+#frames{ font-family: verdana, sans-serif; line-height: 18px;}
+	
+body#frames{ background: transparent url('/images/template_images/backgrounds/frames-background.gif') 0 0 repeat fixed;}
+
+#frames a{ color: #360;}
+	
+#frames a:hover{ text-decoration: none;}
+	
+#frames #size-chart{ margin-top: 25px;}
+		
+#frames a#size-chart-mm,
+#frames a#size-chart-inches{font-weight: bold; line-height: 20px;}
+
+#frames #container{
+		background: transparent url('/images/template_images/frames_main_bg.jpg') 0 0 repeat-y;
+		border: 1px solid #333;
+		border-width: 0 1px;
+	}
+	
+#frames #page-header{
+		width: 1024px;
+		height:100px;
+		position: relative;
+		background: transparent url('/images/template_images/frames_header.jpg') 0 0 no-repeat;
+	}
+	
+#frames #search-container{
+        background: transparent url('/images/template_images/frames_search_bg.png') 0 0 no-repeat;
+		position:absolute;
+		top: 0px;
+		right: 30px;
+		height: 91px;
+		width: 598px;
+	}
+	
+#frames #search-field{
+		float:left;
+		position:relative;
+		height: 47px;
+		width: 257px;
+		left: 125px;
+		top: 20px;
+		background: transparent url('/images/template_images/frames_search_field.png') 0 0 no-repeat;
+	}
+	
+#frames #search-field input{
+		position: absolute;
+		top: 18px;
+		left:7px;
+		width: 225px;
+		border: 0;
+		color: #999;
+	}
+	
+#frames #search-field-btn{
+		position: absolute;
+		top: 35px;
+		left: 390px;
+		border: 0;
+		color: #999;
+	}
+	
+#frames #primary-nav{
+		padding-top: 10px;
+		background: transparent url('/images/template_images/frames_nav_bg.jpg') 0 0 no-repeat;
+		min-height: 598px;
+		height: auto !important;
+		height: 598px;
+		width: 147px;
+	}
+	
+#frames #primary-nav a{
+        position:absolute;
+		display: block;
+		width: 100px;
+		height: 28px; 
+		margin-bottom: 20px;
+		margin-left:30px;
+		background-image: url('/images/template_images/frames_btns_states.png');
+	}
+
+#frames #primary-nav a span{ display: none;}
+	
+	#frames #primary-nav a#bikes{ background-position: 0px 3px; top:135px; left:-10px;}
+	#frames #primary-nav a#bikes:hover{ background-position: 0 -29px; }
+	
+	#frames #primary-nav a#frames{ background-position: 0 -70px; top:197px; left:-20px;}
+	
+	#frames #primary-nav a#parts{ background-position: 0 -100px; top:258px; left:-22px;}
+	#frames #primary-nav a#parts:hover{ background-position: 0 -130px;}
+	
+	#frames #primary-nav a#clothing{ background-position: -2px -161px; top:327px; left:-25px;}
+	#frames #primary-nav a#clothing:hover{	background-position: -2px -188px;}
+	
+	#frames #primary-nav a#stuff{ background-position: 0 -218px; top:390px; left:-20px;}
+	#frames #primary-nav a#stuff:hover{ background-position: 0 -250px;}
+	
+	#frames #primary-nav a#blog{ background-position: 0 -284px; top:460px; left:-5px;}
+	#frames #primary-nav a#blog:hover{ background-position: 0 -314px;}
+
+    #frames #primary-nav a#downloads{ background-position: -6px -348px; top:525px; left:-20px; width:106px;}
+	#frames #primary-nav a#downloads:hover{ background-position: -6px -377px;}
+	
+	#frames #primary-nav a#dealers{ background-position: 0 -410px; top:600px; left:-20px;}
+	#frames #primary-nav a#dealers:hover{ background-position: 0 -446px;}
+	
+	#frames #primary-nav a#contact{ background-position: 0 -476px; top:657px; left:-23px;}
+	#frames #primary-nav a#contact:hover{ background-position: 0 -506px;}
+	
+
+#frames #main-content{
+		background: transparent url('/images/template_images/frames_Detail_bg.png') 0 81px repeat-y;
+
+	}
+	
+#frames #description{
+		background: transparent url('/images/template_images/frames_Detail_top.png') 0 0 no-repeat;
+		padding-top: 80px;
+		padding-left: 50px;
+		min-height: 81px;
+		width: 600px;
+	}
+	
+#frames .content-footer{
+		height: 630px;
+		width: 1024px;
+		background: transparent url('/images/template_images/frames_footer.jpg') 0 0 no-repeat;
+	}
+
+#frames .mc-content-footer{
+		clear:both;
+		height: 630px;
+		width: 1024px;
+		background: transparent url('/images/template_images/frames_footer_mc.jpg') 0 0 no-repeat;
+}
+
+#frames #title{
+	height:50px;
+	width:254px;
+	margin-left:15px;	
+	margin-top:15px;
+	margin-bottom:15px;
+	
+	}
+	
+#frames #title h2{
+	font-family: verdana, sans-serif;
+	padding-left:30px;
+	padding-top:15px;
+	}
+	
+#frames #entries-list a{
+		float: left;
+		margin-right: 2px;
+		display: block;
+		height: 243px;
+		width: 285px;
+		text-align: center;
+		background: transparent url('/images/template_images/frame_btn_bg.png') 0 0 no-repeat;
+	}
+	
+#frames #geo-footnotes{
+		margin-top: 10px;
+		color: #666;
+		font-style: italic;
+		width: 550px;
+	}
+	
+#frames h2.felt{
+		font-size: 35px;
+		/*width: 150px;*/
+	}
+	
+#frames #gallery{
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	
+#frames .polaroid-container{
+		background: transparent url('/images/template_images/polariod1.jpg') 0 0 no-repeat;
+		padding: 33px 12px 41px 12px;
+	}
+	
+#frames .offset-box{
+		margin-left: 10px;
+	}
+	
+#frames #details-nav{
+		margin-left: -6px;
+		height: 325px;
+		width: 209px;
+		background: transparent url('/images/template_images/details_tabs.png') 0 0 no-repeat;
+	}
+	
+#frames .details-link{
+		height: 40px;
+		width: 190px;
+		margin-bottom: 10px;
+		margin-left: 10px;
+	}
+	
+#frames .details-link span{display:none;}
+	
+#frames #details{
+		margin-top: 30px;
+	}
+	
+#frames #details-content{
+		width: 624px;
+		background: transparent url('/images/template_images/geo_bg.jpg') 0 0 repeat-y;
+		margin-left: 209px;
+	}
+	
+#frames #details-footer{
+		width: 624px;
+		margin-left: 209px;
+	}
+	
+#frames .details-content-panel{
+		/*padding: 0 37px;*/
+		padding-left: 37px;
+	}
+	
+#frames #section-nav{
+		background: transparent url('/images/template_images/frames_sectionNav.jpg') right 0 no-repeat;
+		min-height: 640px;
+		height: auto !important;
+		height: 640px;
+		width: 227px;		
+	}
+	
+#frames #section-nav a{
+		text-decoration: none;
+		color: white;
+		background: transparent url('/images/template_images/frames_sectionNav_states.png') 0 0 no-repeat;
+		position: absolute;
+		right:0;
+	}
+	
+#frames #section-nav a span{
+		display: none;
+	}
+	
+#frames #section-nav #onex1{
+	width: 180px;
+	height: 35px;
+	top:88px;
+	background-position:0 -207px;
+}
+
+#frames #section-nav #onex1:hover{
+	background-position: 0 -247px;
+}
+
+
+#frames #section-nav #steamroller{
+		width: 180px;
+		height: 35px;
+		top: 133px;
+		background-position: 0 -648px;
+	}
+
+#frames #section-nav a#steamroller:hover{
+		background-position: 0 -682px;
+	}
+
+
+#frames #section-nav #cross_check{
+	width: 180px;
+	height: 35px;
+	top: 182px;
+	background-position: 0 -573px;
+}
+#frames #section-nav #cross_check:hover{ background-position: 0 -606px; }
+
+#frames #section-nav #instigator{
+	width: 190px;
+	height: 40px;
+	top: 272px;
+	background-position: 0 -502px;
+}
+#frames #section-nav #instigator:hover{background-position: 0 -537px;}
+
+#frames #section-nav #pacer{
+	width: 150px;
+	height: 32px;
+	top: 228px;
+	background-position: 0 -440px;
+}
+#frames #section-nav #pacer:hover{background-position: 0 -471px;}
+
+#frames #section-nav #karate_monkey{
+	width: 190px;
+	height: 38px;
+	top: 320px;
+	background-position: 0 -360px;
+}
+#frames #section-nav #karate_monkey:hover{background-position: 0 -397px;}
+
+#frames #section-nav #long_haul_trucker{
+	width: 190px;
+	height: 41px;
+	top: 358px;
+	background-position: 0 -280px;
+}
+#frames #section-nav #long_haul_trucker:hover{background-position: 0 -314px}
+
+#frames #section-nav #pugsley{
+	width: 150px;
+	height: 30px;
+	top: 410px;
+	background-position: -20px -138px;
+}
+#frames #section-nav #pugsley:hover{background-position: -20px -172px;}
+
+#frames #section-nav #conundrum{
+	width: 180px;
+	height: 31px;
+	top: 458px;
+	background-position: 0 -730px;
+}
+#frames #section-nav #conundrum:hover{background-position: 0 -760px;}
+
+#frames #section-nav #big_dummy{
+	width: 180px;
+	height: 41px;
+	top: 500px;
+	background-position: 0 -60px;
+}
+#frames #section-nav #big_dummy:hover{background-position: 0 -93px;}
+
+#frames #section-nav #travelers_check{
+	width: 160px;
+	height: 39px;
+	top: 560px;
+	right:15px;
+	background-position: 0 10px;
+}
+#frames #section-nav #travelers_check:hover{background-position: 0 -20px;}
+	
+#frames #details-content{
+		min-height: 300px;
+	}
+	
+	
+#frames #details-content h3 span{
+		display: none;
+	}
+	
+#frames #details-content h3{
+		height: 30px;
+		margin-bottom: 10px;
+		width: 550px;
+	}
+	
+#frames #details-content #specs h3{
+		background: #fff url('/images/template_images/details-titles.gif') 0 0 no-repeat;
+	}
+	
+#frames #details-content #geometry h3{
+		background: #fff url('/images/template_images/details-titles.gif') 0 -35px no-repeat;
+	}
+	
+#frames #details-content #related-items h3{
+		background: #fff url('/images/template_images/details-titles.gif') 0 -70px no-repeat;
+	}
+	
+#frames #details-content #highlights h3{
+		background: #fff url('/images/template_images/details-titles.gif') 0 -105px no-repeat;
+	}
+	
+#frames #details-content p{
+		font-size: 10px;
+	}
+	
+	
+#frames #details-content table{
+		font-size: 10px;
+		width: 550px;
+		padding:0;
+	}
+	
+#frames #details-content table th{
+		font-weight: bold;
+		width: 20%;
+		border-bottom: 1px solid #ddd;
+		padding: 8px 5px;
+	}
+	
+/*#bikes #details-content table#geo-chart th{
+		width: 33%;
+	}
+	*/
+#frames #details-content table#geo-chart th.anatomy-title{
+		width: auto;
+		text-align:right;
+	}
+	
+#frames #details-content table#geo-chart td{
+		text-align: right;
+	}
+	
+#frames #details-content table small{
+		font-size: 9px;
+		font-weight: normal;
+	}
+	
+#frames #details-content table td{
+		color: #333;
+		padding: 8px 5px;
+		border-bottom: 1px solid #ddd;
+		line-height: 16px;
+	}
+	
+#frames #details-content table th.anatomy-title{
+		background-color: #ccc;
+		padding: 7px 0 7px 5px;
+		color: #333;
+		border-bottom: 1px solid #999;
+	}
+	
+#frames #details-nav a{
+		background-image: url('/images/template_images/details-nav.png');
+		background-repeat:no-repeat;
+	}
+	
+#frames #details-nav #a-specs{ background-position: 60px -10px; }
+#frames #details-nav #a-specs:hover{ background-position: 60px -60px;}
+	
+#frames #details-nav #a-geometry{background-position: -190px -10px; }
+#frames #details-nav #a-geometry:hover{background-position: -190px -60px; }
+	
+#frames #details-nav #a-related-items{background-position: -450px -10px;}
+#frames #details-nav #a-related-items:hover{background-position: -450px -60px;}
+	
+#frames #details-nav #a-highlights{background-position: -680px -5px;}
+#frames #details-nav #a-highlights:hover{background-position: -680px -55px;}
+	
+	
+#frames #details #geo-metric{ display: none;}
+#frames #details #size-chart-metric{display: none;}
+
+.sIFR-active #frames #entries-list h2.felt{
+	font-size: 50px;
+	padding:0;
+	padding-left: 20px;
+	padding-top: 8px;
+}
+
+-->
+</style>
+
+	
+	
+
+	<script type="text/javascript" charset="utf-8">
+		currentpanel = "geometry";
+		$(document).ready(function(){
+			
+			$("a[rel='gallery']").colorbox();
+			
+		/*	$('#gallery div.offset-box').each(function (){
+				var rand_padding = Math.round(Math.random() * 30);
+				var rand_margin = Math.round(Math.random() * 20);
+				$(this).css("padding-top", rand_padding + "px");
+				$(this).css("margin-left", rand_margin + "px"); 
+			});
+*/
+		
+
+			//set panel to show
+			var panels = new Array("specs", "geometry", "related-items", "highlights");
+			if(window.location.hash.length > 1){
+				var active_hash = window.location.hash;
+			}
+			else{ var active_hash = '#geometry';}
+			for(var i=0; i<panels.length; i++){
+				
+				if(active_hash == "#" + panels[i]){
+					$('#'+panels[i]).show();
+					currentpanel = panels[i];
+				}
+				else{$('#'+panels[i]).hide();}
+			};
+
+			$('.details-link').click(function(){
+				toggleDetails($(this).attr('id'));
+				return false;
+			});
+			
+			
+
+			$('#inches').click(function(){
+				$('#geo-metric').fadeOut('fast', function(){$('#geo-english').fadeIn('fast')});
+				return false;
+			});
+
+			$('#metric').click(function(){
+				$('#geo-english').fadeOut('fast', function(){$('#geo-metric').fadeIn('fast')});	
+				return false;
+			});
+			
+			$('#size-chart-inches').click(function(){
+				$('#size-chart-metric').fadeOut('fast', function(){$('#size-chart-english').fadeIn('fast')});
+				return false;
+			});
+
+			$('#size-chart-mm').click(function(){
+				$('#size-chart-english').fadeOut('fast', function(){$('#size-chart-metric').fadeIn('fast')});	
+				return false;
+			});
+			
+			
+		
+		});
+
+		function toggleDetails(id){
+			var search_id = id.substr(2);
+			/*if(window.location.hash != "#" + search_id){*/
+				//window.location.hash = search_id;
+				$('#'+currentpanel).fadeOut('fast', function(){$('#'+search_id).fadeIn('fast')});
+				currentpanel = search_id;
+			//}
+			
+		}
+	
+
+	</script>
+	
+</head>
+<body id="frames">
+<div id="container">
+	
+<div id="page-header">
+	<a class="home" href="/">&nbsp;</a>
+	<div id="search-container">
+	<form method="post" action="http://surlybikes.com/"  >
+<div class='hiddenFields'>
+<input type="hidden" name="ACT" value="19" />
+<input type="hidden" name="XID" value="e41808ca4a8ea831294094e521ee28300b5a8658" />
+<input type="hidden" name="RP" value="search/results" />
+<input type="hidden" name="NRP" value="" />
+<input type="hidden" name="RES" value="" />
+<input type="hidden" name="status" value="" />
+<input type="hidden" name="weblog" value="" />
+<input type="hidden" name="search_in" value="everywhere" />
+<input type="hidden" name="where" value="all" />
+<input type="hidden" name="site_id" value="1" />
+</div>
+
+
+	<div id="search-field">
+	<input type="text" name="keywords" id="keywords" value="" size="18" maxlength="100" />
+	</div>
+    <div id="search-field-btn">
+	<input type="image" src="/images/template_images/frames_search_btn.png" width="79px" height="20px" alt="Search" />
+    </div>
+	</form>
+	</div>
+</div>
+
+<div id="primary-nav">
+	<a id="bikes" class="nav1" href="/bikes/"><span>Bikes</span></a>
+	<a id="frames" class="nav2" href="/frames/"><span>Frames</span></a>
+	<a id="parts" class="nav3" href="/parts/"><span>Parts</span></a>
+        <a id="clothing" class="nav4" href="/clothing/"><span>Clothing</span></a>
+	<a id="stuff" class="nav5" href="/stuff/"><span>Stuff</span></a>
+	<a id="blog" class="nav6" href="/blog/"><span>Blog</span></a>
+    <a id="downloads" class="nav7" href="/downloads/"><span>Downloads</span></a>
+    <a id="dealers" class="nav8" href="/dealers/"><span>Dealers</span></a>
+    <a id="contact" class="nav9" href="/contact/"><span>Contact</span></a>
+</div>
+
+
+
+<div> <!-- Fixes a problem in IE 7 -->
+<div id="section-nav">
+	
+	
+	<a id="onex1" href="http://surlybikes.com/frames/1x1_frame/"><span>1x1 Frame</span></a>
+	
+	<a id="steamroller" href="http://surlybikes.com/frames/steamroller_frame/"><span>Steamroller Frame</span></a>
+	
+	<a id="cross_check" href="http://surlybikes.com/frames/cross_check_frame/"><span>Cross Check Frame</span></a>
+	
+	<a id="instigator" href="http://surlybikes.com/frames/instigator_frame/"><span>Instigator Frame</span></a>
+	
+	<a id="pacer" href="http://surlybikes.com/frames/pacer_frame/"><span>Pacer Frame</span></a>
+	
+	<a id="karate_monkey" href="http://surlybikes.com/frames/karate_monkey_frame/"><span>Karate Monkey Frame</span></a>
+	
+	<a id="long_haul_trucker" href="http://surlybikes.com/frames/long_haul_trucker_frame/"><span>Long Haul Trucker Frame</span></a>
+	
+	<a id="pugsley" href="http://surlybikes.com/frames/pugsley_frame/"><span>Pugsley Frame</span></a>
+	
+	<a id="conundrum" href="http://surlybikes.com/frames/conundrum_frame/"><span>Conundrum Frame</span></a>
+	
+	<a id="big_dummy" href="http://surlybikes.com/frames/big_dummy_frame/"><span>Big Dummy Frame</span></a>
+	
+	<a id="travelers_check" href="http://surlybikes.com/frames/travelers_check_frame/"><span>Travelers Check Frame</span></a>
+	
+</div>
+</div>
+
+
+	<div id="main-content">
+
+		
+
+		<div id="description">
+			<h2 class="felt">Pugsley Frame</h2>
+			<p>The premise behind Pugsley&rsquo;s design is the allowance of tires with a larger-than-average                               footprint. It was created to go where other bikes may flounder. Our frame and fork will                               accept 4" tires on 26" rims. The flotation and traction gained by using large volume,                               low-pressure tires (we highly recommend the Surly Endomorph                               3.7 tires) can get you over and through otherwise unrideable                               terrain: ice, snow, sand, mud, wet rocks                               and roots. In many conditions, bigger is better.<br /> <br /> There are design problems associated with                               using wide tires, however: the tire can rub                               on the chain, the chainstays, and the front                               derailleur. We&rsquo;ve addressed these issues                               by using a 100mm-wide bottom bracket                               shell and providing an E-type front                               derailleur mount. The 100mm shell                               allows us to widen the chainstays for                               more tire/frame clearance, and it moves the                               chainrings outward for more chain/tire clearance.                               An E-type bottom bracket-mounted front derailleur positions the derailleur cage                               outboard of the tire. In order to maintain a good chainline with this setup, we offset                               the rear hub 17.5mm to the drive side...the same distance that the chainrings moved                               outward (compared to the chainline of a bike using a 68mm or 73mm bottom bracket                               shell). The result is a straight chainline and the ability to use a standard drivetrain                               (compact mountain triple crankset with a full cassette of cogs on a 135mm-spaced hub)                               without chain/tire/front derailleur interference. Pugsley has horizontal rear drops                               (sometimes called track ends) with a derailleur hanger, so you can set it up as a singlespeed                               or internally-geared rig if you don&rsquo;t want to use derailleurs.<br /> <br /> <strong>Note: We offer a new offset Large Marge rim extrusion to give you more disc-side dish and                               more even spoke tension. Use these offset Large Marge rims on the Pugsley. Non-Surly rims,                               intended for use in Pugsley wheels, should be drilled 6-12mm offset to the drive side.<br /> <br /> </strong>Now, think about trying to shove a 4" (102mm) tire through the dropouts of a fork                               designed to accept a standard 100mm-wide front hub. Add a disc brake caliper to narrow                               the gap. It all adds up to a big hassle when trying to get a wheel, with an inflated tire,                               in and out of the fork. We solved the problem by designing the fork to use a wider hub.                               Pugsley uses a 135mm hub on the rear, so it seemed logical to use a 135mm hub on the                               front, too. We offset the fork the same distance as the rear end, so the wheels will be                               interchangeable. Why would you want interchangeable wheels? If you&rsquo;re using your rig as                               a single-speed, differently-sized freewheels can be installed on each wheel to give you high                               and low gear options. You may want a fixed-gear/freewheel option, in case there is a risk                               of your freewheel seizing up or not engaging when riding in extreme conditions. A fixed                               cog always moves you forward, and it can be used to slow you down if you choose not to                               use brakes or if your brakes stop working. If you use the same model of hub front and                               rear, you&rsquo;ll only use 1 or 2 lengths of spokes versus 3 or 4&hellip;less confusion and fewer                               spare spokes to carry if you&rsquo;re on a remote tour. If you decide that you don&rsquo;t want to                               use the Pugsley fork, our Instigator fork (as well as many 100mm-travel suspension                               forks) has the same axle-to-crown length.<br /> <br /> We provide disc brake tabs on the frame and fork. If you&rsquo;re using discs, you&rsquo;ll have                               to use rear brakes or rear brake adapters on the frame and the fork. Absorb that for                               a second: rear hub and rear brake on both ends of the bike. Not everybody needs or wants                               disc brakes, so we also provide 120mm-spaced cantilever pivots for those of you who                               want to run traditional cantilevers. Keep in mind you&rsquo;ll need to use our Large Marge rims                               to use these types of brakes. The pivots are thread-in type, so they&rsquo;re removable if you                               don&rsquo;t want &lsquo;em on there. Linear-pull brakes will not work with large-volume tires due                               to crossover wire interference.<br /> <br /> Who should ride Pugsley? Hunters of all types (animal, mineral, or vegetable), beach/desert                               riders, snow/ice riders, wilderness explorers, and anybody else in need of a bike that                               will provide extra stability, traction, and floatation when the terrain gets loose and                               unpredictable. If you fall into any one of those categories, you should ride a Pugsley.</p>
+						<p>
+			Colors: <strong>Metallic Thunderhead Grey</strong>
+			</p>
+						
+				<img src="/uploads/frames/FM3073.jpg" />
+			
+		</div>
+		<div id="gallery">
+			
+			
+			<div class="offset-box"><div class="polaroid-container"><a rel="gallery" href="/uploads/frames/FM3073-04.jpg"><img src="/images/sized/uploads/frames/FM3073-04-125x125.jpg" width="125" height="125"  alt="" /></a></div></div>
+			
+			<div class="offset-box"><div class="polaroid-container"><a rel="gallery" href="/uploads/frames/FM3073-01.jpg"><img src="/images/sized/uploads/frames/FM3073-01-125x125.jpg" width="125" height="125"  alt="" /></a></div></div>
+			
+			<div class="offset-box"><div class="polaroid-container"><a rel="gallery" href="/uploads/frames/FM3073-02.jpg"><img src="/images/sized/uploads/frames/FM3073-02-125x125.jpg" width="125" height="125"  alt="" /></a></div></div>
+			
+			<div class="offset-box"><div class="polaroid-container"><a rel="gallery" href="/uploads/frames/FM3073-03.jpg"><img src="/images/sized/uploads/frames/FM3073-03-125x125.jpg" width="125" height="125"  alt="" /></a></div></div>
+			
+			<div class="offset-box"><div class="polaroid-container"><a rel="gallery" href="/uploads/frames/FM3073-03_1.jpg"><img src="/images/sized/uploads/frames/FM3073-03_1-125x125.jpg" width="125" height="125"  alt="" /></a></div></div>
+			
+			<div style="clear:both"></div> <!-- would like to be able to remove this -->
+		</div>
+		<div id="details">
+			<div id="details-nav">
+				<a class="details-link" id="a-geometry" href="javascript:#geometry"><span>Geometry</span></a>
+				<a class="details-link" id="a-related-items" href="#related-items"><span>Related Items</span></a>
+				<a class="details-link" id="a-highlights" href="#highlights"><span>Frame Highlights</span></a>
+			</div>
+			<div id="details-content">
+				<img src="/images/template_images/geo_top.jpg" />
+				<div id="geometry" class="details-content-panel">
+					<h3><span>Geometry</span></h3>
+
+						
+							<img src="/uploads/bikes/pugsley_geo.gif" />
+
+							<div id="geo-english">
+							<table id="geo-chart" cellspacing="0" class="details-content-panel">
+								<tr><th class="anatomy-title"><a id="metric" href="javascript:">Switch to mm</a></th>
+									
+									<th class="anatomy-title">small</th>
+									
+									<th class="anatomy-title">medium</th>
+									
+									<th class="anatomy-title">large</th>
+									
+									<th class="anatomy-title">x-large</th>
+									
+									<th class="anatomy-title">&nbsp;</th>
+								</tr>
+															<tr><th>Seat Tube Length<br/> <small>(Center-Top)</small></th>
+									
+									<td>16.0</td>
+									
+									<td>18.0</td>
+									
+									<td>20.0</td>
+									
+									<td>22.0</td>
+									
+									<td></td>
+								</tr>
+							
+															<tr>
+									<th>Top Tube Length<br/> <small>(Center-Top)</small></th>
+									
+									<td>21.8</td>
+										
+									<td>22.4</td>
+										
+									<td>23.1</td>
+										
+									<td>24.0</td>
+									
+									<td>&nbsp;</td>
+								</tr>
+																						<tr>
+									<th>Effective Top Tube Length<br/> <small>(Center-Center)</small></th>
+								
+									<td>22.9</td>
+								
+									<td>23.5</td>
+								
+									<td>24.0</td>
+								
+									<td>24.6</td>
+								
+								<td>&nbsp;</td>
+								</tr>
+																						<tr>
+									<th>Head Tube Angle</th>
+									
+									<td>70.5</td>
+									
+									<td>70.5</td>
+									
+									<td>70.5</td>
+									
+									<td>70.5</td>
+									
+									<td>&nbsp;</td>
+								</tr>
+																						<tr>
+									<th>Seat Tube Angle</th>
+									
+									<td>72.0</td>
+								
+									<td>72.0</td>
+								
+									<td>72.0</td>
+								
+									<td>72.0</td>
+								
+								<td>&nbsp;</td>
+									</tr>
+							
+															<tr><th>BB Drop</th>
+									
+									<td>2.2</td>
+									
+									<td>2.2</td>
+									
+									<td>2.2</td>
+									
+									<td>2.2</td>
+									
+								<td>&nbsp;</td>
+								</tr>
+																						<tr><th>Chainstay Length</th>
+									
+									<td>17.6</td>
+									
+									<td>17.6</td>
+									
+									<td>17.6</td>
+									
+									<td>17.6</td>
+									
+									<td>&nbsp;</td>
+								</tr>
+																						<tr><th>Wheelbase</th>
+									
+									<td>42.0</td>
+									
+									<td>42.6</td>
+									
+									<td>43.2</td>
+									
+									<td>43.8</td>
+									
+									<td>&nbsp;</td>
+								</tr>
+																						<tr>
+									<th>Seat Tube Angle</th>
+									
+									<td>72.0</td>
+									
+									<td>72.0</td>
+									
+									<td>72.0</td>
+									
+									<td>72.0</td>
+									
+									<td>&nbsp;</td>
+							</tr>
+																													<tr>
+									<th>Standover Height</th>
+									
+									<td>30.8</td>
+									
+									<td>32.0</td>
+									
+									<td>33.3</td>
+									
+									<td>34.5</td>
+									
+									<td>&nbsp;</td>
+								</tr>
+																						<tr>
+									<th>Head Tube Length</th>
+									
+									<td>4.0</td>
+									
+									<td>4.3</td>
+									
+									<td>5.1</td>
+									
+									<td>5.9</td>
+									
+									<td>&nbsp;</td>
+								</tr>
+																						<tr>
+									<th>Frame Weight</th>
+									
+									<td>5.56</td>
+									
+									<td>5.66</td>
+									
+									<td>5.88</td>
+									
+									<td>6.1</td>
+									
+									<td>&nbsp;</td>
+								</tr>
+														</table>
+							<div id="geo-footnotes"><p>Standover height measured using Surly Endomorph 3.7&#8221; tire measuring 740mm in diameter. 
+</p></div>
+						</div>
+						<div id="geo-metric">
+
+								<table id="geo-chart" cellspacing="0" class="details-content-panel">
+											<tr><th class="anatomy-title"><a id="inches" href="javascript:">Switch to inches</a></th>
+												
+												<th class="anatomy-title">small</th>
+												
+												<th class="anatomy-title">medium</th>
+												
+												<th class="anatomy-title">large</th>
+												
+												<th class="anatomy-title">x-large</th>
+												
+											</tr>
+																					<tr><th>Seat Tube Length<br/> <small>(Center-Top)</small></th>
+												
+												<td>406.4</td>
+												
+												<td>457.2</td>
+												
+												<td>508.0</td>
+												
+												<td>558.8</td>
+												
+												<td>&nbsp;</td>
+											</tr>
+										
+																					<tr>
+												<th>Top Tube Length<br/> <small>(Center-Top)</small></th>
+												
+												<td>552.5</td>
+													
+												<td>569.5</td>
+													
+												<td>587.3</td>
+													
+												<td>608.6</td>
+												
+												<td>&nbsp;</td>
+											</tr>
+																															<tr>
+												<th>Effective Top Tube Length<br/> <small>(Center-Center)</small></th>
+											
+												<td>580.9</td>
+											
+												<td>595.7</td>
+											
+												<td>610.1</td>
+											
+												<td>625.0</td>
+											
+											<td>&nbsp;</td>
+											</tr>
+																															<tr>
+												<th>Head Tube Angle</th>
+												
+												<td>70.5</td>
+												
+												<td>70.5</td>
+												
+												<td>70.5</td>
+												
+												<td>70.5</td>
+												
+											<td>&nbsp;</td>
+											</tr>
+																															<tr>
+												<th>Seat Tube Angle</th>
+												
+												<td>72.0</td>
+											
+												<td>72.0</td>
+											
+												<td>72.0</td>
+											
+												<td>72.0</td>
+											
+											<td>&nbsp;</td>
+											</tr>
+																															<tr><th>BB Drop</th>
+												
+												<td>55.0</td>
+												
+												<td>55.0</td>
+												
+												<td>55.0</td>
+												
+												<td>55.0</td>
+												
+												<td>&nbsp;</td>
+											</tr>
+																															<tr><th>Chainstay Length</th>
+												
+												<td>448.1</td>
+												
+												<td>448.1</td>
+												
+												<td>448.1</td>
+												
+												<td>448.1</td>
+												
+												<td>&nbsp;</td>
+											</tr>
+																															<tr><th>Wheelbase</th>
+												
+												<td>1067.3</td>
+												
+												<td>1082.3</td>
+												
+												<td>1097.3</td>
+												
+												<td>1112.6</td>
+												
+												<td>&nbsp;</td>
+											</tr>
+																																									<tr>
+												<th>Standover Height</th>
+												
+												<td>782.2</td>
+												
+												<td>811.6</td>
+												
+												<td>845.8</td>
+												
+												<td>875.8</td>
+												
+												<td>&nbsp;</td>
+											</tr>
+																															<tr>
+												<th>Head Tube Length</th>
+												
+												<td>102.0</td>
+												
+												<td>110.0</td>
+												
+												<td>130.0</td>
+												
+												<td>150.0</td>
+												
+												<td>&nbsp;</td>
+											</tr>
+																															<tr>
+												<th>Frame Weight</th>
+												
+												<td>5.56</td>
+												
+												<td>5.66</td>
+												
+												<td>5.88</td>
+												
+												<td>6.1</td>
+												
+												<td>&nbsp;</td>
+											</tr>
+																		</table>
+								<div id="geo-footnotes"><p>Standover height measured using Surly Endomorph 3.7&#8221; tire measuring 740mm in diameter. 
+</p></div>
+								</div>
+							
+							
+				</div>
+				<div id="related-items" class="details-content-panel">
+					<h3><span>Related Info</span></h3>
+										
+									</div>
+				<div id="highlights" class="details-content-panel">
+					<h3><span>Frame Highlights</span></h3>
+					<table cellspacing="0">
+					
+						
+						<tr><th>Tubing</th><td>100% Surly 4130 CroMoly steel. Main triangle double-butted. TIG-welded</td></tr>
+						
+						<tr><th>Rear dropouts</th><td>Surly horizontal dropouts with derailleur hanger, 135mm-spaced, offset 17.5mm</td></tr>
+						
+						<tr><th>Brake compatibility</th><td>Most rear International Standard disc brakes (on the frame and fork) or traditional cantilever-type rim brakes (120mm spaced, for use with Large Marge rims)</td></tr>
+						
+						<tr><th>Braze-ons</th><td>Cantilever bosses with removable pivots, dual water bottle mounts, top tube cable housing guides for use with continuous housing, fender and rack eyelets</td></tr>
+						
+						<tr><th>Seatpost diameter</th><td>27.2mm</td></tr>
+						
+						<tr><th>Seatpost clamp diameter</th><td>30.0mm, Surly Constrictor included</td></tr>
+						
+						<tr><th>Headset</th><td>1-1/8" threadless</td></tr>
+						
+						<tr><th>Front derailleur</th><td>E-type</td></tr>
+						
+						<tr><th>Bottom bracket shell</th><td>100mm wide, 1.37 x 24t</td></tr>
+						
+						<tr><th>Chainring clearance</th><td>Compact triple: 22-32-44t</td></tr>
+						
+						<tr><th>Fork</th><td>Suspension-corrected (100mm travel)…447mm axle to crown, tapered straight blade, 4130 CroMoly. International Standard rear disc mount and removable cantilever pivots spaced 120mm. 135mm-spaced dropouts, 17.5mm offset</td></tr>
+						
+						<tr><th>Color</th><td>Metallic Thunderhead Grey</td></tr>
+						
+						<tr><th>Weight</th><td>18" = 5.66 lbs (2.57 kg)
+Fork - uncut = 2.52 lbs (1.14 kg)</td></tr>
+						
+					
+					</table>
+				</div>
+			</div>
+			<div id="details-footer"><img src="/images/template_images/geo_bottom.jpg" /></div>
+		</div>
+
+		
+
+	</div>
+
+
+<div id="page-footer">
+	<p><a href="/"><img src="/images/template_images/small-logo.png" alt="Surly" /></a><br/>
+		<a href="http://surlybikes.com/dealers/dealer_locator/">Dealer Locator</a> &bull; email: <span id='eeEncEmail_vVwhG2NOGr'>.(JavaScript must be enabled to view this email address)</span><script type="text/javascript">
+//<![CDATA[
+var l=new Array();
+var output = '';
+l[0]='>';l[1]='a';l[2]='/';l[3]='<';l[4]=' 109';l[5]=' 111';l[6]=' 99';l[7]=' 46';l[8]=' 115';l[9]=' 101';l[10]=' 107';l[11]=' 105';l[12]=' 98';l[13]=' 121';l[14]=' 108';l[15]=' 114';l[16]=' 117';l[17]=' 115';l[18]=' 64';l[19]=' 121';l[20]=' 98';l[21]=' 114';l[22]=' 101';l[23]=' 100';l[24]='>';l[25]='\"';l[26]=' 109';l[27]=' 111';l[28]=' 99';l[29]=' 46';l[30]=' 115';l[31]=' 101';l[32]=' 107';l[33]=' 105';l[34]=' 98';l[35]=' 121';l[36]=' 108';l[37]=' 114';l[38]=' 117';l[39]=' 115';l[40]=' 64';l[41]=' 121';l[42]=' 98';l[43]=' 114';l[44]=' 101';l[45]=' 100';l[46]=':';l[47]='o';l[48]='t';l[49]='l';l[50]='i';l[51]='a';l[52]='m';l[53]='\"';l[54]='=';l[55]='f';l[56]='e';l[57]='r';l[58]='h';l[59]='a ';l[60]='<';
+for (var i = l.length-1; i >= 0; i=i-1){ 
+if (l[i].substring(0, 1) == ' ') output += "&#"+unescape(l[i].substring(1))+";"; 
+else output += unescape(l[i]);
+}
+document.getElementById('eeEncEmail_vVwhG2NOGr').innerHTML = output;
+//]]>
+</script><br/>
+		<a href="/">Home</a> &bull;
+		<a id="bikes" href="/bikes/">Bikes</a> &bull;
+		<a id="frames" href="/frames/">Frames</a> &bull;
+		<a id="parts" href="/parts/">Parts</a> &bull;
+	    <a id="clothing" href="/clothing/">Clothing</a> &bull;
+		<a id="stuff" href="/stuff/">Stuff</a> &bull;
+		<a id="blog" href="/blog/">Blog</a> &bull;
+	    <a id="downloads" href="/downloads/">Downloads</a> &bull;
+	    <a id="dealers" href="/dealers/">Dealers</a> &bull;
+	    <a id="contact" href="/contact/">Contact</a><br/>
+		&copy; 2009 Copyright Surly all rights reserved
+	</p>
+	<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+	var pageTracker = _gat._getTracker("UA-3025922-4");
+	pageTracker._initData();
+	pageTracker._trackPageview();
+	</script>
+</div>
+</div>
+
+
+</body>
+</html>
