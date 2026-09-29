@@ -1,0 +1,32 @@
+{
+  "label": "Surly Pugsley design explanation",
+  "requested_url": "https://surlybikes.com/pages/pugsley",
+  "resolved_url": "https://surlybikes.com/pages/pugsley",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 168576,
+  "sha256": "4d102acb79198119c34cb1f48baa05978b565963d37104f185a7b16d7d130c1a",
+  "body": "pages/7df829e2974b3228153c.body",
+  "headers": "pages/7df829e2974b3228153c.headers",
+  "error": "",
+  "retrieved_utc": "2026-09-29T01:37:39.269486+00:00",
+  "title": "Pugsley\n \u2013 Surly Bikes",
+  "status": "reading-copy",
+  "embedded_images": [
+    {
+      "label": "Pugsley\n \u2013 Surly Bikes image",
+      "requested_url": "https://surlybikes.com/cdn/shop/files/Info_Hole_1500x1000_806fca68-d19f-4f85-b890-98e188f13a12.jpg?v=1741044630&width=3840",
+      "resolved_url": "https://surlybikes.com/cdn/shop/files/Info_Hole_1500x1000_806fca68-d19f-4f85-b890-98e188f13a12.jpg?v=1741044630&width=3840",
+      "http_status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 182027,
+      "sha256": "4466d020a308fccce2dec74f8d77167a847b95d3411691ee37cc6e752ffcb0f4",
+      "body": "reading-assets/3d4b481ec1ef58905ee7.body",
+      "headers": "reading-assets/3d4b481ec1ef58905ee7.headers",
+      "error": "",
+      "retrieved_utc": "2026-09-29T01:54:37.728176+00:00"
+    }
+  ],
+  "unresolved_images": [],
+  "reading_path": "reference-4/reading.html"
+}

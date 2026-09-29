@@ -1,0 +1,40 @@
+{
+  "label": "Neck Romancer Pug product page",
+  "requested_url": "https://web.archive.org/web/20120524090255id_/http://surlybikes.com/bikes/neck_romancer_pug",
+  "resolved_url": "https://web.archive.org/web/20120524090255id_/http://surlybikes.com/bikes/neck_romancer_pug",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 25095,
+  "sha256": "2f58b44c938870fe013fb5b4698264143d9aae397bbf3944d263ed21dbc2d6c5",
+  "body": "pages/ffa60c304660f0296862.body",
+  "headers": "pages/ffa60c304660f0296862.headers",
+  "error": "",
+  "retrieved_utc": "2026-09-29T01:50:34.098812+00:00",
+  "original_url": "http://surlybikes.com/bikes/neck_romancer_pug",
+  "available_capture": "20120524090255",
+  "availability": {
+    "label": "Neck Romancer Pug product page",
+    "requested_url": "https://archive.org/wayback/available?url=http%3A%2F%2Fsurlybikes.com%2Fbikes%2Fneck_romancer_pug&timestamp=20120601",
+    "resolved_url": "https://archive.org/wayback/available?url=http%3A%2F%2Fsurlybikes.com%2Fbikes%2Fneck_romancer_pug&timestamp=20120601",
+    "http_status": 200,
+    "content_type": "application/json",
+    "bytes": 283,
+    "sha256": "ac6b9cbf5fdce9dff5cca2db2b1c06a67c9eda6f6c61e4d032fbd1385561bae9",
+    "body": "availability/c2fddf1e49bd160534e4.body",
+    "headers": "availability/c2fddf1e49bd160534e4.headers",
+    "error": "",
+    "retrieved_utc": "2026-09-29T01:50:33.469755+00:00"
+  },
+  "title": "Neck Romancer Pug | Bikes | Surly Bikes",
+  "status": "reading-copy-with-image-gaps",
+  "embedded_images": [],
+  "unresolved_images": [
+    "https://web.archive.org/web/20120524090255id_/http://surlybikes.com/images/template_images/btn_safety.png",
+    "https://web.archive.org/web/20120524090255id_/http://surlybikes.com/uploads/bikes/bk_pugsley_blk_ops.jpg",
+    "https://web.archive.org/web/20120524090255id_/http://surlybikes.com/uploads/bikes/swatch_blk.gif",
+    "https://web.archive.org/web/20120524090255id_/http://surlybikes.com/uploads/bikes/pugsley2011_geo.gif",
+    "https://web.archive.org/web/20120524090255id_/http://surlybikes.com/images/new/btn_more_bikes.png",
+    "https://web.archive.org/web/20120524090255id_/http://surlybikes.com/images/template_images/small-logo.png"
+  ],
+  "reading_path": "reference-6/reading.html"
+}

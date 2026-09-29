@@ -6,6 +6,6 @@ Explore the Surly Pugsley's original design, compare published frame geometry, a
 - [Compare frame geometry](frame/geometry.md): find Surly's published dimensions for the 2016 legacy and Gen. 2 references.
 - [Find catalogs and manuals](archive/index.md): browse selected Surly catalogs, crank instructions, and preserved product pages.
 
-Pugsley Wiki is an independent collection for people curious about these bikes and the documents behind them.
+Pugsley Wiki is an independent owner's reference and archive for people riding, maintaining, and learning about these bikes.
 
 [About this site](about.md)

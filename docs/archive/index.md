@@ -26,16 +26,6 @@ Find the documents behind the Pugsley's design, dimensions, and components. Star
 
 [Open the 2016 legacy and Gen. 2 references](pugsley-geometry/index.md) for Surly's product descriptions, geometry, and linked frame sheets. These are present-day captures of legacy references; their capture dates do not establish earlier model-year specifications.
 
-[Open the 2010 frame-page capture](pugsley-frame-2010/offline.html) to explore an earlier presentation of the Pugsley, or [view the April 21, 2010 snapshot in the Internet Archive](https://web.archive.org/web/20100421123801/http://surlybikes.com/frames/pugsley_frame).
+[Browse the early Pugsley archive](pugsley-history/index.md) for frame-page captures from 2009–2011, the 2012 Neck Romancer page, and Surly's design and hub-compatibility articles.
 
-The 2010 page was published by Surly and captured by the Internet Archive on April 21, 2010. Its original publication date is not established. The local copy is incomplete: some original assets and links are unresolved. Use the Internet Archive replay for comparison.
-
-[Download all collected 2010 files](pugsley-frame-2010/collected-files.zip), including [source HTML](pugsley-frame-2010/source.html), the [capture and asset record](pugsley-frame-2010/manifest.json), and the [capture index](pugsley-frame-2010/capture-index.json). The index records capture history; it does not mean every capture was downloaded.
-
-## About the preserved copies
-
-The collection pages describe where their copies came from and how they were preserved. Catalogs and crank instructions are available as full PDFs; the preserved product-page collection includes local stylesheets, images, and a downloadable bundle.
-
-The interview's [HTML copy](interview_with_dave_gray_from_surly_bikes/article.html), Markdown copy, and associated images are retained unchanged. [Original publication at Fat-Bike.com](https://fat-bike.com/2015/05/interview-with-dave-gray-from-surly-bikes/).
-
-[Back to Home](../index.md)
+[Open the restored April 2010 frame page](pugsley-frame-2010/offline.html) to see its original background artwork and navigation graphics. The reconstruction combines assets from nearby captures; four full-size gallery images remain unavailable, with thumbnails preserved. The archive guide records the remaining gaps and provides original source files and collection downloads.
