@@ -29,7 +29,7 @@ These are captures of the current Surly website, collected September 29, 2026 UT
 
 [Download the restored 2010 page bundle](../pugsley-frame-2010/collected-files.zip), including the website reading copy, original HTML and stylesheet, recovered assets, and [restoration record](../pugsley-frame-2010/restoration-record.json). Its original manifest describes the earlier capture; the restoration record documents recovered assets and remaining gaps.
 
-Pug Ops remains a collection gap. A January 2012 capture of the old frame URL proved to be an error page and is not presented as a product reference. Additional model years and missing images remain research tasks.
+A standalone Pug Ops product-page capture remains a collection gap; see the [2014 catalog entry](../surly-documents/surly-2014-catalog.pdf#page=26) and [2015 Ops geometry and builds](../surly-documents/surly-2015-catalog.pdf#page=37) for references already held. A January 2012 capture of the old frame URL proved to be an error page and is not presented as a product reference. Additional model years and missing images remain research tasks.
 
 For later versions, see the [2016 legacy and Gen. 2 preserved pages](../pugsley-geometry/index.md). For published dimensions, use the [geometry guide](../../frame/geometry.md).
 
